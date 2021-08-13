@@ -28,13 +28,14 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 
 ![JoeMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=joematt&show_icons=true&theme=radical&count_private=true)
 
+### Projects I own/manage:
+
 <a href="https://github.com/Provenance-EMU/Provenance">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=provenance-emu&repo=provenance" />
 </a>
 <a href="https://github.com/HeroTransitions/Hero">
-  <img align="center" src="ttps://github-readme-stats.vercel.app/api/pin/?username=HeroTransitions&repo=hero" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeroTransitions&repo=hero" />
 </a>
-<br />
 <a href="https://github.com/RxSwiftCommunity/RxReachability">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rxswiftcommunity&repo=rxreachability" />
 </a>
