@@ -17,10 +17,9 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 ### Connect with me:
 
 [<img align="left" alt="joemattiello.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+[<img align="left" alt="YouTube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube-prov]
+[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter-prov]
 [<img align="left" alt="Joe Mattiello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 [<img align="left" alt="Joe Mattiello | Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 
 <br />
@@ -40,11 +39,12 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rxswiftcommunity&repo=rxreachability" />
 </a>
 
+<!--
+
 ### Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=provenance-emu&hide=javascript,max)](https://github.com/provenance-emu/provenance)
 
-<!--
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -83,7 +83,9 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 
 [website]: https://joemattiello.dev
 [twitter]: https://twitter.com/joemattiello
+[twitter-prov]: https://twitter.com/provenanceapp
 [youtube]: https://youtube.com/joemattiello
+[youtube-prov]: https://www.youtube.com/channel/UCKeN6unYKdayfgLWulXgB1w
 [instagram]: https://instagram.com/joemattiello
 [linkedin]: https://linkedin.com/in/joemattiello
 [twitch]: https://twitch.tv/joemattiello/
@@ -91,6 +93,4 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 [herogithub]: https://github.com/HeroTransitions/Hero
 [rxreachabilitygithub]: https://github.com/RxSwiftCommunity/RxReachability
 [provenancedevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
