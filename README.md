@@ -21,8 +21,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="Joe Mattiello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-[<img align="left" alt="Joe Mattiello | Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
-" />][twitch]
+[<img align="left" alt="Joe Mattiello | Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 
 <br />
 <br />
@@ -35,6 +34,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 <a href="https://github.com/HeroTransitions/Hero">
   <img align="center" src="ttps://github-readme-stats.vercel.app/api/pin/?username=HeroTransitions&repo=hero" />
 </a>
+<br />
 <a href="https://github.com/RxSwiftCommunity/RxReachability">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rxswiftcommunity&repo=rxreachability" />
 </a>
