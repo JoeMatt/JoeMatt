@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 </details>
 
 <details>
-  <summary>:zap: Latest Posts</summary>
+  <summary>:zap: Latest Videos</summary>
 
-   <!-- BLOG-POST-LIST:START -->
-   <!-- BLOG-POST-LIST:END -->
-
+<!-- YOUTUBE:START --> 
+<!-- YOUTUBE:END -->
+ 
 </details>
 
 [website]: https://joemattiello.dev
