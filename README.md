@@ -72,12 +72,13 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 
 </details>
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
+<details>
+  <summary>:zap: Latest Posts</summary>
 
-  <img align="left" alt="JoeMatt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joematt" />
+   <!-- BLOG-POST-LIST:START -->
+   <!-- BLOG-POST-LIST:END -->
 
-</details> -->
+</details>
 
 [website]: https://joemattiello.dev
 [twitter]: https://twitter.com/joemattiello
