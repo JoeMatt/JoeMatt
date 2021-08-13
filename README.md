@@ -1,6 +1,9 @@
 <!-- 
 Docs
 https://github.com/anuraghazra/github-readme-stats
+https://www.youtube.com/watch?v=n6d4KHSKqGk
+https://github.com/rahuldkjain/github-profile-readme-generator
+
  -->
 
 ### Hi there, I'm Joe - aka [JoeMatt][website] 👋
