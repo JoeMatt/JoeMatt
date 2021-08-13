@@ -60,13 +60,12 @@
 
 </details>
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JoeMatt's GitHub Stats" src="https://github-readme-stats.joematt.vercel.app/api?username=JoeMatt
-&show_icons=true&hide_border=true" />
+  <img align="left" alt="JoeMatt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joematt" />
 
-</details>
+</details> -->
 
 [website]: https://joemattiello.dev
 [twitter]: https://twitter.com/joemattiello
