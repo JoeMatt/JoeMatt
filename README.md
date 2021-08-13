@@ -2,6 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=joemattiello.dev&style=for-the-badge&url=https%3A%2F%joemattiello.dev)](https://joemattiello.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/joemattiello?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoemattiello&screen_name=joemattiello)
+[![GitHub Followers](https://img.shields.io/github/followers/joematt?style=for-the-badge)]()
+<!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/joematt?style=for-the-badge
+)]() -->
 
 
 ### Connect with me:
@@ -11,13 +14,18 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="Joe Mattiello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="Joe Mattiello | Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+" />][twitch]
 
 <br />
+<br />
 
-![JoeMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=joematt&show_icons=true&theme=radical)
+![JoeMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=joematt&show_icons=true&theme=radical&count_private=true)
 
+[![Provenance Card](https://github-readme-stats.vercel.app/api/pin/?username=provenance-emu&repo=provenance)][provenancegithub]
+[![RxReachaiblity Card](https://github-readme-stats.vercel.app/api/pin/?username=rxswiftcommunity&repo=rxreachability)][rxreachabilitygithub]
+[![Hero Card](https://github-readme-stats.vercel.app/api/pin/?username=HeroTransitions&repo=hero)][herogithub]
 
-[![Provenance Card](https://github-readme-stats.vercel.app/api/pin/?username=Provenance&repo=ProvenanceEMU](https://github.com/Provenance/ProvenanceEMU)
 
 ### Languages and Tools:
 
@@ -67,6 +75,8 @@
 [linkedin]: https://linkedin.com/in/joemattiello
 [twitch]: https://twitch.tv/joemattiello/
 [provenancegithub]: https://github.com/Provenance-Emu/Provenance
+[herogithub]: https://github.com/HeroTransitions/Hero
+[rxreachabilitygithub]: https://github.com/RxSwiftCommunity/RxReachability
 [provenancedevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
