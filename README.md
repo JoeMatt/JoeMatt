@@ -16,8 +16,14 @@
 
 ![JoeMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=joematt&show_icons=true&theme=radical)
 
-<!-- ### Languages and Tools:
 
+[![Provenance Card](https://github-readme-stats.vercel.app/api/pin/?username=Provenance&repo=ProvenanceEMU](https://github.com/Provenance/ProvenanceEMU)
+
+### Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=provenance-emu&hide=javascript,max)](https://github.com/provenance-emu/provenance)
+
+<!--
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -55,6 +61,7 @@
 [instagram]: https://instagram.com/joemattiello
 [linkedin]: https://linkedin.com/in/joemattiello
 [twitch]: https://twitch.tv/joemattiello/
+[provenancegithub]: https://github.com/Provenance-Emu/Provenance
 [provenancedevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
