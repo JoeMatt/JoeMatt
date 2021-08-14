@@ -78,7 +78,6 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 
 <!-- YOUTUBE:START -->
 - [Provenance Emulator : Release coding live + music](https://www.youtube.com/watch?v=rS6e4VEgnqI)
-- [Provenance 2.0.1 Bug fixes and testing Q&A](https://www.youtube.com/watch?v=EeD_yQTEAfQ)
 - [Provenance Emulator for iOS/tvOS Development and Testing](https://www.youtube.com/watch?v=p33z_1hgRzU)
 <!-- YOUTUBE:END -->
  
