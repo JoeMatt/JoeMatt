@@ -6,7 +6,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 
  -->
 
-### Hi there, I'm Joe - aka [JoeMatt][website] 👋
+### Hi there, I'm [Joe][website] 👋
 
 [![Website](https://img.shields.io/website?label=joemattiello.dev&style=for-the-badge&url=https://joemattiello.dev)](https://joemattiello.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/joemattiello?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjoemattiello&screen_name=joemattiello)
@@ -90,7 +90,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 [youtube-prov]: https://www.youtube.com/channel/UCKeN6unYKdayfgLWulXgB1w
 [instagram]: https://instagram.com/joemattiello
 [linkedin]: https://linkedin.com/in/joemattiello
-[twitch]: https://twitch.tv/joemattiello/
+[twitch]: https://twitch.tv/joe__codes
 [provenancegithub]: https://github.com/Provenance-Emu/Provenance
 [herogithub]: https://github.com/HeroTransitions/Hero
 [rxreachabilitygithub]: https://github.com/RxSwiftCommunity/RxReachability
