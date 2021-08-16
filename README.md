@@ -64,11 +64,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1546](https://github.com/Provenance-Emu/Provenance/pull/1546) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Opened issue [#1564](https://github.com/Provenance-Emu/Provenance/issues/1564) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#168](https://github.com/flyinghead/flycast/issues/168) in [flyinghead/flycast](https://github.com/flyinghead/flycast)
+1. 💪 Opened PR [#14733](https://github.com/hrydgard/ppsspp/pull/14733) in [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
+2. ❌ Closed PR [#1546](https://github.com/Provenance-Emu/Provenance/pull/1546) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Opened issue [#1564](https://github.com/Provenance-Emu/Provenance/issues/1564) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 4. 🗣 Commented on [#168](https://github.com/flyinghead/flycast/issues/168) in [flyinghead/flycast](https://github.com/flyinghead/flycast)
-5. 🗣 Commented on [#1065](https://github.com/Provenance-Emu/Provenance/issues/1065) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#168](https://github.com/flyinghead/flycast/issues/168) in [flyinghead/flycast](https://github.com/flyinghead/flycast)
 <!--END_SECTION:activity-->
 
 </details>
