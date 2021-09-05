@@ -64,11 +64,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14733](https://github.com/hrydgard/ppsspp/issues/14733) in [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
-2. ❗️ Closed issue [#1](https://github.com/JoeMatt/BassStationIIMaxForLive/issues/1) in [JoeMatt/BassStationIIMaxForLive](https://github.com/JoeMatt/BassStationIIMaxForLive)
-3. 🗣 Commented on [#1](https://github.com/JoeMatt/BassStationIIMaxForLive/issues/1) in [JoeMatt/BassStationIIMaxForLive](https://github.com/JoeMatt/BassStationIIMaxForLive)
-4. 🗣 Commented on [#1](https://github.com/JoeMatt/BassStationIIMaxForLive/issues/1) in [JoeMatt/BassStationIIMaxForLive](https://github.com/JoeMatt/BassStationIIMaxForLive)
-5. 🗣 Commented on [#2](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/2) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+1. 🎉 Merged PR [#1572](https://github.com/Provenance-Emu/Provenance/pull/1572) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Closed issue [#1574](https://github.com/Provenance-Emu/Provenance/issues/1574) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#14733](https://github.com/hrydgard/ppsspp/issues/14733) in [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)
+4. ❗️ Closed issue [#1](https://github.com/JoeMatt/BassStationIIMaxForLive/issues/1) in [JoeMatt/BassStationIIMaxForLive](https://github.com/JoeMatt/BassStationIIMaxForLive)
+5. 🗣 Commented on [#1](https://github.com/JoeMatt/BassStationIIMaxForLive/issues/1) in [JoeMatt/BassStationIIMaxForLive](https://github.com/JoeMatt/BassStationIIMaxForLive)
 <!--END_SECTION:activity-->
 
 </details>
