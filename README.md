@@ -64,11 +64,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1587](https://github.com/Provenance-Emu/Provenance/pull/1587) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#522](https://github.com/Provenance-Emu/Provenance/issues/522) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 2. 🗣 Commented on [#3055](https://github.com/utmapp/UTM/issues/3055) in [utmapp/UTM](https://github.com/utmapp/UTM)
-3. ❗️ Closed issue [#1562](https://github.com/Provenance-Emu/Provenance/issues/1562) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#1562](https://github.com/Provenance-Emu/Provenance/issues/1562) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#1550](https://github.com/Provenance-Emu/Provenance/issues/1550) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#718](https://github.com/HeroTransitions/Hero/issues/718) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+4. 🎉 Merged PR [#1587](https://github.com/Provenance-Emu/Provenance/pull/1587) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#3055](https://github.com/utmapp/UTM/issues/3055) in [utmapp/UTM](https://github.com/utmapp/UTM)
 <!--END_SECTION:activity-->
 
 </details>
