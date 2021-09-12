@@ -77,6 +77,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Latest Videos</summary>
 
 <!-- YOUTUBE:START -->
+- [Provenance Emulator for iOS running natively on M1 Mac!](https://www.youtube.com/watch?v=HCvINO-2RXw)
 - [Provenance Emulator : Release coding live + music](https://www.youtube.com/watch?v=rS6e4VEgnqI)
 - [Provenance Emulator for iOS/tvOS Development and Testing](https://www.youtube.com/watch?v=p33z_1hgRzU)
 <!-- YOUTUBE:END -->
