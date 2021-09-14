@@ -64,11 +64,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1593](https://github.com/Provenance-Emu/Provenance/issues/1593) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Closed issue [#1011](https://github.com/Provenance-Emu/Provenance/issues/1011) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🎉 Merged PR [#1595](https://github.com/Provenance-Emu/Provenance/pull/1595) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 💪 Opened PR [#1596](https://github.com/Provenance-Emu/Provenance/pull/1596) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 💪 Opened PR [#53](https://github.com/libretro/virtualjaguar-libretro/pull/53) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 🗣 Commented on [#1433](https://github.com/Provenance-Emu/Provenance/issues/1433) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#1593](https://github.com/Provenance-Emu/Provenance/issues/1593) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Closed issue [#1011](https://github.com/Provenance-Emu/Provenance/issues/1011) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🎉 Merged PR [#1595](https://github.com/Provenance-Emu/Provenance/pull/1595) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 💪 Opened PR [#1596](https://github.com/Provenance-Emu/Provenance/pull/1596) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
