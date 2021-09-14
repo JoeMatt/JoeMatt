@@ -64,11 +64,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/zydeco/SteamController/pull/9) in [zydeco/SteamController](https://github.com/zydeco/SteamController)
-2. ❗️ Closed issue [#199](https://github.com/Provenance-Emu/Provenance/issues/199) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗️ Opened issue [#1592](https://github.com/Provenance-Emu/Provenance/issues/1592) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Closed issue [#1590](https://github.com/Provenance-Emu/Provenance/issues/1590) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#1590](https://github.com/Provenance-Emu/Provenance/issues/1590) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 💪 Opened PR [#53](https://github.com/libretro/virtualjaguar-libretro/pull/53) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. 💪 Opened PR [#9](https://github.com/zydeco/SteamController/pull/9) in [zydeco/SteamController](https://github.com/zydeco/SteamController)
+4. ❗️ Closed issue [#199](https://github.com/Provenance-Emu/Provenance/issues/199) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#1592](https://github.com/Provenance-Emu/Provenance/issues/1592) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
