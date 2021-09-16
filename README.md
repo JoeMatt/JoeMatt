@@ -64,11 +64,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1598](https://github.com/Provenance-Emu/Provenance/issues/1598) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#1598](https://github.com/Provenance-Emu/Provenance/issues/1598) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#830](https://github.com/rileytestut/AltStore/issues/830) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
-4. 💪 Opened PR [#830](https://github.com/rileytestut/AltStore/pull/830) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
-5. 🎉 Merged PR [#1597](https://github.com/Provenance-Emu/Provenance/pull/1597) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. ❗️ Closed issue [#1598](https://github.com/Provenance-Emu/Provenance/issues/1598) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#1598](https://github.com/Provenance-Emu/Provenance/issues/1598) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#830](https://github.com/rileytestut/AltStore/issues/830) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+5. 💪 Opened PR [#830](https://github.com/rileytestut/AltStore/pull/830) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
 <!--END_SECTION:activity-->
 
 </details>
