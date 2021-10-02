@@ -67,11 +67,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1602](https://github.com/Provenance-Emu/Provenance/issues/1602) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Closed issue [#688](https://github.com/HeroTransitions/Hero/issues/688) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-3. 💪 Opened PR [#1](https://github.com/KodeStar/audiosilo/pull/1) in [KodeStar/audiosilo](https://github.com/KodeStar/audiosilo)
-4. ❗️ Opened issue [#1601](https://github.com/Provenance-Emu/Provenance/issues/1601) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#832](https://github.com/rileytestut/AltStore/issues/832) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+1. ❗️ Opened issue [#1605](https://github.com/Provenance-Emu/Provenance/issues/1605) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Opened issue [#1602](https://github.com/Provenance-Emu/Provenance/issues/1602) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Closed issue [#688](https://github.com/HeroTransitions/Hero/issues/688) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+4. 💪 Opened PR [#1](https://github.com/KodeStar/audiosilo/pull/1) in [KodeStar/audiosilo](https://github.com/KodeStar/audiosilo)
+5. ❗️ Opened issue [#1601](https://github.com/Provenance-Emu/Provenance/issues/1601) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
