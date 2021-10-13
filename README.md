@@ -67,11 +67,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1615](https://github.com/Provenance-Emu/Provenance/pull/1615) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 💪 Opened PR [#1614](https://github.com/Provenance-Emu/Provenance/pull/1614) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 💪 Opened PR [#1613](https://github.com/Provenance-Emu/Provenance/pull/1613) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 💪 Opened PR [#1612](https://github.com/Provenance-Emu/Provenance/pull/1612) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#9](https://github.com/zydeco/SteamController/issues/9) in [zydeco/SteamController](https://github.com/zydeco/SteamController)
+1. 🎉 Merged PR [#1615](https://github.com/Provenance-Emu/Provenance/pull/1615) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 💪 Opened PR [#1615](https://github.com/Provenance-Emu/Provenance/pull/1615) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#1614](https://github.com/Provenance-Emu/Provenance/pull/1614) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#1613](https://github.com/Provenance-Emu/Provenance/pull/1613) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 💪 Opened PR [#1612](https://github.com/Provenance-Emu/Provenance/pull/1612) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
