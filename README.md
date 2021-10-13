@@ -67,11 +67,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/zydeco/SteamController/issues/9) in [zydeco/SteamController](https://github.com/zydeco/SteamController)
-2. ❌ Closed PR [#1](https://github.com/KodeStar/audiosilo/pull/1) in [KodeStar/audiosilo](https://github.com/KodeStar/audiosilo)
-3. 🗣 Commented on [#1](https://github.com/KodeStar/audiosilo/issues/1) in [KodeStar/audiosilo](https://github.com/KodeStar/audiosilo)
-4. 🗣 Commented on [#55](https://github.com/libretro/virtualjaguar-libretro/issues/55) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. 🗣 Commented on [#55](https://github.com/libretro/virtualjaguar-libretro/issues/55) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 💪 Opened PR [#1615](https://github.com/Provenance-Emu/Provenance/pull/1615) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 💪 Opened PR [#1614](https://github.com/Provenance-Emu/Provenance/pull/1614) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#1613](https://github.com/Provenance-Emu/Provenance/pull/1613) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#1612](https://github.com/Provenance-Emu/Provenance/pull/1612) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#9](https://github.com/zydeco/SteamController/issues/9) in [zydeco/SteamController](https://github.com/zydeco/SteamController)
 <!--END_SECTION:activity-->
 
 </details>
