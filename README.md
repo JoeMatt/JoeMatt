@@ -67,11 +67,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1615](https://github.com/Provenance-Emu/Provenance/pull/1615) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 💪 Opened PR [#1615](https://github.com/Provenance-Emu/Provenance/pull/1615) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 💪 Opened PR [#1614](https://github.com/Provenance-Emu/Provenance/pull/1614) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 💪 Opened PR [#1613](https://github.com/Provenance-Emu/Provenance/pull/1613) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 💪 Opened PR [#1612](https://github.com/Provenance-Emu/Provenance/pull/1612) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 💪 Opened PR [#59](https://github.com/libretro/virtualjaguar-libretro/pull/59) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 💪 Opened PR [#58](https://github.com/libretro/virtualjaguar-libretro/pull/58) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. 💪 Opened PR [#57](https://github.com/libretro/virtualjaguar-libretro/pull/57) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 💪 Opened PR [#56](https://github.com/libretro/virtualjaguar-libretro/pull/56) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. 🎉 Merged PR [#1615](https://github.com/Provenance-Emu/Provenance/pull/1615) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
