@@ -67,11 +67,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1609](https://github.com/Provenance-Emu/Provenance/pull/1609) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#58](https://github.com/libretro/virtualjaguar-libretro/issues/58) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. ❌ Closed PR [#55](https://github.com/libretro/virtualjaguar-libretro/pull/55) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. 🗣 Commented on [#55](https://github.com/libretro/virtualjaguar-libretro/issues/55) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. 🗣 Commented on [#57](https://github.com/libretro/virtualjaguar-libretro/issues/57) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 🗣 Commented on [#1607](https://github.com/Provenance-Emu/Provenance/issues/1607) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#1609](https://github.com/Provenance-Emu/Provenance/pull/1609) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#58](https://github.com/libretro/virtualjaguar-libretro/issues/58) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. ❌ Closed PR [#55](https://github.com/libretro/virtualjaguar-libretro/pull/55) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. 🗣 Commented on [#55](https://github.com/libretro/virtualjaguar-libretro/issues/55) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
