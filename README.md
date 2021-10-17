@@ -67,11 +67,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#61](https://github.com/libretro/virtualjaguar-libretro/issues/61) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. 🗣 Commented on [#1576](https://github.com/Provenance-Emu/Provenance/issues/1576) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#1617](https://github.com/Provenance-Emu/Provenance/issues/1617) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#1557](https://github.com/Provenance-Emu/Provenance/issues/1557) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#1567](https://github.com/Provenance-Emu/Provenance/issues/1567) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❗️ Closed issue [#49](https://github.com/libretro/virtualjaguar-libretro/issues/49) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🗣 Commented on [#49](https://github.com/libretro/virtualjaguar-libretro/issues/49) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. ❗️ Opened issue [#61](https://github.com/libretro/virtualjaguar-libretro/issues/61) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 🗣 Commented on [#1576](https://github.com/Provenance-Emu/Provenance/issues/1576) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#1617](https://github.com/Provenance-Emu/Provenance/issues/1617) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
