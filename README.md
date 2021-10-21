@@ -39,8 +39,12 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rxswiftcommunity&repo=rxreachability" />
 </a>
 <a href="https://github.com/JoeMatt/pincache.swift">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joematt&repo=pincache.swift"/>
+</a>
+<a href="https://github.com/libretro/virtualjaguar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=libretro&repo=virtualjaguar-libretro"/>
 </a>
+
 
 <!--
 
