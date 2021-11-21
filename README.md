@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/migueldeicaza/SwiftTerm/issues/201) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
-2. 💪 Opened PR [#4](https://github.com/Wisors/OBD2Connect/pull/4) in [Wisors/OBD2Connect](https://github.com/Wisors/OBD2Connect)
-3. ❗️ Opened issue [#1633](https://github.com/Provenance-Emu/Provenance/issues/1633) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🎉 Merged PR [#63](https://github.com/libretro/virtualjaguar-libretro/pull/63) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. ❗️ Closed issue [#39](https://github.com/libretro/virtualjaguar-libretro/issues/39) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 🎉 Merged PR [#1](https://github.com/JoeMatt/OBD2Connect/pull/1) in [JoeMatt/OBD2Connect](https://github.com/JoeMatt/OBD2Connect)
+2. 💪 Opened PR [#1](https://github.com/JoeMatt/OBD2Connect/pull/1) in [JoeMatt/OBD2Connect](https://github.com/JoeMatt/OBD2Connect)
+3. ❗️ Closed issue [#1633](https://github.com/Provenance-Emu/Provenance/issues/1633) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#201](https://github.com/migueldeicaza/SwiftTerm/issues/201) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+5. 💪 Opened PR [#4](https://github.com/Wisors/OBD2Connect/pull/4) in [Wisors/OBD2Connect](https://github.com/Wisors/OBD2Connect)
 <!--END_SECTION:activity-->
 
 </details>
