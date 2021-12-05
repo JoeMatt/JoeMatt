@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1641](https://github.com/Provenance-Emu/Provenance/issues/1641) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 💪 Opened PR [#3](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/3) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-3. 💪 Opened PR [#1640](https://github.com/Provenance-Emu/Provenance/pull/1640) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Opened issue [#1639](https://github.com/Provenance-Emu/Provenance/issues/1639) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❌ Closed PR [#1610](https://github.com/Provenance-Emu/Provenance/pull/1610) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#50](https://github.com/bootsie123/F1-Web-Viewer/issues/50) in [bootsie123/F1-Web-Viewer](https://github.com/bootsie123/F1-Web-Viewer)
+2. ❗️ Opened issue [#1641](https://github.com/Provenance-Emu/Provenance/issues/1641) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#3](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/3) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+4. 💪 Opened PR [#1640](https://github.com/Provenance-Emu/Provenance/pull/1640) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#1639](https://github.com/Provenance-Emu/Provenance/issues/1639) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
