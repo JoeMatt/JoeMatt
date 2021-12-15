@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/rileytestut/STPrivilegedTask/pull/1) in [rileytestut/STPrivilegedTask](https://github.com/rileytestut/STPrivilegedTask)
-2. 💪 Opened PR [#916](https://github.com/rileytestut/AltStore/pull/916) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
-3. 💪 Opened PR [#915](https://github.com/rileytestut/AltStore/pull/915) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
-4. 🗣 Commented on [#50](https://github.com/bootsie123/F1-Web-Viewer/issues/50) in [bootsie123/F1-Web-Viewer](https://github.com/bootsie123/F1-Web-Viewer)
-5. ❗️ Opened issue [#1641](https://github.com/Provenance-Emu/Provenance/issues/1641) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#916](https://github.com/rileytestut/AltStore/issues/916) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+2. 💪 Opened PR [#1](https://github.com/rileytestut/STPrivilegedTask/pull/1) in [rileytestut/STPrivilegedTask](https://github.com/rileytestut/STPrivilegedTask)
+3. 💪 Opened PR [#916](https://github.com/rileytestut/AltStore/pull/916) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+4. 💪 Opened PR [#915](https://github.com/rileytestut/AltStore/pull/915) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+5. 🗣 Commented on [#50](https://github.com/bootsie123/F1-Web-Viewer/issues/50) in [bootsie123/F1-Web-Viewer](https://github.com/bootsie123/F1-Web-Viewer)
 <!--END_SECTION:activity-->
 
 </details>
