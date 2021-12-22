@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/migueldeicaza/SwiftTerm/issues/201) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
-2. 💪 Opened PR [#1644](https://github.com/Provenance-Emu/Provenance/pull/1644) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#19](https://github.com/NyaMisty/AltServer-Linux/issues/19) in [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux)
-4. 💪 Opened PR [#22](https://github.com/NyaMisty/AltServer-Linux/pull/22) in [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux)
-5. 🗣 Commented on [#916](https://github.com/rileytestut/AltStore/issues/916) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+1. ❗️ Opened issue [#1646](https://github.com/Provenance-Emu/Provenance/issues/1646) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#201](https://github.com/migueldeicaza/SwiftTerm/issues/201) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+3. 💪 Opened PR [#1644](https://github.com/Provenance-Emu/Provenance/pull/1644) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#19](https://github.com/NyaMisty/AltServer-Linux/issues/19) in [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux)
+5. 💪 Opened PR [#22](https://github.com/NyaMisty/AltServer-Linux/pull/22) in [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux)
 <!--END_SECTION:activity-->
 
 </details>
