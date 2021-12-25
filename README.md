@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/RxSwiftCommunity/RxReachability/issues/48) in [RxSwiftCommunity/RxReachability](https://github.com/RxSwiftCommunity/RxReachability)
-2. ❗️ Opened issue [#1676](https://github.com/Provenance-Emu/Provenance/issues/1676) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗️ Opened issue [#1675](https://github.com/Provenance-Emu/Provenance/issues/1675) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Opened issue [#1674](https://github.com/Provenance-Emu/Provenance/issues/1674) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗️ Opened issue [#1673](https://github.com/Provenance-Emu/Provenance/issues/1673) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🎉 Merged PR [#1668](https://github.com/Provenance-Emu/Provenance/pull/1668) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#48](https://github.com/RxSwiftCommunity/RxReachability/issues/48) in [RxSwiftCommunity/RxReachability](https://github.com/RxSwiftCommunity/RxReachability)
+3. ❗️ Opened issue [#1676](https://github.com/Provenance-Emu/Provenance/issues/1676) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ❗️ Opened issue [#1675](https://github.com/Provenance-Emu/Provenance/issues/1675) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#1674](https://github.com/Provenance-Emu/Provenance/issues/1674) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
