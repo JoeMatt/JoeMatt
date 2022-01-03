@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1686](https://github.com/Provenance-Emu/Provenance/issues/1686) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#1684](https://github.com/Provenance-Emu/Provenance/issues/1684) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🎉 Merged PR [#1680](https://github.com/Provenance-Emu/Provenance/pull/1680) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
-5. ❗️ Opened issue [#1683](https://github.com/Provenance-Emu/Provenance/issues/1683) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🎉 Merged PR [#1690](https://github.com/Provenance-Emu/Provenance/pull/1690) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#1687](https://github.com/Provenance-Emu/Provenance/pull/1687) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Opened issue [#1686](https://github.com/Provenance-Emu/Provenance/issues/1686) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#1684](https://github.com/Provenance-Emu/Provenance/issues/1684) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🎉 Merged PR [#1680](https://github.com/Provenance-Emu/Provenance/pull/1680) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
