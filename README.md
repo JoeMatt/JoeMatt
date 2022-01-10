@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+1. ❗️ Opened issue [#1703](https://github.com/Provenance-Emu/Provenance/issues/1703) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 2. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
 3. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
-4. ❗️ Opened issue [#1701](https://github.com/Provenance-Emu/Provenance/issues/1701) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#1655](https://github.com/Provenance-Emu/Provenance/issues/1655) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+5. ❗️ Opened issue [#1701](https://github.com/Provenance-Emu/Provenance/issues/1701) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
