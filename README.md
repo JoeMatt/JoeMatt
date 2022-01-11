@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1702](https://github.com/Provenance-Emu/Provenance/issues/1702) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❌ Closed PR [#1704](https://github.com/Provenance-Emu/Provenance/pull/1704) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 💪 Opened PR [#1704](https://github.com/Provenance-Emu/Provenance/pull/1704) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Opened issue [#1703](https://github.com/Provenance-Emu/Provenance/issues/1703) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+1. ❗️ Opened issue [#1705](https://github.com/Provenance-Emu/Provenance/issues/1705) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Closed issue [#1702](https://github.com/Provenance-Emu/Provenance/issues/1702) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❌ Closed PR [#1704](https://github.com/Provenance-Emu/Provenance/pull/1704) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#1704](https://github.com/Provenance-Emu/Provenance/pull/1704) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#1703](https://github.com/Provenance-Emu/Provenance/issues/1703) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
