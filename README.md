@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1708](https://github.com/Provenance-Emu/Provenance/pull/1708) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#1707](https://github.com/Provenance-Emu/Provenance/pull/1707) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 💪 Opened PR [#1708](https://github.com/Provenance-Emu/Provenance/pull/1708) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#925](https://github.com/rileytestut/AltStore/issues/925) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
-5. 🗣 Commented on [#927](https://github.com/rileytestut/AltStore/issues/927) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+1. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+2. 🎉 Merged PR [#1708](https://github.com/Provenance-Emu/Provenance/pull/1708) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#1707](https://github.com/Provenance-Emu/Provenance/pull/1707) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#1708](https://github.com/Provenance-Emu/Provenance/pull/1708) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#925](https://github.com/rileytestut/AltStore/issues/925) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
 <!--END_SECTION:activity-->
 
 </details>
