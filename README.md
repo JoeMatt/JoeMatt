@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#925](https://github.com/rileytestut/AltStore/issues/925) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
-2. 🗣 Commented on [#927](https://github.com/rileytestut/AltStore/issues/927) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
-3. 🎉 Merged PR [#1706](https://github.com/Provenance-Emu/Provenance/pull/1706) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#1706](https://github.com/Provenance-Emu/Provenance/issues/1706) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗️ Opened issue [#1705](https://github.com/Provenance-Emu/Provenance/issues/1705) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 💪 Opened PR [#1708](https://github.com/Provenance-Emu/Provenance/pull/1708) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#925](https://github.com/rileytestut/AltStore/issues/925) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+3. 🗣 Commented on [#927](https://github.com/rileytestut/AltStore/issues/927) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+4. 🎉 Merged PR [#1706](https://github.com/Provenance-Emu/Provenance/pull/1706) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#1706](https://github.com/Provenance-Emu/Provenance/issues/1706) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
