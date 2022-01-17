@@ -71,11 +71,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Provenance-Emu/Provenance/issues/22) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#1713](https://github.com/Provenance-Emu/Provenance/pull/1713) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗️ Opened issue [#1](https://github.com/Randomblock1/altstore/issues/1) in [Randomblock1/altstore](https://github.com/Randomblock1/altstore)
-4. 🗣 Commented on [#176](https://github.com/RxSwiftCommunity/RxRealm/issues/176) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-5. 🎉 Merged PR [#1682](https://github.com/Provenance-Emu/Provenance/pull/1682) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🎉 Merged PR [#1715](https://github.com/Provenance-Emu/Provenance/pull/1715) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#1715](https://github.com/Provenance-Emu/Provenance/issues/1715) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#1715](https://github.com/Provenance-Emu/Provenance/pull/1715) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#1714](https://github.com/Provenance-Emu/Provenance/issues/1714) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❌ Closed PR [#1714](https://github.com/Provenance-Emu/Provenance/pull/1714) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
