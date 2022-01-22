@@ -35,6 +35,9 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 <a href="https://github.com/HeroTransitions/Hero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeroTransitions&repo=hero" />
 </a>
+<a href="https://github.com/RxSwiftCommunity/RxRealm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rxswiftcommunity&repo=rxrealm" />
+</a>
 <a href="https://github.com/RxSwiftCommunity/RxReachability">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rxswiftcommunity&repo=rxreachability" />
 </a>
