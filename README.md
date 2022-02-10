@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1262](https://github.com/Provenance-Emu/Provenance/issues/1262) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 💪 Opened PR [#1750](https://github.com/Provenance-Emu/Provenance/pull/1750) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🎉 Merged PR [#1739](https://github.com/Provenance-Emu/Provenance/pull/1739) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🎉 Merged PR [#1741](https://github.com/Provenance-Emu/Provenance/pull/1741) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🎉 Merged PR [#1749](https://github.com/Provenance-Emu/Provenance/pull/1749) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#390](https://github.com/RxSwiftCommunity/RxDataSources/issues/390) in [RxSwiftCommunity/RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources)
+2. 🗣 Commented on [#730](https://github.com/HeroTransitions/Hero/issues/730) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+3. ❗️ Closed issue [#1733](https://github.com/Provenance-Emu/Provenance/issues/1733) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#1733](https://github.com/Provenance-Emu/Provenance/issues/1733) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❌ Closed PR [#1751](https://github.com/Provenance-Emu/Provenance/pull/1751) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
