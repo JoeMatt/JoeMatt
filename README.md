@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1850](https://github.com/Provenance-Emu/Provenance/issues/1850) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#1849](https://github.com/Provenance-Emu/Provenance/issues/1849) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❗️ Opened issue [#1851](https://github.com/Provenance-Emu/Provenance/issues/1851) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Opened issue [#1850](https://github.com/Provenance-Emu/Provenance/issues/1850) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 3. 🗣 Commented on [#1849](https://github.com/Provenance-Emu/Provenance/issues/1849) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#70](https://github.com/libretro/virtualjaguar-libretro/issues/70) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. ❗️ Closed issue [#1832](https://github.com/Provenance-Emu/Provenance/issues/1832) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#1849](https://github.com/Provenance-Emu/Provenance/issues/1849) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#70](https://github.com/libretro/virtualjaguar-libretro/issues/70) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
