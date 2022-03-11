@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#182](https://github.com/RxSwiftCommunity/RxRealm/issues/182) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-2. 🎉 Merged PR [#183](https://github.com/RxSwiftCommunity/RxRealm/pull/183) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-3. ❗️ Opened issue [#1880](https://github.com/Provenance-Emu/Provenance/issues/1880) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Opened issue [#1879](https://github.com/Provenance-Emu/Provenance/issues/1879) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗️ Opened issue [#1878](https://github.com/Provenance-Emu/Provenance/issues/1878) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❗️ Opened issue [#1881](https://github.com/Provenance-Emu/Provenance/issues/1881) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Closed issue [#182](https://github.com/RxSwiftCommunity/RxRealm/issues/182) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+3. 🎉 Merged PR [#183](https://github.com/RxSwiftCommunity/RxRealm/pull/183) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+4. ❗️ Opened issue [#1880](https://github.com/Provenance-Emu/Provenance/issues/1880) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#1879](https://github.com/Provenance-Emu/Provenance/issues/1879) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
