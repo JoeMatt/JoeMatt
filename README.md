@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45](https://github.com/apollographql/xcode-graphql/issues/45) in [apollographql/xcode-graphql](https://github.com/apollographql/xcode-graphql)
-2. ❗️ Opened issue [#1895](https://github.com/Provenance-Emu/Provenance/issues/1895) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗️ Closed issue [#1894](https://github.com/Provenance-Emu/Provenance/issues/1894) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Opened issue [#1894](https://github.com/Provenance-Emu/Provenance/issues/1894) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗️ Closed issue [#1892](https://github.com/Provenance-Emu/Provenance/issues/1892) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#1893](https://github.com/Provenance-Emu/Provenance/issues/1893) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Opened issue [#1896](https://github.com/Provenance-Emu/Provenance/issues/1896) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Opened issue [#45](https://github.com/apollographql/xcode-graphql/issues/45) in [apollographql/xcode-graphql](https://github.com/apollographql/xcode-graphql)
+4. ❗️ Opened issue [#1895](https://github.com/Provenance-Emu/Provenance/issues/1895) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Closed issue [#1894](https://github.com/Provenance-Emu/Provenance/issues/1894) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
