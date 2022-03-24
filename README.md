@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1901](https://github.com/Provenance-Emu/Provenance/pull/1901) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#1848](https://github.com/Provenance-Emu/Provenance/issues/1848) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#45](https://github.com/apollographql/xcode-graphql/issues/45) in [apollographql/xcode-graphql](https://github.com/apollographql/xcode-graphql)
+2. 💪 Opened PR [#1901](https://github.com/Provenance-Emu/Provenance/pull/1901) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 3. 🗣 Commented on [#1848](https://github.com/Provenance-Emu/Provenance/issues/1848) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Closed issue [#1856](https://github.com/Provenance-Emu/Provenance/issues/1856) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#1856](https://github.com/Provenance-Emu/Provenance/issues/1856) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#1848](https://github.com/Provenance-Emu/Provenance/issues/1848) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Closed issue [#1856](https://github.com/Provenance-Emu/Provenance/issues/1856) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
