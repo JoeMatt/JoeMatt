@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#730](https://github.com/HeroTransitions/Hero/pull/730) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-2. 🗣 Commented on [#730](https://github.com/HeroTransitions/Hero/issues/730) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-3. 💪 Opened PR [#732](https://github.com/HeroTransitions/Hero/pull/732) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-4. 🗣 Commented on [#45](https://github.com/apollographql/xcode-graphql/issues/45) in [apollographql/xcode-graphql](https://github.com/apollographql/xcode-graphql)
-5. 💪 Opened PR [#1901](https://github.com/Provenance-Emu/Provenance/pull/1901) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❗️ Opened issue [#1904](https://github.com/Provenance-Emu/Provenance/issues/1904) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❌ Closed PR [#730](https://github.com/HeroTransitions/Hero/pull/730) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+3. 🗣 Commented on [#730](https://github.com/HeroTransitions/Hero/issues/730) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+4. 💪 Opened PR [#732](https://github.com/HeroTransitions/Hero/pull/732) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+5. 🗣 Commented on [#45](https://github.com/apollographql/xcode-graphql/issues/45) in [apollographql/xcode-graphql](https://github.com/apollographql/xcode-graphql)
 <!--END_SECTION:activity-->
 
 </details>
