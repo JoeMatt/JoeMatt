@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1902](https://github.com/Provenance-Emu/Provenance/issues/1902) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Opened issue [#1906](https://github.com/Provenance-Emu/Provenance/issues/1906) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗️ Closed issue [#1905](https://github.com/Provenance-Emu/Provenance/issues/1905) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Closed issue [#1904](https://github.com/Provenance-Emu/Provenance/issues/1904) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🎉 Merged PR [#732](https://github.com/HeroTransitions/Hero/pull/732) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+1. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+2. 🗣 Commented on [#1903](https://github.com/Provenance-Emu/Provenance/issues/1903) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+4. 🗣 Commented on [#1902](https://github.com/Provenance-Emu/Provenance/issues/1902) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#1906](https://github.com/Provenance-Emu/Provenance/issues/1906) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
