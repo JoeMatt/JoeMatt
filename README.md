@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+1. ❗️ Opened issue [#1907](https://github.com/Provenance-Emu/Provenance/issues/1907) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 2. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
 3. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
 4. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
-5. 🗣 Commented on [#1903](https://github.com/Provenance-Emu/Provenance/issues/1903) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
 <!--END_SECTION:activity-->
 
 </details>
