@@ -76,8 +76,8 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#72](https://github.com/libretro/virtualjaguar-libretro/issues/72) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 2. 🗣 Commented on [#72](https://github.com/libretro/virtualjaguar-libretro/issues/72) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. 🎉 Merged PR [#1909](https://github.com/Provenance-Emu/Provenance/pull/1909) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+3. 🗣 Commented on [#72](https://github.com/libretro/virtualjaguar-libretro/issues/72) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 🎉 Merged PR [#1909](https://github.com/Provenance-Emu/Provenance/pull/1909) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 5. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
 <!--END_SECTION:activity-->
 
