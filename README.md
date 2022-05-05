@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4672](https://github.com/OpenEmu/OpenEmu/issues/4672) in [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)
-2. 🗣 Commented on [#72](https://github.com/libretro/virtualjaguar-libretro/issues/72) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. ❗️ Opened issue [#3](https://github.com/OpenEmu/VirtualJaguar-Core/issues/3) in [OpenEmu/VirtualJaguar-Core](https://github.com/OpenEmu/VirtualJaguar-Core)
+2. 🗣 Commented on [#4672](https://github.com/OpenEmu/OpenEmu/issues/4672) in [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)
 3. 🗣 Commented on [#72](https://github.com/libretro/virtualjaguar-libretro/issues/72) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 4. 🗣 Commented on [#72](https://github.com/libretro/virtualjaguar-libretro/issues/72) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. 🎉 Merged PR [#1909](https://github.com/Provenance-Emu/Provenance/pull/1909) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#72](https://github.com/libretro/virtualjaguar-libretro/issues/72) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
