@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#734](https://github.com/HeroTransitions/Hero/issues/734) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-2. 🗣 Commented on [#734](https://github.com/HeroTransitions/Hero/issues/734) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-3. 🗣 Commented on [#735](https://github.com/HeroTransitions/Hero/issues/735) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-4. 💪 Opened PR [#736](https://github.com/HeroTransitions/Hero/pull/736) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-5. 🗣 Commented on [#735](https://github.com/HeroTransitions/Hero/issues/735) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+1. 🎉 Merged PR [#736](https://github.com/HeroTransitions/Hero/pull/736) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+2. ❗️ Closed issue [#735](https://github.com/HeroTransitions/Hero/issues/735) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+3. 🗣 Commented on [#734](https://github.com/HeroTransitions/Hero/issues/734) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+4. 🗣 Commented on [#734](https://github.com/HeroTransitions/Hero/issues/734) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+5. 🗣 Commented on [#734](https://github.com/HeroTransitions/Hero/issues/734) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
 <!--END_SECTION:activity-->
 
 </details>
