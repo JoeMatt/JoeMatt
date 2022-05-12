@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1911](https://github.com/Provenance-Emu/Provenance/issues/1911) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Opened issue [#1910](https://github.com/Provenance-Emu/Provenance/issues/1910) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#731](https://github.com/HeroTransitions/Hero/issues/731) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-4. ❗️ Closed issue [#731](https://github.com/HeroTransitions/Hero/issues/731) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-5. ❗️ Closed issue [#655](https://github.com/HeroTransitions/Hero/issues/655) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+1. 🗣 Commented on [#72](https://github.com/libretro/virtualjaguar-libretro/issues/72) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. ❗️ Closed issue [#72](https://github.com/libretro/virtualjaguar-libretro/issues/72) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. ❗️ Closed issue [#73](https://github.com/libretro/virtualjaguar-libretro/issues/73) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 🗣 Commented on [#73](https://github.com/libretro/virtualjaguar-libretro/issues/73) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. ❗️ Opened issue [#1911](https://github.com/Provenance-Emu/Provenance/issues/1911) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
