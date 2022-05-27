@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1914](https://github.com/Provenance-Emu/Provenance/issues/1914) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Opened issue [#1913](https://github.com/Provenance-Emu/Provenance/issues/1913) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#229](https://github.com/migueldeicaza/SwiftTerm/issues/229) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
-4. ❗️ Opened issue [#1912](https://github.com/Provenance-Emu/Provenance/issues/1912) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#72](https://github.com/libretro/virtualjaguar-libretro/issues/72) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. ❌ Closed PR [#916](https://github.com/rileytestut/AltStore/pull/916) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+2. 💪 Opened PR [#7](https://github.com/SideStore/SideStore/pull/7) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 💪 Opened PR [#6](https://github.com/SideStore/SideStore/pull/6) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 💪 Opened PR [#5](https://github.com/SideStore/SideStore/pull/5) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 💪 Opened PR [#4](https://github.com/SideStore/SideStore/pull/4) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
