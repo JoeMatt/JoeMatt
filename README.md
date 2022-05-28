@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/SideStore/SideStore/pull/9) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. ❌ Closed PR [#915](https://github.com/rileytestut/AltStore/pull/915) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
-3. 💪 Opened PR [#8](https://github.com/SideStore/SideStore/pull/8) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. ❌ Closed PR [#916](https://github.com/rileytestut/AltStore/pull/916) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
-5. 💪 Opened PR [#7](https://github.com/SideStore/SideStore/pull/7) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#9](https://github.com/SideStore/SideStore/issues/9) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 💪 Opened PR [#9](https://github.com/SideStore/SideStore/pull/9) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ❌ Closed PR [#915](https://github.com/rileytestut/AltStore/pull/915) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+4. 💪 Opened PR [#8](https://github.com/SideStore/SideStore/pull/8) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. ❌ Closed PR [#916](https://github.com/rileytestut/AltStore/pull/916) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
 <!--END_SECTION:activity-->
 
 </details>
