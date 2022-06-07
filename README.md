@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/SideStore/SideStore/pull/14) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. ❗️ Opened issue [#1916](https://github.com/Provenance-Emu/Provenance/issues/1916) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🎉 Merged PR [#4](https://github.com/SideStore/SideStore/pull/4) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🎉 Merged PR [#13](https://github.com/SideStore/SideStore/pull/13) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#996](https://github.com/rileytestut/AltStore/issues/996) in [rileytestut/AltStore](https://github.com/rileytestut/AltStore)
+1. ❗️ Closed issue [#1916](https://github.com/Provenance-Emu/Provenance/issues/1916) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 💪 Opened PR [#14](https://github.com/SideStore/SideStore/pull/14) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ❗️ Opened issue [#1916](https://github.com/Provenance-Emu/Provenance/issues/1916) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🎉 Merged PR [#4](https://github.com/SideStore/SideStore/pull/4) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🎉 Merged PR [#13](https://github.com/SideStore/SideStore/pull/13) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
