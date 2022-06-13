@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/SideStore/SideStore/issues/23) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#21](https://github.com/SideStore/SideStore/issues/21) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🎉 Merged PR [#16](https://github.com/SideStore/SideStore/pull/16) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 💪 Opened PR [#17](https://github.com/SideStore/SideStore/pull/17) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🎉 Merged PR [#15](https://github.com/SideStore/SideStore/pull/15) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#19](https://github.com/swiftwasm/awesome-swiftwasm/issues/19) in [swiftwasm/awesome-swiftwasm](https://github.com/swiftwasm/awesome-swiftwasm)
+2. ❗️ Opened issue [#23](https://github.com/SideStore/SideStore/issues/23) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#21](https://github.com/SideStore/SideStore/issues/21) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🎉 Merged PR [#16](https://github.com/SideStore/SideStore/pull/16) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 💪 Opened PR [#17](https://github.com/SideStore/SideStore/pull/17) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
