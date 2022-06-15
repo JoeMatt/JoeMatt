@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/swiftwasm/awesome-swiftwasm/issues/19) in [swiftwasm/awesome-swiftwasm](https://github.com/swiftwasm/awesome-swiftwasm)
-2. ❗️ Opened issue [#23](https://github.com/SideStore/SideStore/issues/23) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#21](https://github.com/SideStore/SideStore/issues/21) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🎉 Merged PR [#16](https://github.com/SideStore/SideStore/pull/16) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 💪 Opened PR [#17](https://github.com/SideStore/SideStore/pull/17) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🎉 Merged PR [#187](https://github.com/RxSwiftCommunity/RxRealm/pull/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+2. ❌ Reopened PR [#187](https://github.com/RxSwiftCommunity/RxRealm/pull/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+3. ❌ Closed PR [#187](https://github.com/RxSwiftCommunity/RxRealm/pull/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+4. 🗣 Commented on [#187](https://github.com/RxSwiftCommunity/RxRealm/issues/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+5. 🗣 Commented on [#187](https://github.com/RxSwiftCommunity/RxRealm/issues/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
 <!--END_SECTION:activity-->
 
 </details>
