@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/SideStore/SideStore/issues/24) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#30](https://github.com/SideStore/SideStore/issues/30) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#31](https://github.com/SideStore/SideStore/issues/31) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🗣 Commented on [#187](https://github.com/RxSwiftCommunity/RxRealm/issues/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-5. 💪 Opened PR [#1919](https://github.com/Provenance-Emu/Provenance/pull/1919) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 💪 Opened PR [#1920](https://github.com/Provenance-Emu/Provenance/pull/1920) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#24](https://github.com/SideStore/SideStore/issues/24) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#24](https://github.com/SideStore/SideStore/issues/24) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🗣 Commented on [#30](https://github.com/SideStore/SideStore/issues/30) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🗣 Commented on [#31](https://github.com/SideStore/SideStore/issues/31) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
