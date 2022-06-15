@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#187](https://github.com/RxSwiftCommunity/RxRealm/pull/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-2. ❌ Reopened PR [#187](https://github.com/RxSwiftCommunity/RxRealm/pull/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-3. ❌ Closed PR [#187](https://github.com/RxSwiftCommunity/RxRealm/pull/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-4. 🗣 Commented on [#187](https://github.com/RxSwiftCommunity/RxRealm/issues/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-5. 🗣 Commented on [#187](https://github.com/RxSwiftCommunity/RxRealm/issues/187) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+1. ❗️ Closed issue [#74](https://github.com/libretro/virtualjaguar-libretro/issues/74) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🗣 Commented on [#74](https://github.com/libretro/virtualjaguar-libretro/issues/74) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. 🗣 Commented on [#74](https://github.com/libretro/virtualjaguar-libretro/issues/74) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 🗣 Commented on [#74](https://github.com/libretro/virtualjaguar-libretro/issues/74) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. ❌ Closed PR [#184](https://github.com/RxSwiftCommunity/RxRealm/pull/184) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
 <!--END_SECTION:activity-->
 
 </details>
