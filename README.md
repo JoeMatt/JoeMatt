@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#74](https://github.com/libretro/virtualjaguar-libretro/issues/74) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. 🗣 Commented on [#74](https://github.com/libretro/virtualjaguar-libretro/issues/74) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. 🗣 Commented on [#74](https://github.com/libretro/virtualjaguar-libretro/issues/74) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. 🗣 Commented on [#74](https://github.com/libretro/virtualjaguar-libretro/issues/74) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. ❌ Closed PR [#184](https://github.com/RxSwiftCommunity/RxRealm/pull/184) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+1. 💪 Opened PR [#1919](https://github.com/Provenance-Emu/Provenance/pull/1919) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#1918](https://github.com/Provenance-Emu/Provenance/pull/1918) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#1918](https://github.com/Provenance-Emu/Provenance/issues/1918) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#275](https://github.com/schellingb/dosbox-pure/pull/275) in [schellingb/dosbox-pure](https://github.com/schellingb/dosbox-pure)
+5. 🗣 Commented on [#1918](https://github.com/Provenance-Emu/Provenance/issues/1918) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
