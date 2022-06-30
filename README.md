@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/migueldeicaza/SwiftTerm/issues/240) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
-2. 💪 Opened PR [#243](https://github.com/migueldeicaza/SwiftTerm/pull/243) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
-3. 💪 Opened PR [#242](https://github.com/migueldeicaza/SwiftTerm/pull/242) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
-4. 💪 Opened PR [#1926](https://github.com/Provenance-Emu/Provenance/pull/1926) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#40](https://github.com/SideStore/SideStore/issues/40) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. ❌ Closed PR [#243](https://github.com/migueldeicaza/SwiftTerm/pull/243) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+2. 🗣 Commented on [#243](https://github.com/migueldeicaza/SwiftTerm/issues/243) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+3. 🗣 Commented on [#240](https://github.com/migueldeicaza/SwiftTerm/issues/240) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+4. 💪 Opened PR [#243](https://github.com/migueldeicaza/SwiftTerm/pull/243) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+5. 💪 Opened PR [#242](https://github.com/migueldeicaza/SwiftTerm/pull/242) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
 <!--END_SECTION:activity-->
 
 </details>
