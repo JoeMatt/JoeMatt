@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1926](https://github.com/Provenance-Emu/Provenance/pull/1926) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Closed issue [#1915](https://github.com/Provenance-Emu/Provenance/issues/1915) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❌ Closed PR [#243](https://github.com/migueldeicaza/SwiftTerm/pull/243) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
-4. 🗣 Commented on [#243](https://github.com/migueldeicaza/SwiftTerm/issues/243) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
-5. 🗣 Commented on [#240](https://github.com/migueldeicaza/SwiftTerm/issues/240) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+1. 🗣 Commented on [#1901](https://github.com/Provenance-Emu/Provenance/issues/1901) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#1926](https://github.com/Provenance-Emu/Provenance/pull/1926) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Closed issue [#1915](https://github.com/Provenance-Emu/Provenance/issues/1915) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ❌ Closed PR [#243](https://github.com/migueldeicaza/SwiftTerm/pull/243) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+5. 🗣 Commented on [#243](https://github.com/migueldeicaza/SwiftTerm/issues/243) in [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
 <!--END_SECTION:activity-->
 
 </details>
