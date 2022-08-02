@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1939](https://github.com/Provenance-Emu/Provenance/issues/1939) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#1919](https://github.com/Provenance-Emu/Provenance/pull/1919) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🎉 Merged PR [#15](https://github.com/Provenance-Emu/wiki/pull/15) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-4. 🎉 Merged PR [#16](https://github.com/Provenance-Emu/wiki/pull/16) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-5. 🎉 Merged PR [#1901](https://github.com/Provenance-Emu/Provenance/pull/1901) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#6875](https://github.com/libretro/RetroArch/issues/6875) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+2. ❗️ Opened issue [#1939](https://github.com/Provenance-Emu/Provenance/issues/1939) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#1919](https://github.com/Provenance-Emu/Provenance/pull/1919) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🎉 Merged PR [#15](https://github.com/Provenance-Emu/wiki/pull/15) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+5. 🎉 Merged PR [#16](https://github.com/Provenance-Emu/wiki/pull/16) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
 <!--END_SECTION:activity-->
 
 </details>
