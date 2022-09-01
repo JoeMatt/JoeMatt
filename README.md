@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1965](https://github.com/Provenance-Emu/Provenance/issues/1965) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Closed issue [#741](https://github.com/HeroTransitions/Hero/issues/741) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-3. 🎉 Merged PR [#742](https://github.com/HeroTransitions/Hero/pull/742) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-4. 🎉 Merged PR [#740](https://github.com/HeroTransitions/Hero/pull/740) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-5. 🗣 Commented on [#1922](https://github.com/Provenance-Emu/Provenance/issues/1922) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❌ Closed PR [#188](https://github.com/RxSwiftCommunity/RxRealm/pull/188) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+2. ❗️ Opened issue [#1965](https://github.com/Provenance-Emu/Provenance/issues/1965) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Closed issue [#741](https://github.com/HeroTransitions/Hero/issues/741) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+4. 🎉 Merged PR [#742](https://github.com/HeroTransitions/Hero/pull/742) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+5. 🎉 Merged PR [#740](https://github.com/HeroTransitions/Hero/pull/740) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
 <!--END_SECTION:activity-->
 
 </details>
