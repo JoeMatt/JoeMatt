@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1967](https://github.com/Provenance-Emu/Provenance/issues/1967) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Opened issue [#1966](https://github.com/Provenance-Emu/Provenance/issues/1966) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❌ Closed PR [#188](https://github.com/RxSwiftCommunity/RxRealm/pull/188) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-4. ❗️ Opened issue [#1965](https://github.com/Provenance-Emu/Provenance/issues/1965) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗️ Closed issue [#741](https://github.com/HeroTransitions/Hero/issues/741) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+1. ❗️ Opened issue [#1970](https://github.com/Provenance-Emu/Provenance/issues/1970) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Opened issue [#1969](https://github.com/Provenance-Emu/Provenance/issues/1969) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Opened issue [#1967](https://github.com/Provenance-Emu/Provenance/issues/1967) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ❗️ Opened issue [#1966](https://github.com/Provenance-Emu/Provenance/issues/1966) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❌ Closed PR [#188](https://github.com/RxSwiftCommunity/RxRealm/pull/188) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
 <!--END_SECTION:activity-->
 
 </details>
