@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#747](https://github.com/HeroTransitions/Hero/issues/747) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-2. ❗️ Opened issue [#1978](https://github.com/Provenance-Emu/Provenance/issues/1978) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#31](https://github.com/nepx/halfix/issues/31) in [nepx/halfix](https://github.com/nepx/halfix)
+2. 💪 Opened PR [#34](https://github.com/nepx/halfix/pull/34) in [nepx/halfix](https://github.com/nepx/halfix)
 3. 🗣 Commented on [#747](https://github.com/HeroTransitions/Hero/issues/747) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-4. ❗️ Opened issue [#1977](https://github.com/Provenance-Emu/Provenance/issues/1977) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗️ Opened issue [#1976](https://github.com/Provenance-Emu/Provenance/issues/1976) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ❗️ Opened issue [#1978](https://github.com/Provenance-Emu/Provenance/issues/1978) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#747](https://github.com/HeroTransitions/Hero/issues/747) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
 <!--END_SECTION:activity-->
 
 </details>
