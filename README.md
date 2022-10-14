@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1978](https://github.com/Provenance-Emu/Provenance/issues/1978) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#747](https://github.com/HeroTransitions/Hero/issues/747) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-3. ❗️ Opened issue [#1977](https://github.com/Provenance-Emu/Provenance/issues/1977) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Opened issue [#1976](https://github.com/Provenance-Emu/Provenance/issues/1976) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#747](https://github.com/HeroTransitions/Hero/issues/747) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+1. 🗣 Commented on [#747](https://github.com/HeroTransitions/Hero/issues/747) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+2. ❗️ Opened issue [#1978](https://github.com/Provenance-Emu/Provenance/issues/1978) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#747](https://github.com/HeroTransitions/Hero/issues/747) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+4. ❗️ Opened issue [#1977](https://github.com/Provenance-Emu/Provenance/issues/1977) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#1976](https://github.com/Provenance-Emu/Provenance/issues/1976) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
