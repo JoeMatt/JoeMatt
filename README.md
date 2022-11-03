@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/SideStore/SideStore/issues/95) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 💪 Opened PR [#99](https://github.com/SideStore/SideStore/pull/99) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🎉 Merged PR [#1987](https://github.com/Provenance-Emu/Provenance/pull/1987) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#1988](https://github.com/Provenance-Emu/Provenance/issues/1988) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗️ Opened issue [#1992](https://github.com/Provenance-Emu/Provenance/issues/1992) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#101](https://github.com/SideStore/SideStore/issues/101) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. ❗️ Opened issue [#102](https://github.com/SideStore/SideStore/issues/102) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🎉 Merged PR [#3](https://github.com/Provenance-Emu/Core-VirtualJaguar/pull/3) in [Provenance-Emu/Core-VirtualJaguar](https://github.com/Provenance-Emu/Core-VirtualJaguar)
+4. ❗️ Opened issue [#101](https://github.com/SideStore/SideStore/issues/101) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. ❗️ Opened issue [#100](https://github.com/SideStore/SideStore/issues/100) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
