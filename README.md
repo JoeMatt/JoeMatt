@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#110](https://github.com/SideStore/SideStore/pull/110) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 💪 Opened PR [#110](https://github.com/SideStore/SideStore/pull/110) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 💪 Opened PR [#109](https://github.com/SideStore/SideStore/pull/109) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 💪 Opened PR [#108](https://github.com/SideStore/SideStore/pull/108) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. ❗️ Opened issue [#103](https://github.com/SideStore/SideStore/issues/103) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 💪 Opened PR [#111](https://github.com/SideStore/SideStore/pull/111) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 🗣 Commented on [#109](https://github.com/SideStore/SideStore/issues/109) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ❌ Closed PR [#110](https://github.com/SideStore/SideStore/pull/110) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 💪 Opened PR [#110](https://github.com/SideStore/SideStore/pull/110) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 💪 Opened PR [#109](https://github.com/SideStore/SideStore/pull/109) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
