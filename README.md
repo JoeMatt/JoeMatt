@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#113](https://github.com/SideStore/SideStore/pull/113) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#100](https://github.com/SideStore/SideStore/issues/100) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 💪 Opened PR [#112](https://github.com/SideStore/SideStore/pull/112) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🗣 Commented on [#103](https://github.com/SideStore/SideStore/issues/103) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 💪 Opened PR [#111](https://github.com/SideStore/SideStore/pull/111) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. ❗️ Closed issue [#1990](https://github.com/Provenance-Emu/Provenance/issues/1990) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Closed issue [#1989](https://github.com/Provenance-Emu/Provenance/issues/1989) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#113](https://github.com/SideStore/SideStore/pull/113) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🗣 Commented on [#100](https://github.com/SideStore/SideStore/issues/100) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 💪 Opened PR [#112](https://github.com/SideStore/SideStore/pull/112) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
