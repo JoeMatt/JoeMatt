@@ -75,10 +75,10 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#19](https://github.com/Sappharad/MultiPatch/issues/19) in [Sappharad/MultiPatch](https://github.com/Sappharad/MultiPatch)
-2. 💪 Opened PR [#116](https://github.com/SideStore/SideStore/pull/116) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. ❗️ Closed issue [#1993](https://github.com/Provenance-Emu/Provenance/issues/1993) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#1814](https://github.com/Provenance-Emu/Provenance/issues/1814) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Closed issue [#1814](https://github.com/Provenance-Emu/Provenance/issues/1814) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 4. 🗣 Commented on [#1993](https://github.com/Provenance-Emu/Provenance/issues/1993) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗️ Closed issue [#1991](https://github.com/Provenance-Emu/Provenance/issues/1991) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#19](https://github.com/Sappharad/MultiPatch/issues/19) in [Sappharad/MultiPatch](https://github.com/Sappharad/MultiPatch)
 <!--END_SECTION:activity-->
 
 </details>
