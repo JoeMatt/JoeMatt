@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#116](https://github.com/SideStore/SideStore/pull/116) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. ❗️ Closed issue [#1993](https://github.com/Provenance-Emu/Provenance/issues/1993) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#1993](https://github.com/Provenance-Emu/Provenance/issues/1993) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Closed issue [#1991](https://github.com/Provenance-Emu/Provenance/issues/1991) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#98](https://github.com/SideStore/SideStore/issues/98) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#19](https://github.com/Sappharad/MultiPatch/issues/19) in [Sappharad/MultiPatch](https://github.com/Sappharad/MultiPatch)
+2. 💪 Opened PR [#116](https://github.com/SideStore/SideStore/pull/116) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ❗️ Closed issue [#1993](https://github.com/Provenance-Emu/Provenance/issues/1993) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#1993](https://github.com/Provenance-Emu/Provenance/issues/1993) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Closed issue [#1991](https://github.com/Provenance-Emu/Provenance/issues/1991) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
