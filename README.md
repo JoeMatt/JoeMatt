@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Sappharad/MultiPatch/issues/19) in [Sappharad/MultiPatch](https://github.com/Sappharad/MultiPatch)
-2. ❌ Closed PR [#111](https://github.com/SideStore/SideStore/pull/111) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#111](https://github.com/SideStore/SideStore/issues/111) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🗣 Commented on [#2007](https://github.com/Provenance-Emu/Provenance/issues/2007) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#1814](https://github.com/Provenance-Emu/Provenance/issues/1814) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#753](https://github.com/HeroTransitions/Hero/issues/753) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+2. 🗣 Commented on [#62](https://github.com/SideStore/SideStore/issues/62) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#19](https://github.com/Sappharad/MultiPatch/issues/19) in [Sappharad/MultiPatch](https://github.com/Sappharad/MultiPatch)
+4. ❌ Closed PR [#111](https://github.com/SideStore/SideStore/pull/111) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🗣 Commented on [#111](https://github.com/SideStore/SideStore/issues/111) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
