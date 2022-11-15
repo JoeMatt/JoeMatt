@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/SideStore/SideStore/issues/62) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 💪 Opened PR [#122](https://github.com/SideStore/SideStore/pull/122) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#753](https://github.com/HeroTransitions/Hero/issues/753) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-4. 🗣 Commented on [#62](https://github.com/SideStore/SideStore/issues/62) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#19](https://github.com/Sappharad/MultiPatch/issues/19) in [Sappharad/MultiPatch](https://github.com/Sappharad/MultiPatch)
+1. ❗️ Closed issue [#2010](https://github.com/Provenance-Emu/Provenance/issues/2010) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#2010](https://github.com/Provenance-Emu/Provenance/issues/2010) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#2009](https://github.com/Provenance-Emu/Provenance/issues/2009) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#1957](https://github.com/Provenance-Emu/Provenance/issues/1957) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#62](https://github.com/SideStore/SideStore/issues/62) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
