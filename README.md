@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/SideStore/SideStore/issues/93) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#45](https://github.com/SideStore/SideStore/issues/45) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#45](https://github.com/SideStore/SideStore/issues/45) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. ❌ Closed PR [#98](https://github.com/SideStore/SideStore/pull/98) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#98](https://github.com/SideStore/SideStore/issues/98) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. ❗️ Opened issue [#2014](https://github.com/Provenance-Emu/Provenance/issues/2014) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#2013](https://github.com/Provenance-Emu/Provenance/issues/2013) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
