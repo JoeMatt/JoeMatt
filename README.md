@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. ❗️ Opened issue [#2014](https://github.com/Provenance-Emu/Provenance/issues/2014) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗️ Opened issue [#2013](https://github.com/Provenance-Emu/Provenance/issues/2013) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🎉 Merged PR [#2016](https://github.com/Provenance-Emu/Provenance/pull/2016) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#2016](https://github.com/Provenance-Emu/Provenance/issues/2016) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#2017](https://github.com/Provenance-Emu/Provenance/pull/2017) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🎉 Merged PR [#2015](https://github.com/Provenance-Emu/Provenance/pull/2015) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#127](https://github.com/SideStore/SideStore/issues/127) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
