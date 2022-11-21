@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/stella/pull/1) in [Provenance-Emu/stella](https://github.com/Provenance-Emu/stella)
-2. 💪 Opened PR [#1](https://github.com/Provenance-Emu/stella/pull/1) in [Provenance-Emu/stella](https://github.com/Provenance-Emu/stella)
-3. 🗣 Commented on [#127](https://github.com/SideStore/SideStore/issues/127) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. ❗️ Closed issue [#125](https://github.com/SideStore/SideStore/issues/125) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🎉 Merged PR [#128](https://github.com/SideStore/SideStore/pull/128) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🗣 Commented on [#76](https://github.com/libretro/virtualjaguar-libretro/issues/76) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/stella/pull/1) in [Provenance-Emu/stella](https://github.com/Provenance-Emu/stella)
+3. 💪 Opened PR [#1](https://github.com/Provenance-Emu/stella/pull/1) in [Provenance-Emu/stella](https://github.com/Provenance-Emu/stella)
+4. 🗣 Commented on [#127](https://github.com/SideStore/SideStore/issues/127) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. ❗️ Closed issue [#125](https://github.com/SideStore/SideStore/issues/125) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
