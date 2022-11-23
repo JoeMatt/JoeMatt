@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#142](https://github.com/SideStore/SideStore/pull/142) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🎉 Merged PR [#141](https://github.com/SideStore/SideStore/pull/141) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#141](https://github.com/SideStore/SideStore/issues/141) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🎉 Merged PR [#122](https://github.com/SideStore/SideStore/pull/122) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#93](https://github.com/SideStore/SideStore/issues/93) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. 🎉 Merged PR [#143](https://github.com/SideStore/SideStore/pull/143) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 🗣 Commented on [#142](https://github.com/SideStore/SideStore/issues/142) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#142](https://github.com/SideStore/SideStore/issues/142) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 💪 Opened PR [#143](https://github.com/SideStore/SideStore/pull/143) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 💪 Opened PR [#142](https://github.com/SideStore/SideStore/pull/142) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
