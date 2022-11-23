@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#143](https://github.com/SideStore/SideStore/pull/143) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#142](https://github.com/SideStore/SideStore/issues/142) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#142](https://github.com/SideStore/SideStore/issues/142) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 💪 Opened PR [#143](https://github.com/SideStore/SideStore/pull/143) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 💪 Opened PR [#142](https://github.com/SideStore/SideStore/pull/142) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. ❗️ Closed issue [#76](https://github.com/libretro/virtualjaguar-libretro/issues/76) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🗣 Commented on [#76](https://github.com/libretro/virtualjaguar-libretro/issues/76) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. ❗️ Closed issue [#61](https://github.com/libretro/virtualjaguar-libretro/issues/61) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 🗣 Commented on [#21](https://github.com/libretro/virtualjaguar-libretro/issues/21) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. ❗️ Closed issue [#21](https://github.com/libretro/virtualjaguar-libretro/issues/21) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
