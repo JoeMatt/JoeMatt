@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2022](https://github.com/Provenance-Emu/Provenance/pull/2022) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 💪 Opened PR [#4](https://github.com/OpenEmu/OpenEmu-Shaders/pull/4) in [OpenEmu/OpenEmu-Shaders](https://github.com/OpenEmu/OpenEmu-Shaders)
-3. 💪 Opened PR [#2](https://github.com/stuartcarnie/SwiftSPIRV-Cross/pull/2) in [stuartcarnie/SwiftSPIRV-Cross](https://github.com/stuartcarnie/SwiftSPIRV-Cross)
-4. 🗣 Commented on [#1975](https://github.com/Provenance-Emu/Provenance/issues/1975) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🎉 Merged PR [#2020](https://github.com/Provenance-Emu/Provenance/pull/2020) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#3](https://github.com/OpenEmu/VirtualJaguar-Core/issues/3) in [OpenEmu/VirtualJaguar-Core](https://github.com/OpenEmu/VirtualJaguar-Core)
+2. 💪 Opened PR [#2023](https://github.com/Provenance-Emu/Provenance/pull/2023) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#2022](https://github.com/Provenance-Emu/Provenance/pull/2022) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#4](https://github.com/OpenEmu/OpenEmu-Shaders/pull/4) in [OpenEmu/OpenEmu-Shaders](https://github.com/OpenEmu/OpenEmu-Shaders)
+5. 💪 Opened PR [#2](https://github.com/stuartcarnie/SwiftSPIRV-Cross/pull/2) in [stuartcarnie/SwiftSPIRV-Cross](https://github.com/stuartcarnie/SwiftSPIRV-Cross)
 <!--END_SECTION:activity-->
 
 </details>
