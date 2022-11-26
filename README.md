@@ -75,10 +75,10 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#153](https://github.com/SideStore/SideStore/issues/153) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#157](https://github.com/SideStore/SideStore/issues/157) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#3](https://github.com/OpenEmu/VirtualJaguar-Core/issues/3) in [OpenEmu/VirtualJaguar-Core](https://github.com/OpenEmu/VirtualJaguar-Core)
-4. 💪 Opened PR [#2023](https://github.com/Provenance-Emu/Provenance/pull/2023) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 💪 Opened PR [#2022](https://github.com/Provenance-Emu/Provenance/pull/2022) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#153](https://github.com/SideStore/SideStore/issues/153) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#157](https://github.com/SideStore/SideStore/issues/157) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🗣 Commented on [#3](https://github.com/OpenEmu/VirtualJaguar-Core/issues/3) in [OpenEmu/VirtualJaguar-Core](https://github.com/OpenEmu/VirtualJaguar-Core)
+5. 💪 Opened PR [#2023](https://github.com/Provenance-Emu/Provenance/pull/2023) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
