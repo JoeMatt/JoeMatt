@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2036](https://github.com/Provenance-Emu/Provenance/pull/2036) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#753](https://github.com/HeroTransitions/Hero/issues/753) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-3. 💪 Opened PR [#5](https://github.com/SideStore/apps.json/pull/5) in [SideStore/apps.json](https://github.com/SideStore/apps.json)
-4. ❗️ Opened issue [#167](https://github.com/SideStore/SideStore/issues/167) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#160](https://github.com/SideStore/SideStore/issues/160) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. ❗️ Opened issue [#2037](https://github.com/Provenance-Emu/Provenance/issues/2037) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 💪 Opened PR [#2036](https://github.com/Provenance-Emu/Provenance/pull/2036) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#753](https://github.com/HeroTransitions/Hero/issues/753) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+4. 💪 Opened PR [#5](https://github.com/SideStore/apps.json/pull/5) in [SideStore/apps.json](https://github.com/SideStore/apps.json)
+5. ❗️ Opened issue [#167](https://github.com/SideStore/SideStore/issues/167) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
