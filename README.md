@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2060](https://github.com/Provenance-Emu/Provenance/pull/2060) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Opened issue [#2057](https://github.com/Provenance-Emu/Provenance/issues/2057) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗️ Opened issue [#2055](https://github.com/Provenance-Emu/Provenance/issues/2055) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#924](https://github.com/Provenance-Emu/Provenance/issues/924) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗️ Opened issue [#2054](https://github.com/Provenance-Emu/Provenance/issues/2054) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🎉 Merged PR [#2044](https://github.com/Provenance-Emu/Provenance/pull/2044) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#2051](https://github.com/Provenance-Emu/Provenance/pull/2051) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#2056](https://github.com/Provenance-Emu/Provenance/pull/2056) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🎉 Merged PR [#181](https://github.com/SideStore/SideStore/pull/181) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 💪 Opened PR [#2060](https://github.com/Provenance-Emu/Provenance/pull/2060) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
