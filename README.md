@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/SideStore/SideStore/issues/183) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. ❗️ Closed issue [#183](https://github.com/SideStore/SideStore/issues/183) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🎉 Merged PR [#2067](https://github.com/Provenance-Emu/Provenance/pull/2067) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#2071](https://github.com/Provenance-Emu/Provenance/issues/2071) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#183](https://github.com/SideStore/SideStore/issues/183) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. ❗️ Reopened issue [#1814](https://github.com/Provenance-Emu/Provenance/issues/1814) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 💪 Opened PR [#39](https://github.com/jpd002/Play--Framework/pull/39) in [jpd002/Play--Framework](https://github.com/jpd002/Play--Framework)
+3. 🗣 Commented on [#183](https://github.com/SideStore/SideStore/issues/183) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. ❗️ Closed issue [#183](https://github.com/SideStore/SideStore/issues/183) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🎉 Merged PR [#2067](https://github.com/Provenance-Emu/Provenance/pull/2067) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
