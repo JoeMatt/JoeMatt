@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2091](https://github.com/Provenance-Emu/Provenance/pull/2091) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#2091](https://github.com/Provenance-Emu/Provenance/issues/2091) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🎉 Merged PR [#2095](https://github.com/Provenance-Emu/Provenance/pull/2095) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🎉 Merged PR [#2099](https://github.com/Provenance-Emu/Provenance/pull/2099) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🎉 Merged PR [#2097](https://github.com/Provenance-Emu/Provenance/pull/2097) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#93](https://github.com/SideStore/SideStore/issues/93) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 🗣 Commented on [#1224](https://github.com/jpd002/Play-/issues/1224) in [jpd002/Play-](https://github.com/jpd002/Play-)
+3. ❌ Closed PR [#2093](https://github.com/Provenance-Emu/Provenance/pull/2093) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#2093](https://github.com/Provenance-Emu/Provenance/issues/2093) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#1](https://github.com/SideStore/SideServer-for-Linux/issues/1) in [SideStore/SideServer-for-Linux](https://github.com/SideStore/SideServer-for-Linux)
 <!--END_SECTION:activity-->
 
 </details>
