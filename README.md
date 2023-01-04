@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2120](https://github.com/Provenance-Emu/Provenance/pull/2120) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Opened issue [#2121](https://github.com/Provenance-Emu/Provenance/issues/2121) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 💪 Opened PR [#209](https://github.com/SideStore/SideStore/pull/209) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. ❗️ Reopened issue [#149](https://github.com/HeroTransitions/Hero/issues/149) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-5. ❗️ Closed issue [#2103](https://github.com/Provenance-Emu/Provenance/issues/2103) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🎉 Merged PR [#210](https://github.com/SideStore/SideStore/pull/210) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. ❗️ Closed issue [#168](https://github.com/SideStore/SideStore/issues/168) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ❗️ Closed issue [#206](https://github.com/SideStore/SideStore/issues/206) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. ❗️ Closed issue [#172](https://github.com/SideStore/SideStore/issues/172) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🗣 Commented on [#172](https://github.com/SideStore/SideStore/issues/172) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
