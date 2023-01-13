@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/SideStore/SideStore/issues/221) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🎉 Merged PR [#219](https://github.com/SideStore/SideStore/pull/219) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 🗣 Commented on [#2138](https://github.com/Provenance-Emu/Provenance/issues/2138) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Opened issue [#281](https://github.com/notaz/pcsx_rearmed/issues/281) in [notaz/pcsx_rearmed](https://github.com/notaz/pcsx_rearmed)
-5. ❗️ Opened issue [#2137](https://github.com/Provenance-Emu/Provenance/issues/2137) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#2138](https://github.com/Provenance-Emu/Provenance/issues/2138) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#221](https://github.com/SideStore/SideStore/issues/221) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🎉 Merged PR [#219](https://github.com/SideStore/SideStore/pull/219) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 🗣 Commented on [#2138](https://github.com/Provenance-Emu/Provenance/issues/2138) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#281](https://github.com/notaz/pcsx_rearmed/issues/281) in [notaz/pcsx_rearmed](https://github.com/notaz/pcsx_rearmed)
 <!--END_SECTION:activity-->
 
 </details>
