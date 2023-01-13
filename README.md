@@ -76,9 +76,9 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2138](https://github.com/Provenance-Emu/Provenance/issues/2138) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 2. 🗣 Commented on [#2138](https://github.com/Provenance-Emu/Provenance/issues/2138) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#221](https://github.com/SideStore/SideStore/issues/221) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🎉 Merged PR [#219](https://github.com/SideStore/SideStore/pull/219) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#2138](https://github.com/Provenance-Emu/Provenance/issues/2138) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#2138](https://github.com/Provenance-Emu/Provenance/issues/2138) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#221](https://github.com/SideStore/SideStore/issues/221) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🎉 Merged PR [#219](https://github.com/SideStore/SideStore/pull/219) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
