@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#281](https://github.com/notaz/pcsx_rearmed/issues/281) in [notaz/pcsx_rearmed](https://github.com/notaz/pcsx_rearmed)
-2. ❗️ Opened issue [#2137](https://github.com/Provenance-Emu/Provenance/issues/2137) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 💪 Opened PR [#221](https://github.com/SideStore/SideStore/pull/221) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🗣 Commented on [#1360](https://github.com/Provenance-Emu/Provenance/issues/1360) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#2133](https://github.com/Provenance-Emu/Provenance/issues/2133) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#2138](https://github.com/Provenance-Emu/Provenance/issues/2138) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Opened issue [#281](https://github.com/notaz/pcsx_rearmed/issues/281) in [notaz/pcsx_rearmed](https://github.com/notaz/pcsx_rearmed)
+3. ❗️ Opened issue [#2137](https://github.com/Provenance-Emu/Provenance/issues/2137) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#221](https://github.com/SideStore/SideStore/pull/221) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🗣 Commented on [#1360](https://github.com/Provenance-Emu/Provenance/issues/1360) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
