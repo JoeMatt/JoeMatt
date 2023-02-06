@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#245](https://github.com/SideStore/SideStore/pull/245) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. ❗️ Opened issue [#2150](https://github.com/Provenance-Emu/Provenance/issues/2150) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#2144](https://github.com/Provenance-Emu/Provenance/issues/2144) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🎉 Merged PR [#1](https://github.com/SideStore/.github/pull/1) in [SideStore/.github](https://github.com/SideStore/.github)
-5. ❗️ Closed issue [#2145](https://github.com/Provenance-Emu/Provenance/issues/2145) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#78](https://github.com/libretro/virtualjaguar-libretro/issues/78) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🎉 Merged PR [#253](https://github.com/SideStore/SideStore/pull/253) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🎉 Merged PR [#245](https://github.com/SideStore/SideStore/pull/245) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. ❗️ Opened issue [#2150](https://github.com/Provenance-Emu/Provenance/issues/2150) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#2144](https://github.com/Provenance-Emu/Provenance/issues/2144) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
