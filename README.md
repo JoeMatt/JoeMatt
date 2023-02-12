@@ -74,8 +74,8 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/lonkelle/Deltroid/pull/23) in [lonkelle/Deltroid](https://github.com/lonkelle/Deltroid)
-2. 🗣 Commented on [#78](https://github.com/libretro/virtualjaguar-libretro/issues/78) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. ❗️ Opened issue [#2154](https://github.com/Provenance-Emu/Provenance/issues/2154) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 💪 Opened PR [#23](https://github.com/lonkelle/Deltroid/pull/23) in [lonkelle/Deltroid](https://github.com/lonkelle/Deltroid)
 3. 🎉 Merged PR [#253](https://github.com/SideStore/SideStore/pull/253) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 4. 🎉 Merged PR [#245](https://github.com/SideStore/SideStore/pull/245) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 5. ❗️ Opened issue [#2150](https://github.com/Provenance-Emu/Provenance/issues/2150) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
