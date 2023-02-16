@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2154](https://github.com/Provenance-Emu/Provenance/issues/2154) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 💪 Opened PR [#23](https://github.com/lonkelle/Deltroid/pull/23) in [lonkelle/Deltroid](https://github.com/lonkelle/Deltroid)
-3. 🎉 Merged PR [#253](https://github.com/SideStore/SideStore/pull/253) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🎉 Merged PR [#245](https://github.com/SideStore/SideStore/pull/245) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. ❗️ Opened issue [#2150](https://github.com/Provenance-Emu/Provenance/issues/2150) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 💪 Opened PR [#1](https://github.com/JoeMatt/Harmony-S3/pull/1) in [JoeMatt/Harmony-S3](https://github.com/JoeMatt/Harmony-S3)
+2. 💪 Opened PR [#1](https://github.com/JoeMatt/Harmony-Drive/pull/1) in [JoeMatt/Harmony-Drive](https://github.com/JoeMatt/Harmony-Drive)
+3. 💪 Opened PR [#1](https://github.com/JoeMatt/Harmony/pull/1) in [JoeMatt/Harmony](https://github.com/JoeMatt/Harmony)
+4. 💪 Opened PR [#1](https://github.com/JoeMatt/Harmony-Dropbox/pull/1) in [JoeMatt/Harmony-Dropbox](https://github.com/JoeMatt/Harmony-Dropbox)
+5. 💪 Opened PR [#1](https://github.com/JoeMatt/Roxas/pull/1) in [JoeMatt/Roxas](https://github.com/JoeMatt/Roxas)
 <!--END_SECTION:activity-->
 
 </details>
