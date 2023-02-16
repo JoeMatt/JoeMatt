@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JoeMatt/Harmony-Drive/pull/1) in [JoeMatt/Harmony-Drive](https://github.com/JoeMatt/Harmony-Drive)
-2. 🎉 Merged PR [#1](https://github.com/JoeMatt/Harmony/pull/1) in [JoeMatt/Harmony](https://github.com/JoeMatt/Harmony)
-3. 🎉 Merged PR [#1](https://github.com/JoeMatt/Roxas/pull/1) in [JoeMatt/Roxas](https://github.com/JoeMatt/Roxas)
-4. 💪 Opened PR [#1](https://github.com/JoeMatt/Harmony-S3/pull/1) in [JoeMatt/Harmony-S3](https://github.com/JoeMatt/Harmony-S3)
-5. 💪 Opened PR [#1](https://github.com/JoeMatt/Harmony-Drive/pull/1) in [JoeMatt/Harmony-Drive](https://github.com/JoeMatt/Harmony-Drive)
+1. 🎉 Merged PR [#1](https://github.com/JoeMatt/Harmony-Dropbox/pull/1) in [JoeMatt/Harmony-Dropbox](https://github.com/JoeMatt/Harmony-Dropbox)
+2. 💪 Opened PR [#367](https://github.com/dropbox/SwiftyDropbox/pull/367) in [dropbox/SwiftyDropbox](https://github.com/dropbox/SwiftyDropbox)
+3. 🎉 Merged PR [#1](https://github.com/JoeMatt/Harmony-Drive/pull/1) in [JoeMatt/Harmony-Drive](https://github.com/JoeMatt/Harmony-Drive)
+4. 🎉 Merged PR [#1](https://github.com/JoeMatt/Harmony/pull/1) in [JoeMatt/Harmony](https://github.com/JoeMatt/Harmony)
+5. 🎉 Merged PR [#1](https://github.com/JoeMatt/Roxas/pull/1) in [JoeMatt/Roxas](https://github.com/JoeMatt/Roxas)
 <!--END_SECTION:activity-->
 
 </details>
