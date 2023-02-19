@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2156](https://github.com/Provenance-Emu/Provenance/issues/2156) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 💪 Opened PR [#2155](https://github.com/Provenance-Emu/Provenance/pull/2155) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🎉 Merged PR [#1](https://github.com/JoeMatt/Harmony-Dropbox/pull/1) in [JoeMatt/Harmony-Dropbox](https://github.com/JoeMatt/Harmony-Dropbox)
-4. 💪 Opened PR [#367](https://github.com/dropbox/SwiftyDropbox/pull/367) in [dropbox/SwiftyDropbox](https://github.com/dropbox/SwiftyDropbox)
-5. 🎉 Merged PR [#1](https://github.com/JoeMatt/Harmony-Drive/pull/1) in [JoeMatt/Harmony-Drive](https://github.com/JoeMatt/Harmony-Drive)
+1. ❗️ Opened issue [#2157](https://github.com/Provenance-Emu/Provenance/issues/2157) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Opened issue [#2156](https://github.com/Provenance-Emu/Provenance/issues/2156) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#2155](https://github.com/Provenance-Emu/Provenance/pull/2155) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🎉 Merged PR [#1](https://github.com/JoeMatt/Harmony-Dropbox/pull/1) in [JoeMatt/Harmony-Dropbox](https://github.com/JoeMatt/Harmony-Dropbox)
+5. 💪 Opened PR [#367](https://github.com/dropbox/SwiftyDropbox/pull/367) in [dropbox/SwiftyDropbox](https://github.com/dropbox/SwiftyDropbox)
 <!--END_SECTION:activity-->
 
 </details>
