@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#367](https://github.com/dropbox/SwiftyDropbox/issues/367) in [dropbox/SwiftyDropbox](https://github.com/dropbox/SwiftyDropbox)
-2. ❗️ Opened issue [#2158](https://github.com/Provenance-Emu/Provenance/issues/2158) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗️ Opened issue [#2157](https://github.com/Provenance-Emu/Provenance/issues/2157) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Opened issue [#2156](https://github.com/Provenance-Emu/Provenance/issues/2156) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 💪 Opened PR [#2155](https://github.com/Provenance-Emu/Provenance/pull/2155) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#2160](https://github.com/Provenance-Emu/Provenance/issues/2160) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#367](https://github.com/dropbox/SwiftyDropbox/issues/367) in [dropbox/SwiftyDropbox](https://github.com/dropbox/SwiftyDropbox)
+3. ❗️ Opened issue [#2158](https://github.com/Provenance-Emu/Provenance/issues/2158) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ❗️ Opened issue [#2157](https://github.com/Provenance-Emu/Provenance/issues/2157) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Opened issue [#2156](https://github.com/Provenance-Emu/Provenance/issues/2156) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
