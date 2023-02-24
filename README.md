@@ -78,7 +78,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 2. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
 3. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
 4. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
-5. 🎉 Merged PR [#272](https://github.com/SideStore/SideStore/pull/272) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
 <!--END_SECTION:activity-->
 
 </details>
