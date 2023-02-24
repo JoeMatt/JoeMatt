@@ -76,9 +76,9 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
 2. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
-3. 🎉 Merged PR [#272](https://github.com/SideStore/SideStore/pull/272) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 💪 Opened PR [#34](https://github.com/AppDevGuy/OSSSpeechKit/pull/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
-5. 🗣 Commented on [#2160](https://github.com/Provenance-Emu/Provenance/issues/2160) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
+4. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
+5. 🎉 Merged PR [#272](https://github.com/SideStore/SideStore/pull/272) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
