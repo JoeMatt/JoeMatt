@@ -74,8 +74,8 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SideStore/SideKit/pull/1) in [SideStore/SideKit](https://github.com/SideStore/SideKit)
-2. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
+1. 💪 Opened PR [#278](https://github.com/SideStore/SideStore/pull/278) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 💪 Opened PR [#1](https://github.com/SideStore/SideKit/pull/1) in [SideStore/SideKit](https://github.com/SideStore/SideKit)
 3. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
 4. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
 5. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
