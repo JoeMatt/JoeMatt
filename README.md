@@ -74,10 +74,10 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/SideStore/SideKit/pull/2) in [SideStore/SideKit](https://github.com/SideStore/SideKit)
-2. 💪 Opened PR [#278](https://github.com/SideStore/SideStore/pull/278) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-3. 💪 Opened PR [#1](https://github.com/SideStore/SideKit/pull/1) in [SideStore/SideKit](https://github.com/SideStore/SideKit)
-4. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
+1. ❗️ Opened issue [#2165](https://github.com/Provenance-Emu/Provenance/issues/2165) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 💪 Opened PR [#2](https://github.com/SideStore/SideKit/pull/2) in [SideStore/SideKit](https://github.com/SideStore/SideKit)
+3. 💪 Opened PR [#278](https://github.com/SideStore/SideStore/pull/278) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. 💪 Opened PR [#1](https://github.com/SideStore/SideKit/pull/1) in [SideStore/SideKit](https://github.com/SideStore/SideKit)
 5. 🗣 Commented on [#34](https://github.com/AppDevGuy/OSSSpeechKit/issues/34) in [AppDevGuy/OSSSpeechKit](https://github.com/AppDevGuy/OSSSpeechKit)
 <!--END_SECTION:activity-->
 
