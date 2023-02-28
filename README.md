@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2166](https://github.com/Provenance-Emu/Provenance/issues/2166) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Opened issue [#2165](https://github.com/Provenance-Emu/Provenance/issues/2165) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 💪 Opened PR [#2](https://github.com/SideStore/SideKit/pull/2) in [SideStore/SideKit](https://github.com/SideStore/SideKit)
-4. 💪 Opened PR [#278](https://github.com/SideStore/SideStore/pull/278) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 💪 Opened PR [#1](https://github.com/SideStore/SideKit/pull/1) in [SideStore/SideKit](https://github.com/SideStore/SideKit)
+1. ❗️ Closed issue [#2162](https://github.com/Provenance-Emu/Provenance/issues/2162) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Opened issue [#2166](https://github.com/Provenance-Emu/Provenance/issues/2166) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Opened issue [#2165](https://github.com/Provenance-Emu/Provenance/issues/2165) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#2](https://github.com/SideStore/SideKit/pull/2) in [SideStore/SideKit](https://github.com/SideStore/SideKit)
+5. 💪 Opened PR [#278](https://github.com/SideStore/SideStore/pull/278) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
