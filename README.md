@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/JoeMatt/DeltaCore/pull/2) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
-2. ❌ Closed PR [#1](https://github.com/JoeMatt/DeltaCore/pull/1) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
-3. 💪 Opened PR [#2](https://github.com/JoeMatt/DeltaCore/pull/2) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
-4. 💪 Opened PR [#1](https://github.com/JoeMatt/DeltaCore/pull/1) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
-5. ❗️ Opened issue [#2176](https://github.com/Provenance-Emu/Provenance/issues/2176) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🎉 Merged PR [#13](https://github.com/SideStore/apple-private-apis/pull/13) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
+2. 🎉 Merged PR [#2](https://github.com/JoeMatt/DeltaCore/pull/2) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
+3. ❌ Closed PR [#1](https://github.com/JoeMatt/DeltaCore/pull/1) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
+4. 💪 Opened PR [#2](https://github.com/JoeMatt/DeltaCore/pull/2) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
+5. 💪 Opened PR [#1](https://github.com/JoeMatt/DeltaCore/pull/1) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
 <!--END_SECTION:activity-->
 
 </details>
