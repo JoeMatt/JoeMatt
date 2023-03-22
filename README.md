@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4721](https://github.com/apple/swift-corelibs-foundation/pull/4721) in [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation)
-2. 🎉 Merged PR [#13](https://github.com/SideStore/apple-private-apis/pull/13) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
-3. 🎉 Merged PR [#2](https://github.com/JoeMatt/DeltaCore/pull/2) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
-4. ❌ Closed PR [#1](https://github.com/JoeMatt/DeltaCore/pull/1) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
-5. 💪 Opened PR [#2](https://github.com/JoeMatt/DeltaCore/pull/2) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
+1. ❗️ Opened issue [#2177](https://github.com/Provenance-Emu/Provenance/issues/2177) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 💪 Opened PR [#4721](https://github.com/apple/swift-corelibs-foundation/pull/4721) in [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation)
+3. 🎉 Merged PR [#13](https://github.com/SideStore/apple-private-apis/pull/13) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
+4. 🎉 Merged PR [#2](https://github.com/JoeMatt/DeltaCore/pull/2) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
+5. ❌ Closed PR [#1](https://github.com/JoeMatt/DeltaCore/pull/1) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
 <!--END_SECTION:activity-->
 
 </details>
