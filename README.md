@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#311](https://github.com/SideStore/SideStore/issues/311) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. ❗️ Opened issue [#2177](https://github.com/Provenance-Emu/Provenance/issues/2177) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 💪 Opened PR [#4721](https://github.com/apple/swift-corelibs-foundation/pull/4721) in [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation)
-4. 🎉 Merged PR [#13](https://github.com/SideStore/apple-private-apis/pull/13) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
-5. 🎉 Merged PR [#2](https://github.com/JoeMatt/DeltaCore/pull/2) in [JoeMatt/DeltaCore](https://github.com/JoeMatt/DeltaCore)
+1. ❌ Closed PR [#311](https://github.com/SideStore/SideStore/pull/311) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 🗣 Commented on [#311](https://github.com/SideStore/SideStore/issues/311) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. 🗣 Commented on [#311](https://github.com/SideStore/SideStore/issues/311) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+4. ❗️ Opened issue [#2177](https://github.com/Provenance-Emu/Provenance/issues/2177) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 💪 Opened PR [#4721](https://github.com/apple/swift-corelibs-foundation/pull/4721) in [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation)
 <!--END_SECTION:activity-->
 
 </details>
