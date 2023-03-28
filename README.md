@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3840](https://github.com/SwiftPackageIndex/PackageList/issues/3840) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-2. 🎉 Merged PR [#2144](https://github.com/Provenance-Emu/Provenance/pull/2144) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❌ Closed PR [#311](https://github.com/SideStore/SideStore/pull/311) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. 🗣 Commented on [#311](https://github.com/SideStore/SideStore/issues/311) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🗣 Commented on [#311](https://github.com/SideStore/SideStore/issues/311) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+1. ❗️ Closed issue [#3840](https://github.com/SwiftPackageIndex/PackageList/issues/3840) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
+2. 🗣 Commented on [#3840](https://github.com/SwiftPackageIndex/PackageList/issues/3840) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
+3. ❗️ Opened issue [#3840](https://github.com/SwiftPackageIndex/PackageList/issues/3840) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
+4. 🎉 Merged PR [#2144](https://github.com/Provenance-Emu/Provenance/pull/2144) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❌ Closed PR [#311](https://github.com/SideStore/SideStore/pull/311) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
