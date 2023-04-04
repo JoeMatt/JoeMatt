@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2179](https://github.com/Provenance-Emu/Provenance/issues/2179) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Opened issue [#2178](https://github.com/Provenance-Emu/Provenance/issues/2178) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗️ Closed issue [#3840](https://github.com/SwiftPackageIndex/PackageList/issues/3840) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-4. 🗣 Commented on [#3840](https://github.com/SwiftPackageIndex/PackageList/issues/3840) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-5. ❗️ Opened issue [#3840](https://github.com/SwiftPackageIndex/PackageList/issues/3840) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
+1. 🗣 Commented on [#2182](https://github.com/Provenance-Emu/Provenance/issues/2182) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Closed issue [#2179](https://github.com/Provenance-Emu/Provenance/issues/2179) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Closed issue [#2178](https://github.com/Provenance-Emu/Provenance/issues/2178) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ❗️ Closed issue [#2177](https://github.com/Provenance-Emu/Provenance/issues/2177) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🎉 Merged PR [#2183](https://github.com/Provenance-Emu/Provenance/pull/2183) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
