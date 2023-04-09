@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2186](https://github.com/Provenance-Emu/Provenance/issues/2186) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❗️ Opened issue [#2185](https://github.com/Provenance-Emu/Provenance/issues/2185) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗️ Opened issue [#2184](https://github.com/Provenance-Emu/Provenance/issues/2184) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❗️ Closed issue [#2181](https://github.com/Provenance-Emu/Provenance/issues/2181) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🎉 Merged PR [#2182](https://github.com/Provenance-Emu/Provenance/pull/2182) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❗️ Opened issue [#2187](https://github.com/Provenance-Emu/Provenance/issues/2187) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗️ Opened issue [#2186](https://github.com/Provenance-Emu/Provenance/issues/2186) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ❗️ Opened issue [#2185](https://github.com/Provenance-Emu/Provenance/issues/2185) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ❗️ Opened issue [#2184](https://github.com/Provenance-Emu/Provenance/issues/2184) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❗️ Closed issue [#2181](https://github.com/Provenance-Emu/Provenance/issues/2181) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
