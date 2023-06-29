@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/luigifcruz/pisdr-image/issues/98) in [luigifcruz/pisdr-image](https://github.com/luigifcruz/pisdr-image)
-2. 🗣 Commented on [#98](https://github.com/luigifcruz/pisdr-image/issues/98) in [luigifcruz/pisdr-image](https://github.com/luigifcruz/pisdr-image)
-3. 🗣 Commented on [#97](https://github.com/antirez/dump1090/issues/97) in [antirez/dump1090](https://github.com/antirez/dump1090)
-4. ❗ Opened issue [#2207](https://github.com/Provenance-Emu/Provenance/issues/2207) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗ Opened issue [#2206](https://github.com/Provenance-Emu/Provenance/issues/2206) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#168](https://github.com/antirez/dump1090/issues/168) in [antirez/dump1090](https://github.com/antirez/dump1090)
+2. 🗣 Commented on [#2195](https://github.com/Provenance-Emu/Provenance/issues/2195) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#2208](https://github.com/Provenance-Emu/Provenance/pull/2208) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#2208](https://github.com/Provenance-Emu/Provenance/issues/2208) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#98](https://github.com/luigifcruz/pisdr-image/issues/98) in [luigifcruz/pisdr-image](https://github.com/luigifcruz/pisdr-image)
 <!--END_SECTION:activity-->
 
 </details>
