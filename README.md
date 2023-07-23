@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Provenance-Emu/wiki/pull/18) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-2. 🎉 Merged PR [#17](https://github.com/Provenance-Emu/wiki/pull/17) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-3. 🎉 Merged PR [#20](https://github.com/Provenance-Emu/wiki/pull/20) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-4. 🗣 Commented on [#168](https://github.com/antirez/dump1090/issues/168#issuecomment-1612461196) in [antirez/dump1090](https://github.com/antirez/dump1090)
-5. 🗣 Commented on [#2195](https://github.com/Provenance-Emu/Provenance/pull/2195#issuecomment-1612444136) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❗ Opened issue [#2212](https://github.com/Provenance-Emu/Provenance/issues/2212) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#18](https://github.com/Provenance-Emu/wiki/pull/18) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+3. 🎉 Merged PR [#17](https://github.com/Provenance-Emu/wiki/pull/17) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+4. 🎉 Merged PR [#20](https://github.com/Provenance-Emu/wiki/pull/20) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+5. 🗣 Commented on [#168](https://github.com/antirez/dump1090/issues/168#issuecomment-1612461196) in [antirez/dump1090](https://github.com/antirez/dump1090)
 <!--END_SECTION:activity-->
 
 </details>
