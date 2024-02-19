@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2299](https://github.com/Provenance-Emu/Provenance/issues/2299) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🚀 Published release [1.6.3](https://github.com/HeroTransitions/Hero/releases/tag/1.6.3) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-3. ❌ Closed PR [#772](https://github.com/HeroTransitions/Hero/pull/772) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-4. 💪 Opened PR [#772](https://github.com/HeroTransitions/Hero/pull/772) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-5. ❗ Opened issue [#2297](https://github.com/Provenance-Emu/Provenance/issues/2297) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#2300](https://github.com/Provenance-Emu/Provenance/issues/2300#issuecomment-1951681195) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#2301](https://github.com/Provenance-Emu/Provenance/pull/2301) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#4](https://github.com/Provenance-Emu/Core-VirtualJaguar/pull/4) in [Provenance-Emu/Core-VirtualJaguar](https://github.com/Provenance-Emu/Core-VirtualJaguar)
+4. ❗ Opened issue [#2299](https://github.com/Provenance-Emu/Provenance/issues/2299) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🚀 Published release [1.6.3](https://github.com/HeroTransitions/Hero/releases/tag/1.6.3) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
 <!--END_SECTION:activity-->
 
 </details>
