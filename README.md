@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#775](https://github.com/HeroTransitions/Hero/issues/775#issuecomment-2024117793) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-2. 🔒 Closed issue [#775](https://github.com/HeroTransitions/Hero/issues/775) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-3. 🔒 Closed issue [#774](https://github.com/HeroTransitions/Hero/issues/774) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-4. 🔒 Closed issue [#2313](https://github.com/Provenance-Emu/Provenance/issues/2313) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 💪 Opened PR [#3](https://github.com/nythepegasus/SideJITServer/pull/3) in [nythepegasus/SideJITServer](https://github.com/nythepegasus/SideJITServer)
+1. 💪 Opened PR [#2317](https://github.com/Provenance-Emu/Provenance/pull/2317) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#775](https://github.com/HeroTransitions/Hero/issues/775#issuecomment-2024117793) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+3. 🔒 Closed issue [#775](https://github.com/HeroTransitions/Hero/issues/775) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+4. 🔒 Closed issue [#774](https://github.com/HeroTransitions/Hero/issues/774) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+5. 🔒 Closed issue [#2313](https://github.com/Provenance-Emu/Provenance/issues/2313) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
