@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/SideStore/apple-private-apis/issues/19) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
-2. 🗣 Commented on [#18](https://github.com/SideStore/apple-private-apis/pull/18#issuecomment-2081225161) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
-3. 💪 Opened PR [#1](https://github.com/Provenance-Emu/emuThreeDS/pull/1) in [Provenance-Emu/emuThreeDS](https://github.com/Provenance-Emu/emuThreeDS)
-4. 🗣 Commented on [#18](https://github.com/SideStore/apple-private-apis/pull/18#issuecomment-2081184290) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
-5. ❗ Opened issue [#2324](https://github.com/Provenance-Emu/Provenance/issues/2324) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#20](https://github.com/SideStore/apple-private-apis/pull/20#issuecomment-2081523014) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
+2. ❗ Opened issue [#19](https://github.com/SideStore/apple-private-apis/issues/19) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
+3. 🗣 Commented on [#18](https://github.com/SideStore/apple-private-apis/pull/18#issuecomment-2081225161) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
+4. 💪 Opened PR [#1](https://github.com/Provenance-Emu/emuThreeDS/pull/1) in [Provenance-Emu/emuThreeDS](https://github.com/Provenance-Emu/emuThreeDS)
+5. 🗣 Commented on [#18](https://github.com/SideStore/apple-private-apis/pull/18#issuecomment-2081184290) in [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
 <!--END_SECTION:activity-->
 
 </details>
