@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#210](https://github.com/RxSwiftCommunity/RxRealm/pull/210#issuecomment-2095082472) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-2. 🔒 Closed issue [#2324](https://github.com/Provenance-Emu/Provenance/issues/2324) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#2329](https://github.com/Provenance-Emu/Provenance/issues/2329#issuecomment-2094678325) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🔒 Closed issue [#2331](https://github.com/Provenance-Emu/Provenance/issues/2331) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🔒 Closed issue [#2332](https://github.com/Provenance-Emu/Provenance/issues/2332) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#213](https://github.com/RxSwiftCommunity/RxRealm/pull/213#issuecomment-2099435680) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+2. ❌ Closed PR [#213](https://github.com/RxSwiftCommunity/RxRealm/pull/213) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+3. 💪 Opened PR [#216](https://github.com/RxSwiftCommunity/RxRealm/pull/216) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+4. 🎉 Merged PR [#215](https://github.com/RxSwiftCommunity/RxRealm/pull/215) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+5. 🗣 Commented on [#213](https://github.com/RxSwiftCommunity/RxRealm/pull/213#issuecomment-2099410018) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
 <!--END_SECTION:activity-->
 
 </details>
