@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/JoeMatt/N64DeltaCore/pull/1) in [JoeMatt/N64DeltaCore](https://github.com/JoeMatt/N64DeltaCore)
-2. ❗ Opened issue [#2344](https://github.com/Provenance-Emu/Provenance/issues/2344) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#2337](https://github.com/Provenance-Emu/Provenance/pull/2337#issuecomment-2103879217) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#2337](https://github.com/Provenance-Emu/Provenance/pull/2337#issuecomment-2103875470) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#2336](https://github.com/Provenance-Emu/Provenance/pull/2336#issuecomment-2099738852) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❗ Opened issue [#2346](https://github.com/Provenance-Emu/Provenance/issues/2346) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗ Opened issue [#2345](https://github.com/Provenance-Emu/Provenance/issues/2345) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#1](https://github.com/JoeMatt/N64DeltaCore/pull/1) in [JoeMatt/N64DeltaCore](https://github.com/JoeMatt/N64DeltaCore)
+4. ❗ Opened issue [#2344](https://github.com/Provenance-Emu/Provenance/issues/2344) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#2337](https://github.com/Provenance-Emu/Provenance/pull/2337#issuecomment-2103879217) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
