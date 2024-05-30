@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.1.0](https://github.com/RxSwiftCommunity/RxRealm/releases/tag/v5.1.0) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-2. ❗ Opened issue [#2346](https://github.com/Provenance-Emu/Provenance/issues/2346) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗ Opened issue [#2345](https://github.com/Provenance-Emu/Provenance/issues/2345) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 💪 Opened PR [#1](https://github.com/JoeMatt/N64DeltaCore/pull/1) in [JoeMatt/N64DeltaCore](https://github.com/JoeMatt/N64DeltaCore)
-5. ❗ Opened issue [#2344](https://github.com/Provenance-Emu/Provenance/issues/2344) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#2337](https://github.com/Provenance-Emu/Provenance/pull/2337#issuecomment-2140812362) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🚀 Published release [v5.1.0](https://github.com/RxSwiftCommunity/RxRealm/releases/tag/v5.1.0) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+3. ❗ Opened issue [#2346](https://github.com/Provenance-Emu/Provenance/issues/2346) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ❗ Opened issue [#2345](https://github.com/Provenance-Emu/Provenance/issues/2345) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 💪 Opened PR [#1](https://github.com/JoeMatt/N64DeltaCore/pull/1) in [JoeMatt/N64DeltaCore](https://github.com/JoeMatt/N64DeltaCore)
 <!--END_SECTION:activity-->
 
 </details>
