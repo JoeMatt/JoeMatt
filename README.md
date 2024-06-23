@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/SideStore/sidestore.github.io/pull/51) in [SideStore/sidestore.github.io](https://github.com/SideStore/sidestore.github.io)
-2. 🗣 Commented on [#2337](https://github.com/Provenance-Emu/Provenance/pull/2337#issuecomment-2140812362) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🚀 Published release [v5.1.0](https://github.com/RxSwiftCommunity/RxRealm/releases/tag/v5.1.0) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
-4. ❗ Opened issue [#2346](https://github.com/Provenance-Emu/Provenance/issues/2346) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❗ Opened issue [#2345](https://github.com/Provenance-Emu/Provenance/issues/2345) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#538](https://github.com/SideStore/SideStore/pull/538#issuecomment-2184499096) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+2. 🎉 Merged PR [#51](https://github.com/SideStore/sidestore.github.io/pull/51) in [SideStore/sidestore.github.io](https://github.com/SideStore/sidestore.github.io)
+3. 🗣 Commented on [#2337](https://github.com/Provenance-Emu/Provenance/pull/2337#issuecomment-2140812362) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🚀 Published release [v5.1.0](https://github.com/RxSwiftCommunity/RxRealm/releases/tag/v5.1.0) in [RxSwiftCommunity/RxRealm](https://github.com/RxSwiftCommunity/RxRealm)
+5. ❗ Opened issue [#2346](https://github.com/Provenance-Emu/Provenance/issues/2346) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
