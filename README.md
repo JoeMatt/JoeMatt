@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2346](https://github.com/Provenance-Emu/Provenance/issues/2346) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🔒 Closed issue [#2345](https://github.com/Provenance-Emu/Provenance/issues/2345) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🔒 Closed issue [#2344](https://github.com/Provenance-Emu/Provenance/issues/2344) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#1765](https://github.com/Provenance-Emu/Provenance/issues/1765#issuecomment-2187643535) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🔓 Reopened issue [#1765](https://github.com/Provenance-Emu/Provenance/issues/1765) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#12723](https://github.com/dolphin-emu/dolphin/pull/12723#issuecomment-2249488310) in [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)
+2. 🔒 Closed issue [#2346](https://github.com/Provenance-Emu/Provenance/issues/2346) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🔒 Closed issue [#2345](https://github.com/Provenance-Emu/Provenance/issues/2345) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🔒 Closed issue [#2344](https://github.com/Provenance-Emu/Provenance/issues/2344) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#1765](https://github.com/Provenance-Emu/Provenance/issues/1765#issuecomment-2187643535) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
