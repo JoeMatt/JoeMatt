@@ -87,11 +87,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Latest Videos</summary>
 
 <!-- YOUTUBE:START -->
+- [Provenance Emulator for iOS &amp; tvOS Live Stream](https://www.youtube.com/watch?v=MUU5YHM3jd8)
 - [Provenance PSP &lpar;PPSSPP&rpar; on #iOS preview](https://www.youtube.com/watch?v=672u2f9hi94)
 - [Provenance iOS emulator running on MacOS Catalyst](https://www.youtube.com/watch?v=AFE288PM6Ok)
 - [[HowTo] Import ROMs via Web Browser](https://www.youtube.com/watch?v=dwRL9GNSXwQ)
 - [Provenance Emulator for iOS running natively on M1 Mac!](https://www.youtube.com/watch?v=HCvINO-2RXw)
-- [Provenance Emulator : Release coding live + music](https://www.youtube.com/watch?v=rS6e4VEgnqI)
 <!-- YOUTUBE:END -->
  
 </details>
