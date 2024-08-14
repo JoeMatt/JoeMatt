@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Provenance-Emu/SwiftGenPlugin/pull/4) in [Provenance-Emu/SwiftGenPlugin](https://github.com/Provenance-Emu/SwiftGenPlugin)
-2. 🎉 Merged PR [#2](https://github.com/Provenance-Emu/SwiftGenPlugin/pull/2) in [Provenance-Emu/SwiftGenPlugin](https://github.com/Provenance-Emu/SwiftGenPlugin)
-3. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/SwiftGenPlugin/pull/1) in [Provenance-Emu/SwiftGenPlugin](https://github.com/Provenance-Emu/SwiftGenPlugin)
-4. 🎉 Merged PR [#3](https://github.com/Provenance-Emu/SwiftGenPlugin/pull/3) in [Provenance-Emu/SwiftGenPlugin](https://github.com/Provenance-Emu/SwiftGenPlugin)
-5. 💪 Opened PR [#3](https://github.com/Provenance-Emu/SwiftGenPlugin/pull/3) in [Provenance-Emu/SwiftGenPlugin](https://github.com/Provenance-Emu/SwiftGenPlugin)
+1. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/4DO-Core/pull/1) in [Provenance-Emu/4DO-Core](https://github.com/Provenance-Emu/4DO-Core)
+2. 🗣 Commented on [#2337](https://github.com/Provenance-Emu/Provenance/pull/2337#issuecomment-2287718711) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#4](https://github.com/Provenance-Emu/SwiftGenPlugin/pull/4) in [Provenance-Emu/SwiftGenPlugin](https://github.com/Provenance-Emu/SwiftGenPlugin)
+4. 🎉 Merged PR [#2](https://github.com/Provenance-Emu/SwiftGenPlugin/pull/2) in [Provenance-Emu/SwiftGenPlugin](https://github.com/Provenance-Emu/SwiftGenPlugin)
+5. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/SwiftGenPlugin/pull/1) in [Provenance-Emu/SwiftGenPlugin](https://github.com/Provenance-Emu/SwiftGenPlugin)
 <!--END_SECTION:activity-->
 
 </details>
