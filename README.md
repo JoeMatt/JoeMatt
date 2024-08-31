@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/JoeMatt/Roxas/pull/2) in [JoeMatt/Roxas](https://github.com/JoeMatt/Roxas)
-2. 💪 Opened PR [#2](https://github.com/JoeMatt/Harmony/pull/2) in [JoeMatt/Harmony](https://github.com/JoeMatt/Harmony)
-3. 💪 Opened PR [#1](https://github.com/alvmo/HexColors/pull/1) in [alvmo/HexColors](https://github.com/alvmo/HexColors)
-4. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/4DO-Core/pull/1) in [Provenance-Emu/4DO-Core](https://github.com/Provenance-Emu/4DO-Core)
-5. 🗣 Commented on [#2337](https://github.com/Provenance-Emu/Provenance/pull/2337#issuecomment-2287718711) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❗ Opened issue [#32](https://github.com/Lighter-swift/Lighter/issues/32) in [Lighter-swift/Lighter](https://github.com/Lighter-swift/Lighter)
+2. 💪 Opened PR [#2](https://github.com/JoeMatt/Roxas/pull/2) in [JoeMatt/Roxas](https://github.com/JoeMatt/Roxas)
+3. 💪 Opened PR [#2](https://github.com/JoeMatt/Harmony/pull/2) in [JoeMatt/Harmony](https://github.com/JoeMatt/Harmony)
+4. 💪 Opened PR [#1](https://github.com/alvmo/HexColors/pull/1) in [alvmo/HexColors](https://github.com/alvmo/HexColors)
+5. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/4DO-Core/pull/1) in [Provenance-Emu/4DO-Core](https://github.com/Provenance-Emu/4DO-Core)
 <!--END_SECTION:activity-->
 
 </details>
