@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2348](https://github.com/Provenance-Emu/Provenance/issues/2348#issuecomment-2323180135) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🔒 Closed issue [#2348](https://github.com/Provenance-Emu/Provenance/issues/2348) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗ Opened issue [#32](https://github.com/Lighter-swift/Lighter/issues/32) in [Lighter-swift/Lighter](https://github.com/Lighter-swift/Lighter)
-4. 💪 Opened PR [#2](https://github.com/JoeMatt/Roxas/pull/2) in [JoeMatt/Roxas](https://github.com/JoeMatt/Roxas)
-5. 💪 Opened PR [#2](https://github.com/JoeMatt/Harmony/pull/2) in [JoeMatt/Harmony](https://github.com/JoeMatt/Harmony)
+1. 💪 Opened PR [#1](https://github.com/ShenghaiWang/SwiftMacros/pull/1) in [ShenghaiWang/SwiftMacros](https://github.com/ShenghaiWang/SwiftMacros)
+2. 🗣 Commented on [#2](https://github.com/alvmo/HexColors/issues/2#issuecomment-2325453880) in [alvmo/HexColors](https://github.com/alvmo/HexColors)
+3. 💪 Opened PR [#3](https://github.com/alvmo/HexColors/pull/3) in [alvmo/HexColors](https://github.com/alvmo/HexColors)
+4. 🗣 Commented on [#2348](https://github.com/Provenance-Emu/Provenance/issues/2348#issuecomment-2323180135) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🔒 Closed issue [#2348](https://github.com/Provenance-Emu/Provenance/issues/2348) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
