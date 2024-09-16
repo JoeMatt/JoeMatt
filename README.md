@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SideStore/iMobileDevice.swift/issues/1#issuecomment-2352551046) in [SideStore/iMobileDevice.swift](https://github.com/SideStore/iMobileDevice.swift)
-2. 🔒 Closed issue [#1](https://github.com/SideStore/iMobileDevice.swift/issues/1) in [SideStore/iMobileDevice.swift](https://github.com/SideStore/iMobileDevice.swift)
-3. ❗ Opened issue [#2349](https://github.com/Provenance-Emu/Provenance/issues/2349) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 💪 Opened PR [#1](https://github.com/ShenghaiWang/SwiftMacros/pull/1) in [ShenghaiWang/SwiftMacros](https://github.com/ShenghaiWang/SwiftMacros)
-5. 🗣 Commented on [#2](https://github.com/alvmo/HexColors/issues/2#issuecomment-2325453880) in [alvmo/HexColors](https://github.com/alvmo/HexColors)
+1. 💪 Opened PR [#8](https://github.com/SideStore/minimuxer/pull/8) in [SideStore/minimuxer](https://github.com/SideStore/minimuxer)
+2. ❌ Closed PR [#2](https://github.com/jkcoxson/minimuxer/pull/2) in [jkcoxson/minimuxer](https://github.com/jkcoxson/minimuxer)
+3. 🗣 Commented on [#2](https://github.com/jkcoxson/minimuxer/pull/2#issuecomment-2352994786) in [jkcoxson/minimuxer](https://github.com/jkcoxson/minimuxer)
+4. 💪 Opened PR [#2](https://github.com/jkcoxson/minimuxer/pull/2) in [jkcoxson/minimuxer](https://github.com/jkcoxson/minimuxer)
+5. 🗣 Commented on [#1](https://github.com/SideStore/iMobileDevice.swift/issues/1#issuecomment-2352551046) in [SideStore/iMobileDevice.swift](https://github.com/SideStore/iMobileDevice.swift)
 <!--END_SECTION:activity-->
 
 </details>
