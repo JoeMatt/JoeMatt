@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/SideStore/em_proxy/pull/2) in [SideStore/em_proxy](https://github.com/SideStore/em_proxy)
-2. 💪 Opened PR [#8](https://github.com/SideStore/minimuxer/pull/8) in [SideStore/minimuxer](https://github.com/SideStore/minimuxer)
-3. ❌ Closed PR [#2](https://github.com/jkcoxson/minimuxer/pull/2) in [jkcoxson/minimuxer](https://github.com/jkcoxson/minimuxer)
-4. 🗣 Commented on [#2](https://github.com/jkcoxson/minimuxer/pull/2#issuecomment-2352994786) in [jkcoxson/minimuxer](https://github.com/jkcoxson/minimuxer)
-5. 💪 Opened PR [#2](https://github.com/jkcoxson/minimuxer/pull/2) in [jkcoxson/minimuxer](https://github.com/jkcoxson/minimuxer)
+1. 💪 Opened PR [#58](https://github.com/tsolomko/SWCompression/pull/58) in [tsolomko/SWCompression](https://github.com/tsolomko/SWCompression)
+2. 💪 Opened PR [#2](https://github.com/SideStore/em_proxy/pull/2) in [SideStore/em_proxy](https://github.com/SideStore/em_proxy)
+3. 💪 Opened PR [#8](https://github.com/SideStore/minimuxer/pull/8) in [SideStore/minimuxer](https://github.com/SideStore/minimuxer)
+4. ❌ Closed PR [#2](https://github.com/jkcoxson/minimuxer/pull/2) in [jkcoxson/minimuxer](https://github.com/jkcoxson/minimuxer)
+5. 🗣 Commented on [#2](https://github.com/jkcoxson/minimuxer/pull/2#issuecomment-2352994786) in [jkcoxson/minimuxer](https://github.com/jkcoxson/minimuxer)
 <!--END_SECTION:activity-->
 
 </details>
