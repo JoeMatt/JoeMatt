@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/tsolomko/SWCompression/pull/58#issuecomment-2383860224) in [tsolomko/SWCompression](https://github.com/tsolomko/SWCompression)
-2. 💪 Opened PR [#58](https://github.com/tsolomko/SWCompression/pull/58) in [tsolomko/SWCompression](https://github.com/tsolomko/SWCompression)
-3. 💪 Opened PR [#2](https://github.com/SideStore/em_proxy/pull/2) in [SideStore/em_proxy](https://github.com/SideStore/em_proxy)
-4. 💪 Opened PR [#8](https://github.com/SideStore/minimuxer/pull/8) in [SideStore/minimuxer](https://github.com/SideStore/minimuxer)
-5. ❌ Closed PR [#2](https://github.com/jkcoxson/minimuxer/pull/2) in [jkcoxson/minimuxer](https://github.com/jkcoxson/minimuxer)
+1. 🗣 Commented on [#2322](https://github.com/Provenance-Emu/Provenance/issues/2322#issuecomment-2395137209) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#58](https://github.com/tsolomko/SWCompression/pull/58#issuecomment-2383860224) in [tsolomko/SWCompression](https://github.com/tsolomko/SWCompression)
+3. 💪 Opened PR [#58](https://github.com/tsolomko/SWCompression/pull/58) in [tsolomko/SWCompression](https://github.com/tsolomko/SWCompression)
+4. 💪 Opened PR [#2](https://github.com/SideStore/em_proxy/pull/2) in [SideStore/em_proxy](https://github.com/SideStore/em_proxy)
+5. 💪 Opened PR [#8](https://github.com/SideStore/minimuxer/pull/8) in [SideStore/minimuxer](https://github.com/SideStore/minimuxer)
 <!--END_SECTION:activity-->
 
 </details>
