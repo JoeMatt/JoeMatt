@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Provenance-Emu/4DO-Core/pull/2) in [Provenance-Emu/4DO-Core](https://github.com/Provenance-Emu/4DO-Core)
-2. 💪 Opened PR [#2350](https://github.com/Provenance-Emu/Provenance/pull/2350) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❗ Opened issue [#8165](https://github.com/SwiftPackageIndex/PackageList/issues/8165) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-4. 🗣 Commented on [#3](https://github.com/DimaRU/PackageBuildInfo/pull/3#issuecomment-2405910173) in [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo)
-5. 🗣 Commented on [#2](https://github.com/SideStore/iMobileDevice.swift/issues/2#issuecomment-2405814370) in [SideStore/iMobileDevice.swift](https://github.com/SideStore/iMobileDevice.swift)
+1. 🎉 Merged PR [#3](https://github.com/Provenance-Emu/4DO-Core/pull/3) in [Provenance-Emu/4DO-Core](https://github.com/Provenance-Emu/4DO-Core)
+2. 🎉 Merged PR [#2](https://github.com/Provenance-Emu/4DO-Core/pull/2) in [Provenance-Emu/4DO-Core](https://github.com/Provenance-Emu/4DO-Core)
+3. 💪 Opened PR [#2350](https://github.com/Provenance-Emu/Provenance/pull/2350) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ❗ Opened issue [#8165](https://github.com/SwiftPackageIndex/PackageList/issues/8165) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
+5. 🗣 Commented on [#3](https://github.com/DimaRU/PackageBuildInfo/pull/3#issuecomment-2405910173) in [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo)
 <!--END_SECTION:activity-->
 
 </details>
