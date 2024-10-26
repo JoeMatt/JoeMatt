@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2356](https://github.com/Provenance-Emu/Provenance/pull/2356) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#2355](https://github.com/Provenance-Emu/Provenance/pull/2355) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🎉 Merged PR [#2354](https://github.com/Provenance-Emu/Provenance/pull/2354) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#2350](https://github.com/Provenance-Emu/Provenance/pull/2350#issuecomment-2419196025) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🎉 Merged PR [#3](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/3) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
+1. 🎉 Merged PR [#2357](https://github.com/Provenance-Emu/Provenance/pull/2357) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/Bliss-Core/pull/1) in [Provenance-Emu/Bliss-Core](https://github.com/Provenance-Emu/Bliss-Core)
+3. 🎉 Merged PR [#2356](https://github.com/Provenance-Emu/Provenance/pull/2356) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🎉 Merged PR [#2355](https://github.com/Provenance-Emu/Provenance/pull/2355) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🎉 Merged PR [#2354](https://github.com/Provenance-Emu/Provenance/pull/2354) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
