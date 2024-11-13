@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#748](https://github.com/SideStore/SideStore/pull/748) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-2. 🗣 Commented on [#2155](https://github.com/Provenance-Emu/Provenance/pull/2155#issuecomment-2469278361) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❌ Closed PR [#2155](https://github.com/Provenance-Emu/Provenance/pull/2155) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❌ Closed PR [#2353](https://github.com/Provenance-Emu/Provenance/pull/2353) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🎉 Merged PR [#2350](https://github.com/Provenance-Emu/Provenance/pull/2350) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#44](https://github.com/jpd002/Play--Framework/pull/44#issuecomment-2471483694) in [jpd002/Play--Framework](https://github.com/jpd002/Play--Framework)
+2. 🗣 Commented on [#39](https://github.com/jpd002/Play--Framework/pull/39#issuecomment-2471476693) in [jpd002/Play--Framework](https://github.com/jpd002/Play--Framework)
+3. ❌ Closed PR [#39](https://github.com/jpd002/Play--Framework/pull/39) in [jpd002/Play--Framework](https://github.com/jpd002/Play--Framework)
+4. 💪 Opened PR [#44](https://github.com/jpd002/Play--Framework/pull/44) in [jpd002/Play--Framework](https://github.com/jpd002/Play--Framework)
+5. 💪 Opened PR [#748](https://github.com/SideStore/SideStore/pull/748) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
