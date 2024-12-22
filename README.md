@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2364](https://github.com/Provenance-Emu/Provenance/pull/2364) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#2363](https://github.com/Provenance-Emu/Provenance/pull/2363) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❌ Closed PR [#278](https://github.com/SideStore/SideStore/pull/278) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-4. ❌ Closed PR [#113](https://github.com/SideStore/SideStore/pull/113) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
-5. 🎉 Merged PR [#2362](https://github.com/Provenance-Emu/Provenance/pull/2362) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❌ Closed PR [#2022](https://github.com/Provenance-Emu/Provenance/pull/2022) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#2364](https://github.com/Provenance-Emu/Provenance/pull/2364) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#2363](https://github.com/Provenance-Emu/Provenance/pull/2363) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ❌ Closed PR [#278](https://github.com/SideStore/SideStore/pull/278) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
+5. ❌ Closed PR [#113](https://github.com/SideStore/SideStore/pull/113) in [SideStore/SideStore](https://github.com/SideStore/SideStore)
 <!--END_SECTION:activity-->
 
 </details>
