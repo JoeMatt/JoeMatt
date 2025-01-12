@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2373](https://github.com/Provenance-Emu/Provenance/pull/2373) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#22](https://github.com/Provenance-Emu/wiki/pull/22) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-3. 💪 Opened PR [#22](https://github.com/Provenance-Emu/wiki/pull/22) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-4. 💪 Opened PR [#2372](https://github.com/Provenance-Emu/Provenance/pull/2372) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ❌ Closed PR [#2370](https://github.com/Provenance-Emu/Provenance/pull/2370) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🚀 Published release [Bug fixes](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.1) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🚀 Published release [App Store](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.0) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#2373](https://github.com/Provenance-Emu/Provenance/pull/2373) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🎉 Merged PR [#22](https://github.com/Provenance-Emu/wiki/pull/22) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+5. 💪 Opened PR [#22](https://github.com/Provenance-Emu/wiki/pull/22) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
 <!--END_SECTION:activity-->
 
 </details>
