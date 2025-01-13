@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2379](https://github.com/Provenance-Emu/Provenance/pull/2379) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#5](https://github.com/Provenance-Emu/Core-VirtualJaguar/pull/5) in [Provenance-Emu/Core-VirtualJaguar](https://github.com/Provenance-Emu/Core-VirtualJaguar)
-3. 🚀 Published release [Bug fixes](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.1) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🚀 Published release [App Store](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.0) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 💪 Opened PR [#2373](https://github.com/Provenance-Emu/Provenance/pull/2373) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❗ Opened issue [#2380](https://github.com/Provenance-Emu/Provenance/issues/2380) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#2379](https://github.com/Provenance-Emu/Provenance/pull/2379) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#5](https://github.com/Provenance-Emu/Core-VirtualJaguar/pull/5) in [Provenance-Emu/Core-VirtualJaguar](https://github.com/Provenance-Emu/Core-VirtualJaguar)
+4. 🚀 Published release [Bug fixes](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.1) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🚀 Published release [App Store](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.0) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
