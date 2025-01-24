@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#776](https://github.com/HeroTransitions/Hero/issues/776) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-2. 🎉 Merged PR [#778](https://github.com/HeroTransitions/Hero/pull/778) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-3. 🗣 Commented on [#778](https://github.com/HeroTransitions/Hero/pull/778#issuecomment-2610072631) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-4. 🗣 Commented on [#2382](https://github.com/Provenance-Emu/Provenance/issues/2382#issuecomment-2603669411) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#2382](https://github.com/Provenance-Emu/Provenance/issues/2382#issuecomment-2603112404) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🚀 Published release [XCode 16 Fix](https://github.com/HeroTransitions/Hero/releases/tag/1.6.4) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+2. 🔒 Closed issue [#776](https://github.com/HeroTransitions/Hero/issues/776) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+3. 🎉 Merged PR [#778](https://github.com/HeroTransitions/Hero/pull/778) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+4. 🗣 Commented on [#778](https://github.com/HeroTransitions/Hero/pull/778#issuecomment-2610072631) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+5. 🗣 Commented on [#2382](https://github.com/Provenance-Emu/Provenance/issues/2382#issuecomment-2603669411) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
