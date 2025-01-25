@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.3 Crash and video fixes](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.3) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#2386](https://github.com/Provenance-Emu/Provenance/pull/2386) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🚀 Published release [XCode 16 Fix](https://github.com/HeroTransitions/Hero/releases/tag/1.6.4) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-4. 🔒 Closed issue [#776](https://github.com/HeroTransitions/Hero/issues/776) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-5. 🎉 Merged PR [#778](https://github.com/HeroTransitions/Hero/pull/778) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+1. 🗣 Commented on [#2387](https://github.com/Provenance-Emu/Provenance/issues/2387#issuecomment-2612930375) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🔒 Closed issue [#2387](https://github.com/Provenance-Emu/Provenance/issues/2387) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🚀 Published release [3.0.3 Crash and video fixes](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.3) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🎉 Merged PR [#2386](https://github.com/Provenance-Emu/Provenance/pull/2386) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🚀 Published release [XCode 16 Fix](https://github.com/HeroTransitions/Hero/releases/tag/1.6.4) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
 <!--END_SECTION:activity-->
 
 </details>
