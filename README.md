@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.4 UI/UX Tweaks](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.4) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#2392](https://github.com/Provenance-Emu/Provenance/pull/2392) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 💪 Opened PR [#2392](https://github.com/Provenance-Emu/Provenance/pull/2392) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#2390](https://github.com/Provenance-Emu/Provenance/issues/2390#issuecomment-2622899714) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#2387](https://github.com/Provenance-Emu/Provenance/issues/2387#issuecomment-2612930375) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❗ Opened issue [#2394](https://github.com/Provenance-Emu/Provenance/issues/2394) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🚀 Published release [3.0.4 UI/UX Tweaks](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.4) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#2392](https://github.com/Provenance-Emu/Provenance/pull/2392) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#2392](https://github.com/Provenance-Emu/Provenance/pull/2392) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#2390](https://github.com/Provenance-Emu/Provenance/issues/2390#issuecomment-2622899714) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
