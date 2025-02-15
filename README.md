@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12146](https://github.com/libretro/RetroArch/issues/12146#issuecomment-2660761156) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
-2. 💪 Opened PR [#17569](https://github.com/libretro/RetroArch/pull/17569) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
-3. ❗ Opened issue [#2394](https://github.com/Provenance-Emu/Provenance/issues/2394) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🚀 Published release [3.0.4 UI/UX Tweaks](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.4) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🎉 Merged PR [#2392](https://github.com/Provenance-Emu/Provenance/pull/2392) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#17569](https://github.com/libretro/RetroArch/pull/17569#issuecomment-2661069089) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+2. 🗣 Commented on [#12146](https://github.com/libretro/RetroArch/issues/12146#issuecomment-2660761156) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+3. 💪 Opened PR [#17569](https://github.com/libretro/RetroArch/pull/17569) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+4. ❗ Opened issue [#2394](https://github.com/Provenance-Emu/Provenance/issues/2394) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🚀 Published release [3.0.4 UI/UX Tweaks](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.4) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
