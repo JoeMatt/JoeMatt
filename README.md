@@ -87,11 +87,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Latest Videos</summary>
 
 <!-- YOUTUBE:START -->
+- [Unlock developer feautres and extra cores in Provenace Emulator for iOS #emulator #ios #iosgames](https://www.youtube.com/watch?v=Z3dXeRSVGsc)
 - [Now available in the App Store.](https://www.youtube.com/watch?v=X1Kz3qVEWhU)
 - [Provenance Quick Tutorial](https://www.youtube.com/watch?v=NBdV2E-dUhA)
 - [Provenance Emulator for iOS/tvOS Development and Testing](https://www.youtube.com/watch?v=piBAOVGCLwc)
 - [Provenance Emulator for iOS &amp; tvOS Live Stream](https://www.youtube.com/watch?v=MUU5YHM3jd8)
-- [Provenance PSP &lpar;PPSSPP&rpar; on #iOS preview](https://www.youtube.com/watch?v=672u2f9hi94)
 <!-- YOUTUBE:END -->
  
 </details>
