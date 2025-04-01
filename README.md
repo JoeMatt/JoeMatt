@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2410](https://github.com/Provenance-Emu/Provenance/pull/2410) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 💪 Opened PR [#2411](https://github.com/Provenance-Emu/Provenance/pull/2411) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 💪 Opened PR [#2410](https://github.com/Provenance-Emu/Provenance/pull/2410) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#21](https://github.com/Provenance-Emu/wiki/issues/21#issuecomment-2732039560) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-5. 🔒 Closed issue [#21](https://github.com/Provenance-Emu/wiki/issues/21) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+1. 🚀 Published release [3.0.6a Mostly 3DS improvements, RA update](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.6a) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#2410](https://github.com/Provenance-Emu/Provenance/pull/2410) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 💪 Opened PR [#2411](https://github.com/Provenance-Emu/Provenance/pull/2411) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#2410](https://github.com/Provenance-Emu/Provenance/pull/2410) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#21](https://github.com/Provenance-Emu/wiki/issues/21#issuecomment-2732039560) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
 <!--END_SECTION:activity-->
 
 </details>
