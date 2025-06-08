@@ -74,7 +74,7 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.6a Mostly 3DS improvements, RA update](https://github.com/Provenance-Emu/Provenance/releases/tag/3.0.6a) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 💪 Opened PR [#17990](https://github.com/libretro/RetroArch/pull/17990) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
 2. 🎉 Merged PR [#2410](https://github.com/Provenance-Emu/Provenance/pull/2410) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 3. 💪 Opened PR [#2411](https://github.com/Provenance-Emu/Provenance/pull/2411) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 4. 💪 Opened PR [#2410](https://github.com/Provenance-Emu/Provenance/pull/2410) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
