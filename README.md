@@ -74,8 +74,8 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1987](https://github.com/flyinghead/flycast/pull/1987) in [flyinghead/flycast](https://github.com/flyinghead/flycast)
-2. 🚀 Published release [3.1.0a1 Pre-release](https://github.com/Provenance-Emu/Provenance/releases/tag/3.1.0a1) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🎉 Merged PR [#2411](https://github.com/Provenance-Emu/Provenance/pull/2411) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❌ Closed PR [#1987](https://github.com/flyinghead/flycast/pull/1987) in [flyinghead/flycast](https://github.com/flyinghead/flycast)
 3. 💪 Opened PR [#17990](https://github.com/libretro/RetroArch/pull/17990) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
 4. 💪 Opened PR [#2410](https://github.com/Provenance-Emu/Provenance/pull/2410) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 5. 🗣 Commented on [#21](https://github.com/Provenance-Emu/wiki/issues/21#issuecomment-2732039560) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
