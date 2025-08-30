@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.1.0 - Flycast, Dolphin, RetroAchievements](https://github.com/Provenance-Emu/Provenance/releases/tag/3.1.0) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#18026](https://github.com/libretro/RetroArch/issues/18026#issuecomment-3169279693) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
-3. 🚀 Published release [3.1.0 GM2](https://github.com/Provenance-Emu/Provenance/releases/tag/3.1.0-GM2) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🎉 Merged PR [#2411](https://github.com/Provenance-Emu/Provenance/pull/2411) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#21](https://github.com/Provenance-Emu/wiki/issues/21#issuecomment-2732039560) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+1. 🎉 Merged PR [#2421](https://github.com/Provenance-Emu/Provenance/pull/2421) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🎉 Merged PR [#2420](https://github.com/Provenance-Emu/Provenance/pull/2420) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#2419](https://github.com/Provenance-Emu/Provenance/pull/2419) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🚀 Published release [3.1.0 - Flycast, Dolphin, RetroAchievements](https://github.com/Provenance-Emu/Provenance/releases/tag/3.1.0) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#18026](https://github.com/libretro/RetroArch/issues/18026#issuecomment-3169279693) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
 <!--END_SECTION:activity-->
 
 </details>
