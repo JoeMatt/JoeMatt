@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2421](https://github.com/Provenance-Emu/Provenance/pull/2421) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#2420](https://github.com/Provenance-Emu/Provenance/pull/2420) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🎉 Merged PR [#2419](https://github.com/Provenance-Emu/Provenance/pull/2419) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🚀 Published release [3.1.0 - Flycast, Dolphin, RetroAchievements](https://github.com/Provenance-Emu/Provenance/releases/tag/3.1.0) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#18026](https://github.com/libretro/RetroArch/issues/18026#issuecomment-3169279693) in [libretro/RetroArch](https://github.com/libretro/RetroArch)
+1. 💪 Opened PR [#24](https://github.com/jkcoxson/idevice/pull/24) in [jkcoxson/idevice](https://github.com/jkcoxson/idevice)
+2. 🗣 Commented on [#2422](https://github.com/Provenance-Emu/Provenance/pull/2422#issuecomment-3239520684) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🚀 Published release [Initial release](https://github.com/JoeMatt/slang-shaders-metal/releases/tag/1.0.0) in [JoeMatt/slang-shaders-metal](https://github.com/JoeMatt/slang-shaders-metal)
+4. 🎉 Merged PR [#2421](https://github.com/Provenance-Emu/Provenance/pull/2421) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🎉 Merged PR [#2420](https://github.com/Provenance-Emu/Provenance/pull/2420) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
