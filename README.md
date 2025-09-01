@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Full filter set Aug 30, 2025](https://github.com/JoeMatt/slang-shaders-metal/releases/tag/1.0.1) in [JoeMatt/slang-shaders-metal](https://github.com/JoeMatt/slang-shaders-metal)
-2. 💪 Opened PR [#24](https://github.com/jkcoxson/idevice/pull/24) in [jkcoxson/idevice](https://github.com/jkcoxson/idevice)
-3. 🗣 Commented on [#2422](https://github.com/Provenance-Emu/Provenance/pull/2422#issuecomment-3239520684) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🚀 Published release [Initial release](https://github.com/JoeMatt/slang-shaders-metal/releases/tag/1.0.0) in [JoeMatt/slang-shaders-metal](https://github.com/JoeMatt/slang-shaders-metal)
-5. 🎉 Merged PR [#2421](https://github.com/Provenance-Emu/Provenance/pull/2421) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#2418](https://github.com/Provenance-Emu/Provenance/issues/2418#issuecomment-3240330567) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🚀 Published release [Full filter set Aug 30, 2025](https://github.com/JoeMatt/slang-shaders-metal/releases/tag/1.0.1) in [JoeMatt/slang-shaders-metal](https://github.com/JoeMatt/slang-shaders-metal)
+3. 💪 Opened PR [#24](https://github.com/jkcoxson/idevice/pull/24) in [jkcoxson/idevice](https://github.com/jkcoxson/idevice)
+4. 🗣 Commented on [#2422](https://github.com/Provenance-Emu/Provenance/pull/2422#issuecomment-3239520684) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🚀 Published release [Initial release](https://github.com/JoeMatt/slang-shaders-metal/releases/tag/1.0.0) in [JoeMatt/slang-shaders-metal](https://github.com/JoeMatt/slang-shaders-metal)
 <!--END_SECTION:activity-->
 
 </details>
