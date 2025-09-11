@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2424](https://github.com/Provenance-Emu/Provenance/pull/2424#issuecomment-3271992223) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ❌ Closed PR [#2424](https://github.com/Provenance-Emu/Provenance/pull/2424) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❌ Closed PR [#2424](undefined) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#2424](https://github.com/Provenance-Emu/Provenance/pull/2424#issuecomment-3271992223) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 3. 🗣 Commented on [#2426](https://github.com/Provenance-Emu/Provenance/pull/2426#issuecomment-3271991908) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ❌ Closed PR [#2426](https://github.com/Provenance-Emu/Provenance/pull/2426) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 💪 Opened PR [#1](https://github.com/Provenance-Emu/dolphin-ios-jitless/pull/1) in [Provenance-Emu/dolphin-ios-jitless](https://github.com/Provenance-Emu/dolphin-ios-jitless)
+4. ❌ Closed PR [#2426](undefined) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 💪 Opened PR [#1](undefined) in [Provenance-Emu/dolphin-ios-jitless](https://github.com/Provenance-Emu/dolphin-ios-jitless)
 <!--END_SECTION:activity-->
 
 </details>
