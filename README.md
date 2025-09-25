@@ -74,10 +74,10 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](undefined) in [Provenance-Emu/iCube](https://github.com/Provenance-Emu/iCube)
-2. 🗣 Commented on [#1](https://github.com/Provenance-Emu/iCube/pull/1#issuecomment-3316210390) in [Provenance-Emu/iCube](https://github.com/Provenance-Emu/iCube)
-3. 🚀 Published release [Beta 5 - DSU, new UI](https://github.com/Provenance-Emu/iCube/releases/tag/4.1.0beta5) in [Provenance-Emu/iCube](https://github.com/Provenance-Emu/iCube)
-4. ❌ Closed PR [#2424](undefined) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/icube-emu.github.io/pull/1) in [Provenance-Emu/icube-emu.github.io](https://github.com/Provenance-Emu/icube-emu.github.io)
+2. 🗣 Commented on [#1](https://github.com/Provenance-Emu/dolphin-ios-jitless/pull/1#issuecomment-3316210390) in [Provenance-Emu/dolphin-ios-jitless](https://github.com/Provenance-Emu/dolphin-ios-jitless)
+3. ❌ Closed PR [#1](https://github.com/Provenance-Emu/dolphin-ios-jitless/pull/1) in [Provenance-Emu/dolphin-ios-jitless](https://github.com/Provenance-Emu/dolphin-ios-jitless)
+4. 🚀 Published release [Beta 5 - DSU, new UI](https://github.com/Provenance-Emu/dolphin-ios-jitless/releases/tag/4.1.0beta5) in [Provenance-Emu/dolphin-ios-jitless](https://github.com/Provenance-Emu/dolphin-ios-jitless)
 5. 🗣 Commented on [#2424](https://github.com/Provenance-Emu/Provenance/pull/2424#issuecomment-3271992223) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
