@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2428](https://github.com/Provenance-Emu/Provenance/issues/2428) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/icube-emu.github.io/pull/1) in [Provenance-Emu/icube-emu.github.io](https://github.com/Provenance-Emu/icube-emu.github.io)
-3. 🗣 Commented on [#1](https://github.com/Provenance-Emu/dolphin-ios-jitless/pull/1#issuecomment-3316210390) in [Provenance-Emu/dolphin-ios-jitless](https://github.com/Provenance-Emu/dolphin-ios-jitless)
-4. ❌ Closed PR [#1](https://github.com/Provenance-Emu/dolphin-ios-jitless/pull/1) in [Provenance-Emu/dolphin-ios-jitless](https://github.com/Provenance-Emu/dolphin-ios-jitless)
-5. 🚀 Published release [Beta 5 - DSU, new UI](https://github.com/Provenance-Emu/dolphin-ios-jitless/releases/tag/4.1.0beta5) in [Provenance-Emu/dolphin-ios-jitless](https://github.com/Provenance-Emu/dolphin-ios-jitless)
+1. 🎉 Merged PR [#2](https://github.com/Provenance-Emu/icube-emu.github.io/pull/2) in [Provenance-Emu/icube-emu.github.io](https://github.com/Provenance-Emu/icube-emu.github.io)
+2. 🎉 Merged PR [#2](https://github.com/Provenance-Emu/ifly-emu.github.io/pull/2) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+3. ❗ Opened issue [#2428](https://github.com/Provenance-Emu/Provenance/issues/2428) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🎉 Merged PR [#1](https://github.com/Provenance-Emu/icube-emu.github.io/pull/1) in [Provenance-Emu/icube-emu.github.io](https://github.com/Provenance-Emu/icube-emu.github.io)
+5. 🗣 Commented on [#1](https://github.com/Provenance-Emu/dolphin-ios-jitless/pull/1#issuecomment-3316210390) in [Provenance-Emu/dolphin-ios-jitless](https://github.com/Provenance-Emu/dolphin-ios-jitless)
 <!--END_SECTION:activity-->
 
 </details>
