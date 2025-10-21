@@ -74,9 +74,9 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](undefined) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-2. ❗ Opened issue [#2428](https://github.com/Provenance-Emu/Provenance/issues/2428) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❌ Closed PR [#1](undefined) in [Provenance-Emu/iCube](https://github.com/Provenance-Emu/iCube)
+1. 🗣 Commented on [#2429](https://github.com/Provenance-Emu/Provenance/pull/2429#issuecomment-3429500110) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 💪 Opened PR [#3](undefined) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+3. ❗ Opened issue [#2428](https://github.com/Provenance-Emu/Provenance/issues/2428) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 4. 🗣 Commented on [#1](https://github.com/Provenance-Emu/iCube/pull/1#issuecomment-3316210390) in [Provenance-Emu/iCube](https://github.com/Provenance-Emu/iCube)
 5. 🎉 Merged PR [#2](https://github.com/Provenance-Emu/icube-emu.github.io/pull/2) in [Provenance-Emu/icube-emu.github.io](https://github.com/Provenance-Emu/icube-emu.github.io)
 <!--END_SECTION:activity-->
