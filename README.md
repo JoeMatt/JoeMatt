@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2418](https://github.com/Provenance-Emu/Provenance/issues/2418#issuecomment-3560591819) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🚀 Published release [3.2.0 - Skins, many bug fixes, speedups](https://github.com/Provenance-Emu/Provenance/releases/tag/3.2.0) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🚀 Published release [3.1.1 - Bug fixes](https://github.com/Provenance-Emu/Provenance/releases/tag/3.1.1) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 💪 Opened PR [#8](undefined) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-5. ❌ Assigned PR [#8](undefined) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+1. 🚀 Published release [3.2.1 - iPad skin bug fixes](https://github.com/Provenance-Emu/Provenance/releases/tag/3.2.1) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#2418](https://github.com/Provenance-Emu/Provenance/issues/2418#issuecomment-3560591819) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🚀 Published release [3.2.0 - Skins, many bug fixes, speedups](https://github.com/Provenance-Emu/Provenance/releases/tag/3.2.0) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🚀 Published release [3.1.1 - Bug fixes](https://github.com/Provenance-Emu/Provenance/releases/tag/3.1.1) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 💪 Opened PR [#8](undefined) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
