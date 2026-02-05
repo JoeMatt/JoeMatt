@@ -74,9 +74,9 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#782](https://github.com/HeroTransitions/Hero/pull/782) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-2. 🗣 Commented on [#782](https://github.com/HeroTransitions/Hero/pull/782#issuecomment-3849656662) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
-3. 🚀 Published release [3.2.0 - Skins, many bug fixes, speedups](https://github.com/Provenance-Emu/Provenance/releases/tag/3.2.0) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ℹ️ Assigned PR [#782](https://github.com/HeroTransitions/Hero/pull/782) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+2. ℹ️ Labeled PR [#782](https://github.com/HeroTransitions/Hero/pull/782) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+3. 🗣 Commented on [#782](https://github.com/HeroTransitions/Hero/pull/782#issuecomment-3849656662) in [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
 4. 🚀 Published release [3.1.1 - Bug fixes](https://github.com/Provenance-Emu/Provenance/releases/tag/3.1.1) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 5. ❌ Merged PR [#8](undefined) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
 <!--END_SECTION:activity-->
