@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/Provenance-Emu/wiki/pull/54#issuecomment-3986838521) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-2. ❌ Closed PR [#51](https://github.com/Provenance-Emu/wiki/pull/51) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-3. ❌ Closed PR [#48](https://github.com/Provenance-Emu/wiki/pull/48) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-4. ❌ Closed PR [#45](https://github.com/Provenance-Emu/wiki/pull/45) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
-5. 🔒 Closed issue [#2442](https://github.com/Provenance-Emu/Provenance/issues/2442) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#49](https://github.com/Provenance-Emu/wiki/pull/49#issuecomment-3987153175) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+2. ❌ Closed PR [#54](https://github.com/Provenance-Emu/wiki/pull/54) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+3. 🗣 Commented on [#54](https://github.com/Provenance-Emu/wiki/pull/54#issuecomment-3986838521) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+4. ❌ Closed PR [#51](https://github.com/Provenance-Emu/wiki/pull/51) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
+5. ❌ Closed PR [#48](https://github.com/Provenance-Emu/wiki/pull/48) in [Provenance-Emu/wiki](https://github.com/Provenance-Emu/wiki)
 <!--END_SECTION:activity-->
 
 </details>
