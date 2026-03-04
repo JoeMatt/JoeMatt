@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2503](https://github.com/Provenance-Emu/Provenance/issues/2503) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ℹ️ Assigned issue [#2503](https://github.com/Provenance-Emu/Provenance/issues/2503) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ℹ️ Assigned issue [#2506](https://github.com/Provenance-Emu/Provenance/issues/2506) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. ℹ️ Unlabeled issue [#2506](https://github.com/Provenance-Emu/Provenance/issues/2506) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. ℹ️ Assigned issue [#2504](https://github.com/Provenance-Emu/Provenance/issues/2504) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ℹ️ Assigned PR [#2508](https://github.com/Provenance-Emu/Provenance/pull/2508) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ℹ️ Assigned PR [#2509](https://github.com/Provenance-Emu/Provenance/pull/2509) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ℹ️ Assigned PR [#2507](https://github.com/Provenance-Emu/Provenance/pull/2507) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. ℹ️ Labeled issue [#2503](https://github.com/Provenance-Emu/Provenance/issues/2503) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ℹ️ Assigned issue [#2503](https://github.com/Provenance-Emu/Provenance/issues/2503) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
