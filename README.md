@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/42#issuecomment-4008107005) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-2. 🗣 Commented on [#41](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/41#issuecomment-4008105146) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-3. ℹ️ Assigned PR [#41](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/41) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-4. 🎉 Merged PR [#40](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/40) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-5. ℹ️ Assigned PR [#40](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/40) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+1. 🗣 Commented on [#45](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/45#issuecomment-4008424816) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+2. 🗣 Commented on [#2569](https://github.com/Provenance-Emu/Provenance/pull/2569#issuecomment-4008404263) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🔒 Closed issue [#2547](https://github.com/Provenance-Emu/Provenance/issues/2547) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#2570](https://github.com/Provenance-Emu/Provenance/pull/2570#issuecomment-4008389322) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#2567](https://github.com/Provenance-Emu/Provenance/pull/2567#issuecomment-4008384755) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
