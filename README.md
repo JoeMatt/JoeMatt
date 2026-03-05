@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/39) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-2. 💪 Opened PR [#38](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/38) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-3. 💪 Opened PR [#37](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/37) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-4. ℹ️ Labeled issue [#36](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/36) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-5. ℹ️ Labeled issue [#35](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/35) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+1. 🗣 Commented on [#42](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/42#issuecomment-4008107005) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+2. 🗣 Commented on [#41](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/41#issuecomment-4008105146) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+3. ℹ️ Assigned PR [#41](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/41) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+4. 🎉 Merged PR [#40](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/40) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+5. ℹ️ Assigned PR [#40](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/40) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
