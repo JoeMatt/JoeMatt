@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/68) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-2. 🗣 Commented on [#2598](https://github.com/Provenance-Emu/Provenance/pull/2598#issuecomment-4010209998) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ℹ️ Labeled issue [#67](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/67) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-4. ℹ️ Labeled issue [#67](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/67) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-5. ❗ Opened issue [#67](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/67) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+1. 🔒 Closed issue [#2506](https://github.com/Provenance-Emu/Provenance/issues/2506) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#70](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/70#issuecomment-4010513280) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+3. 🗣 Commented on [#2511](https://github.com/Provenance-Emu/Provenance/issues/2511#issuecomment-4010491055) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🔒 Closed issue [#2546](https://github.com/Provenance-Emu/Provenance/issues/2546) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🔒 Closed issue [#2518](https://github.com/Provenance-Emu/Provenance/issues/2518) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
