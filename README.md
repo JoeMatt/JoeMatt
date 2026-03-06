@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2566](https://github.com/Provenance-Emu/Provenance/pull/2566#issuecomment-4008721068) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#2564](https://github.com/Provenance-Emu/Provenance/pull/2564#issuecomment-4008716036) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#2567](https://github.com/Provenance-Emu/Provenance/pull/2567#issuecomment-4008712802) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#2572](https://github.com/Provenance-Emu/Provenance/pull/2572#issuecomment-4008707583) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#2569](https://github.com/Provenance-Emu/Provenance/pull/2569#issuecomment-4008700730) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ℹ️ Assigned issue [#49](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/49) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+2. ℹ️ Labeled issue [#49](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/49) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+3. ❗ Opened issue [#49](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/49) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+4. 🔒 Closed issue [#12](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/12) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+5. 🗣 Commented on [#12](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/12#issuecomment-4008871115) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
