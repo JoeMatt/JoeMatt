@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1401](https://github.com/Provenance-Emu/Provenance/pull/1401#issuecomment-4014980807) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#1070](https://github.com/Provenance-Emu/Provenance/pull/1070#issuecomment-4014975458) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#2434](https://github.com/Provenance-Emu/Provenance/pull/2434#issuecomment-4014947424) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#2435](https://github.com/Provenance-Emu/Provenance/pull/2435#issuecomment-4014941122) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#2372](https://github.com/Provenance-Emu/Provenance/pull/2372#issuecomment-4014929741) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ❌ Closed PR [#2435](https://github.com/Provenance-Emu/Provenance/pull/2435) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#2435](https://github.com/Provenance-Emu/Provenance/pull/2435#issuecomment-4015169036) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#77](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/77#issuecomment-4015162285) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+4. 🔒 Closed issue [#77](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/77) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+5. 🗣 Commented on [#2624](https://github.com/Provenance-Emu/Provenance/issues/2624#issuecomment-4015156450) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
