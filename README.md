@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#535](https://github.com/Provenance-Emu/Provenance/issues/535) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#535](https://github.com/Provenance-Emu/Provenance/issues/535#issuecomment-4015700247) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🔒 Closed issue [#517](https://github.com/Provenance-Emu/Provenance/issues/517) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🔒 Closed issue [#552](https://github.com/Provenance-Emu/Provenance/issues/552) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🔒 Closed issue [#536](https://github.com/Provenance-Emu/Provenance/issues/536) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🔒 Closed issue [#785](https://github.com/Provenance-Emu/Provenance/issues/785) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#786](https://github.com/Provenance-Emu/Provenance/issues/786#issuecomment-4015789246) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🔒 Closed issue [#786](https://github.com/Provenance-Emu/Provenance/issues/786) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#786](https://github.com/Provenance-Emu/Provenance/issues/786#issuecomment-4015787487) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#808](https://github.com/Provenance-Emu/Provenance/issues/808#issuecomment-4015772289) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
