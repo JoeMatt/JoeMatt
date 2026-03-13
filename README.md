@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3061](https://github.com/Provenance-Emu/Provenance/pull/3061#issuecomment-4051432416) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#3060](https://github.com/Provenance-Emu/Provenance/pull/3060#issuecomment-4051195716) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#3062](https://github.com/Provenance-Emu/Provenance/pull/3062#issuecomment-4051104692) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#3060](https://github.com/Provenance-Emu/Provenance/pull/3060#issuecomment-4051035671) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#3061](https://github.com/Provenance-Emu/Provenance/pull/3061#issuecomment-4051000905) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#2483](https://github.com/Provenance-Emu/Provenance/issues/2483#issuecomment-4052111660) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#2951](https://github.com/Provenance-Emu/Provenance/issues/2951#issuecomment-4052054301) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#2624](https://github.com/Provenance-Emu/Provenance/issues/2624#issuecomment-4052026780) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#3069](https://github.com/Provenance-Emu/Provenance/issues/3069#issuecomment-4051964995) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#3067](https://github.com/Provenance-Emu/Provenance/issues/3067#issuecomment-4051924056) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
