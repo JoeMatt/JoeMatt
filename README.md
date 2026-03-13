@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3096](https://github.com/Provenance-Emu/Provenance/pull/3096) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#3094](https://github.com/Provenance-Emu/Provenance/pull/3094#issuecomment-4053011138) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#3096](https://github.com/Provenance-Emu/Provenance/pull/3096#issuecomment-4053002458) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 💪 Opened PR [#3096](https://github.com/Provenance-Emu/Provenance/pull/3096) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#3066](https://github.com/Provenance-Emu/Provenance/issues/3066#issuecomment-4052399041) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#3073](https://github.com/Provenance-Emu/Provenance/pull/3073#issuecomment-4053271345) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. ❗ Opened issue [#1](https://github.com/LitRitt/emuskins.litritt.com/issues/1) in [LitRitt/emuskins.litritt.com](https://github.com/LitRitt/emuskins.litritt.com)
+3. ❗ Opened issue [#1](https://github.com/Polyphian/deltaEmu/issues/1) in [Polyphian/deltaEmu](https://github.com/Polyphian/deltaEmu)
+4. ℹ️ Assigned issue [#3097](https://github.com/Provenance-Emu/Provenance/issues/3097) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#3097](https://github.com/Provenance-Emu/Provenance/issues/3097#issuecomment-4053171029) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
