@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2982](https://github.com/Provenance-Emu/Provenance/issues/2982) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🔒 Closed issue [#2822](https://github.com/Provenance-Emu/Provenance/issues/2822) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🎉 Merged PR [#3124](https://github.com/Provenance-Emu/Provenance/pull/3124) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🚀 Published release [3.3.0 — iCloud Sync, New tvOS UI & Video Filters](https://github.com/Provenance-Emu/Provenance/releases/tag/3.3.0) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#3094](https://github.com/Provenance-Emu/Provenance/pull/3094#issuecomment-4058861350) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#3118](https://github.com/Provenance-Emu/Provenance/pull/3118#issuecomment-4059582518) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🔒 Closed issue [#2984](https://github.com/Provenance-Emu/Provenance/issues/2984) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🎉 Merged PR [#3123](https://github.com/Provenance-Emu/Provenance/pull/3123) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🔒 Closed issue [#2982](https://github.com/Provenance-Emu/Provenance/issues/2982) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🔒 Closed issue [#2822](https://github.com/Provenance-Emu/Provenance/issues/2822) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
