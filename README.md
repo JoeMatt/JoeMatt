@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3107](https://github.com/Provenance-Emu/Provenance/pull/3107#issuecomment-4061396797) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 💪 Opened PR [#5](https://github.com/Provenance-Emu/skins/pull/5) in [Provenance-Emu/skins](https://github.com/Provenance-Emu/skins)
-3. 🎉 Merged PR [#83](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/83) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-4. 🗣 Commented on [#3114](https://github.com/Provenance-Emu/Provenance/pull/3114#issuecomment-4061348340) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#3110](https://github.com/Provenance-Emu/Provenance/pull/3110#issuecomment-4061336397) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#86](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/86#issuecomment-4061495468) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+2. 🗣 Commented on [#85](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/85#issuecomment-4061483207) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+3. 🔒 Closed issue [#85](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/85) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+4. 🎉 Merged PR [#86](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/86) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+5. 💪 Opened PR [#86](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/86) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
