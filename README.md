@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3121](https://github.com/Provenance-Emu/Provenance/pull/3121#issuecomment-4061154645) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🎉 Merged PR [#3118](https://github.com/Provenance-Emu/Provenance/pull/3118) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#3113](https://github.com/Provenance-Emu/Provenance/pull/3113#issuecomment-4061095822) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#3114](https://github.com/Provenance-Emu/Provenance/pull/3114#issuecomment-4061094805) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#3112](https://github.com/Provenance-Emu/Provenance/pull/3112#issuecomment-4059859632) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#3110](https://github.com/Provenance-Emu/Provenance/pull/3110#issuecomment-4061286731) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#3107](https://github.com/Provenance-Emu/Provenance/pull/3107#issuecomment-4061281216) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. ℹ️ Assigned PR [#83](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/83) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+4. 🎉 Merged PR [#4](https://github.com/Provenance-Emu/skins/pull/4) in [Provenance-Emu/skins](https://github.com/Provenance-Emu/skins)
+5. 💪 Opened PR [#83](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/83) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
