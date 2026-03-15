@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3175](https://github.com/Provenance-Emu/Provenance/pull/3175) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. ℹ️ Labeled issue [#90](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/90) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-3. ℹ️ Labeled issue [#90](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/90) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-4. ❗ Opened issue [#90](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/90) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-5. 🔒 Closed issue [#88](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/88) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+1. ℹ️ Labeled issue [#93](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/93) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+2. ℹ️ Labeled issue [#93](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/93) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+3. ❗ Opened issue [#93](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/93) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+4. 🗣 Commented on [#92](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/92#issuecomment-4063606746) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+5. 🔒 Closed issue [#92](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/92) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
