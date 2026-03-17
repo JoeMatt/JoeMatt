@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2893](https://github.com/Provenance-Emu/Provenance/issues/2893#issuecomment-4078288524) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#2813](https://github.com/Provenance-Emu/Provenance/issues/2813#issuecomment-4078269721) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#2815](https://github.com/Provenance-Emu/Provenance/issues/2815#issuecomment-4078263279) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#705](https://github.com/Provenance-Emu/Provenance/issues/705#issuecomment-4078256008) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🔒 Closed issue [#2828](https://github.com/Provenance-Emu/Provenance/issues/2828) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#2792](https://github.com/Provenance-Emu/Provenance/issues/2792#issuecomment-4078559601) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#433](https://github.com/Provenance-Emu/Provenance/issues/433#issuecomment-4078548935) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#3241](https://github.com/Provenance-Emu/Provenance/issues/3241#issuecomment-4078543314) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#3269](https://github.com/Provenance-Emu/Provenance/pull/3269#issuecomment-4078530746) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ℹ️ Labeled issue [#96](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/96) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
