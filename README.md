@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3275](https://github.com/Provenance-Emu/Provenance/pull/3275#issuecomment-4079054098) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#3281](https://github.com/Provenance-Emu/Provenance/pull/3281#issuecomment-4079051708) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ℹ️ Labeled issue [#97](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/97) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-4. ℹ️ Labeled issue [#97](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/97) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-5. ❗ Opened issue [#97](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/97) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
+1. 🗣 Commented on [#2745](https://github.com/Provenance-Emu/Provenance/issues/2745#issuecomment-4079318799) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🔒 Closed issue [#2744](https://github.com/Provenance-Emu/Provenance/issues/2744) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#2744](https://github.com/Provenance-Emu/Provenance/issues/2744#issuecomment-4079299500) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#3277](https://github.com/Provenance-Emu/Provenance/pull/3277#issuecomment-4079262472) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#3276](https://github.com/Provenance-Emu/Provenance/pull/3276#issuecomment-4079261407) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
