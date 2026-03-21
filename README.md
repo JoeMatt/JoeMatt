@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/17) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-2. 🗣 Commented on [#17](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/17#issuecomment-4101946398) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-3. ℹ️ Labeled issue [#17](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/17) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-4. ℹ️ Labeled issue [#17](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/17) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-5. ℹ️ Labeled issue [#16](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/16) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+1. ℹ️ Labeled issue [#29](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/29) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+2. ℹ️ Labeled issue [#29](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/29) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+3. ℹ️ Labeled issue [#28](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/28) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+4. ℹ️ Labeled issue [#28](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/28) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+5. ❗ Opened issue [#29](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/29) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
