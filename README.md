@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#30](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/30) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-2. ℹ️ Labeled issue [#30](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/30) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-3. ❗ Opened issue [#30](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/30) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-4. 🔒 Closed issue [#28](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/28) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-5. 🗣 Commented on [#28](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/28#issuecomment-4102201333) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+1. ❌ Closed PR [#19](https://github.com/Provenance-Emu/ifly-emu.github.io/pull/19) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+2. ❌ Closed PR [#10](https://github.com/Provenance-Emu/icube-emu.github.io/pull/10) in [Provenance-Emu/icube-emu.github.io](https://github.com/Provenance-Emu/icube-emu.github.io)
+3. 🗣 Commented on [#10](https://github.com/Provenance-Emu/icube-emu.github.io/pull/10#issuecomment-4102300081) in [Provenance-Emu/icube-emu.github.io](https://github.com/Provenance-Emu/icube-emu.github.io)
+4. 🗣 Commented on [#3353](https://github.com/Provenance-Emu/Provenance/pull/3353#issuecomment-4102271749) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ℹ️ Labeled issue [#30](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/30) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
