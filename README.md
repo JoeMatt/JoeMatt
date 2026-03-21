@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3350](https://github.com/Provenance-Emu/Provenance/pull/3350#issuecomment-4101690155) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#3340](https://github.com/Provenance-Emu/Provenance/issues/3340#issuecomment-4101640717) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#3327](https://github.com/Provenance-Emu/Provenance/pull/3327#issuecomment-4101635904) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#3349](https://github.com/Provenance-Emu/Provenance/pull/3349#issuecomment-4101635044) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#3326](https://github.com/Provenance-Emu/Provenance/pull/3326#issuecomment-4101634462) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🔒 Closed issue [#17](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/17) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+2. 🗣 Commented on [#17](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/17#issuecomment-4101946398) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+3. ℹ️ Labeled issue [#17](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/17) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+4. ℹ️ Labeled issue [#17](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/17) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+5. ℹ️ Labeled issue [#16](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/16) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
