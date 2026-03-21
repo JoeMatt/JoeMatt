@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3401](https://github.com/Provenance-Emu/Provenance/pull/3401#issuecomment-4102815855) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#3376](https://github.com/Provenance-Emu/Provenance/pull/3376#issuecomment-4102815644) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#3398](https://github.com/Provenance-Emu/Provenance/pull/3398#issuecomment-4102815023) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#3396](https://github.com/Provenance-Emu/Provenance/pull/3396#issuecomment-4102814804) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#3416](https://github.com/Provenance-Emu/Provenance/pull/3416#issuecomment-4102814663) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#3417](https://github.com/Provenance-Emu/Provenance/pull/3417#issuecomment-4102919775) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#3364](https://github.com/Provenance-Emu/Provenance/pull/3364#issuecomment-4102913621) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#3396](https://github.com/Provenance-Emu/Provenance/pull/3396#issuecomment-4102910430) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#3418](https://github.com/Provenance-Emu/Provenance/pull/3418#issuecomment-4102899973) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#3412](https://github.com/Provenance-Emu/Provenance/pull/3412#issuecomment-4102850105) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
