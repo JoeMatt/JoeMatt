@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#29](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/29) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-2. ℹ️ Labeled issue [#29](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/29) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-3. ℹ️ Labeled issue [#28](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/28) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-4. ℹ️ Labeled issue [#28](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/28) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-5. ❗ Opened issue [#29](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/29) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+1. ℹ️ Labeled issue [#30](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/30) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+2. ℹ️ Labeled issue [#30](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/30) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+3. ❗ Opened issue [#30](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/30) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+4. 🔒 Closed issue [#28](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/28) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+5. 🗣 Commented on [#28](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/28#issuecomment-4102201333) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
 <!--END_SECTION:activity-->
 
 </details>
