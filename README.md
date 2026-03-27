@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#98](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/98) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-2. 🗣 Commented on [#98](https://github.com/Provenance-Emu/provenance-emu.github.io/issues/98#issuecomment-4140170911) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-3. 🎉 Merged PR [#99](https://github.com/Provenance-Emu/provenance-emu.github.io/pull/99) in [Provenance-Emu/provenance-emu.github.io](https://github.com/Provenance-Emu/provenance-emu.github.io)
-4. 🗣 Commented on [#3218](https://github.com/Provenance-Emu/Provenance/issues/3218#issuecomment-4139636708) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#2652](https://github.com/Provenance-Emu/Provenance/issues/2652#issuecomment-4139597676) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🗣 Commented on [#3543](https://github.com/Provenance-Emu/Provenance/pull/3543#issuecomment-4140297808) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#3542](https://github.com/Provenance-Emu/Provenance/pull/3542#issuecomment-4140292127) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#3541](https://github.com/Provenance-Emu/Provenance/pull/3541#issuecomment-4140290964) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#3540](https://github.com/Provenance-Emu/Provenance/pull/3540#issuecomment-4140288917) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#3539](https://github.com/Provenance-Emu/Provenance/pull/3539#issuecomment-4140286695) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
