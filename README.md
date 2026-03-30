@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3607](https://github.com/Provenance-Emu/Provenance/pull/3607#issuecomment-4151666204) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 🗣 Commented on [#3606](https://github.com/Provenance-Emu/Provenance/pull/3606#issuecomment-4151630580) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. 🗣 Commented on [#3603](https://github.com/Provenance-Emu/Provenance/pull/3603#issuecomment-4151629835) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#3603](https://github.com/Provenance-Emu/Provenance/pull/3603#issuecomment-4151525522) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#3609](https://github.com/Provenance-Emu/Provenance/pull/3609#issuecomment-4151355582) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. 🚀 Published release [3.3.1 - Alpha](https://github.com/Provenance-Emu/Provenance/releases/tag/3.3.1) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+2. 🗣 Commented on [#3607](https://github.com/Provenance-Emu/Provenance/pull/3607#issuecomment-4151666204) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+3. 🗣 Commented on [#3606](https://github.com/Provenance-Emu/Provenance/pull/3606#issuecomment-4151630580) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 🗣 Commented on [#3603](https://github.com/Provenance-Emu/Provenance/pull/3603#issuecomment-4151629835) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. 🗣 Commented on [#3603](https://github.com/Provenance-Emu/Provenance/pull/3603#issuecomment-4151525522) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
