@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/Provenance-Emu/skins/pull/10) in [Provenance-Emu/skins](https://github.com/Provenance-Emu/skins)
-2. 🗣 Commented on [#10](https://github.com/Provenance-Emu/skins/pull/10#issuecomment-4181174651) in [Provenance-Emu/skins](https://github.com/Provenance-Emu/skins)
-3. 🗣 Commented on [#3615](https://github.com/Provenance-Emu/Provenance/pull/3615#issuecomment-4174657566) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-4. 🗣 Commented on [#3615](https://github.com/Provenance-Emu/Provenance/pull/3615#issuecomment-4174448590) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#3616](https://github.com/Provenance-Emu/Provenance/pull/3616#issuecomment-4174223524) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+1. ℹ️ Labeled PR [#89](https://github.com/libretro/virtualjaguar-libretro/pull/89) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. ℹ️ Labeled PR [#89](https://github.com/libretro/virtualjaguar-libretro/pull/89) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. ℹ️ Assigned PR [#89](https://github.com/libretro/virtualjaguar-libretro/pull/89) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 💪 Opened PR [#89](https://github.com/libretro/virtualjaguar-libretro/pull/89) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. 🗣 Commented on [#87](https://github.com/libretro/virtualjaguar-libretro/pull/87#issuecomment-4181201688) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
