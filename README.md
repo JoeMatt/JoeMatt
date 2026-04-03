@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#103](https://github.com/libretro/virtualjaguar-libretro/pull/103) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. 🎉 Merged PR [#100](https://github.com/libretro/virtualjaguar-libretro/pull/100) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. 🎉 Merged PR [#97](https://github.com/libretro/virtualjaguar-libretro/pull/97) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. 💪 Opened PR [#102](https://github.com/libretro/virtualjaguar-libretro/pull/102) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. ℹ️ Labeled issue [#99](https://github.com/libretro/virtualjaguar-libretro/issues/99) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 🎉 Merged PR [#103](https://github.com/libretro/virtualjaguar-libretro/pull/103) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 💪 Opened PR [#103](https://github.com/libretro/virtualjaguar-libretro/pull/103) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. 🎉 Merged PR [#100](https://github.com/libretro/virtualjaguar-libretro/pull/100) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 🎉 Merged PR [#97](https://github.com/libretro/virtualjaguar-libretro/pull/97) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. 💪 Opened PR [#102](https://github.com/libretro/virtualjaguar-libretro/pull/102) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
