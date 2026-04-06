@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/libretro/virtualjaguar-libretro/pull/104#issuecomment-4186143405) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. 💪 Opened PR [#106](https://github.com/libretro/virtualjaguar-libretro/pull/106) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. ❗ Opened issue [#105](https://github.com/libretro/virtualjaguar-libretro/issues/105) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. 💪 Opened PR [#104](https://github.com/libretro/virtualjaguar-libretro/pull/104) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. 🎉 Merged PR [#103](https://github.com/libretro/virtualjaguar-libretro/pull/103) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 🗣 Commented on [#34](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/34#issuecomment-4190945560) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+2. 🔒 Closed issue [#34](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/34) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+3. 🗣 Commented on [#104](https://github.com/libretro/virtualjaguar-libretro/pull/104#issuecomment-4186143405) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 💪 Opened PR [#106](https://github.com/libretro/virtualjaguar-libretro/pull/106) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. ❗ Opened issue [#105](https://github.com/libretro/virtualjaguar-libretro/issues/105) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
