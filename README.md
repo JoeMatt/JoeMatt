@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+1. ❌ Closed PR [#12](https://github.com/Provenance-Emu/skins/pull/12) in [Provenance-Emu/skins](https://github.com/Provenance-Emu/skins)
 2. ℹ️ Labeled issue [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-3. ❗ Opened issue [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-4. 🗣 Commented on [#3595](https://github.com/Provenance-Emu/Provenance/issues/3595#issuecomment-4228255998) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-5. 🗣 Commented on [#34](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/34#issuecomment-4190945560) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+3. ℹ️ Labeled issue [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+4. ❗ Opened issue [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+5. 🗣 Commented on [#3595](https://github.com/Provenance-Emu/Provenance/issues/3595#issuecomment-4228255998) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
 <!--END_SECTION:activity-->
 
 </details>
