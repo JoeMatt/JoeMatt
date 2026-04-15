@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3621](https://github.com/Provenance-Emu/Provenance/pull/3621) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-2. 💪 Opened PR [#3621](https://github.com/Provenance-Emu/Provenance/pull/3621) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
-3. ❌ Closed PR [#12](https://github.com/Provenance-Emu/skins/pull/12) in [Provenance-Emu/skins](https://github.com/Provenance-Emu/skins)
-4. ℹ️ Labeled issue [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-5. ℹ️ Labeled issue [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+1. 🎉 Merged PR [#1](https://github.com/JoeMatt/joseph.mattiello.resume/pull/1) in [JoeMatt/joseph.mattiello.resume](https://github.com/JoeMatt/joseph.mattiello.resume)
+2. 💪 Opened PR [#1](https://github.com/JoeMatt/joseph.mattiello.resume/pull/1) in [JoeMatt/joseph.mattiello.resume](https://github.com/JoeMatt/joseph.mattiello.resume)
+3. 🎉 Merged PR [#3621](https://github.com/Provenance-Emu/Provenance/pull/3621) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+4. 💪 Opened PR [#3621](https://github.com/Provenance-Emu/Provenance/pull/3621) in [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance)
+5. ❌ Closed PR [#12](https://github.com/Provenance-Emu/skins/pull/12) in [Provenance-Emu/skins](https://github.com/Provenance-Emu/skins)
 <!--END_SECTION:activity-->
 
 </details>
