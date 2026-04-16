@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/6) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
-2. 🎉 Merged PR [#95](https://github.com/libretro/virtualjaguar-libretro/pull/95) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. 🎉 Merged PR [#5](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/5) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
-4. 🎉 Merged PR [#4](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/4) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
-5. 🔒 Closed issue [#41](https://github.com/libretro/virtualjaguar-libretro/issues/41) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 🔒 Closed issue [#62](https://github.com/libretro/virtualjaguar-libretro/issues/62) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🗣 Commented on [#9](https://github.com/libretro/virtualjaguar-libretro/issues/9#issuecomment-4257462826) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. 🔒 Closed issue [#9](https://github.com/libretro/virtualjaguar-libretro/issues/9) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. ❌ Closed PR [#96](https://github.com/libretro/virtualjaguar-libretro/pull/96) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. 🗣 Commented on [#96](https://github.com/libretro/virtualjaguar-libretro/pull/96#issuecomment-4257461014) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
