@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#62](https://github.com/libretro/virtualjaguar-libretro/issues/62) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. 🗣 Commented on [#9](https://github.com/libretro/virtualjaguar-libretro/issues/9#issuecomment-4257462826) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. 🔒 Closed issue [#9](https://github.com/libretro/virtualjaguar-libretro/issues/9) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. ❌ Closed PR [#96](https://github.com/libretro/virtualjaguar-libretro/pull/96) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. 🗣 Commented on [#96](https://github.com/libretro/virtualjaguar-libretro/pull/96#issuecomment-4257461014) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. ℹ️ Assigned issue [#111](https://github.com/libretro/virtualjaguar-libretro/issues/111) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. ℹ️ Labeled issue [#111](https://github.com/libretro/virtualjaguar-libretro/issues/111) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. ❗ Opened issue [#111](https://github.com/libretro/virtualjaguar-libretro/issues/111) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. ℹ️ Labeled issue [#110](https://github.com/libretro/virtualjaguar-libretro/issues/110) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. ❗ Opened issue [#110](https://github.com/libretro/virtualjaguar-libretro/issues/110) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
