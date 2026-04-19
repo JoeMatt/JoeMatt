@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#112](https://github.com/libretro/virtualjaguar-libretro/pull/112) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. 💪 Opened PR [#112](https://github.com/libretro/virtualjaguar-libretro/pull/112) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. ℹ️ Assigned PR [#112](https://github.com/libretro/virtualjaguar-libretro/pull/112) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. ℹ️ Assigned issue [#111](https://github.com/libretro/virtualjaguar-libretro/issues/111) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. ℹ️ Labeled issue [#111](https://github.com/libretro/virtualjaguar-libretro/issues/111) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. ℹ️ Labeled PR [#113](https://github.com/libretro/virtualjaguar-libretro/pull/113) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 💪 Opened PR [#113](https://github.com/libretro/virtualjaguar-libretro/pull/113) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. ℹ️ Assigned PR [#113](https://github.com/libretro/virtualjaguar-libretro/pull/113) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 💪 Opened PR [#7](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/7) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
+5. ℹ️ Labeled PR [#112](https://github.com/libretro/virtualjaguar-libretro/pull/112) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
