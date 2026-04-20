@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/2) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-2. 🎉 Merged PR [#1](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/1) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-3. 💪 Opened PR [#1](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/1) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-4. ℹ️ Assigned PR [#1](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/1) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-5. ℹ️ Labeled PR [#113](https://github.com/libretro/virtualjaguar-libretro/pull/113) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 🎉 Merged PR [#2](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/2) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+2. ℹ️ Labeled PR [#2](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/2) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+3. ℹ️ Assigned PR [#2](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/2) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+4. 💪 Opened PR [#2](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/2) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+5. 🎉 Merged PR [#1](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/1) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
 <!--END_SECTION:activity-->
 
 </details>
