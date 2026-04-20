@@ -74,11 +74,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/3) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-2. 🔒 Closed issue [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-3. 🗣 Commented on [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42#issuecomment-4278719990) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
-4. 🎉 Merged PR [#2](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/2) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-5. ℹ️ Labeled PR [#2](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/2) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+1. 🗣 Commented on [#3](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/3#issuecomment-4282878735) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+2. 💪 Opened PR [#3](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/3) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+3. 🔒 Closed issue [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+4. 🗣 Commented on [#42](https://github.com/Provenance-Emu/ifly-emu.github.io/issues/42#issuecomment-4278719990) in [Provenance-Emu/ifly-emu.github.io](https://github.com/Provenance-Emu/ifly-emu.github.io)
+5. 🎉 Merged PR [#2](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/2) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
 <!--END_SECTION:activity-->
 
 </details>
