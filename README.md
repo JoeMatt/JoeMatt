@@ -47,7 +47,9 @@ https://github.com/rahuldkjain/github-profile-readme-generator
 <a href="https://github.com/libretro/virtualjaguar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=libretro&repo=virtualjaguar-libretro"/>
 </a>
-
+<a href="https://github.com/JoeMatt/atari_jaguar_240p_test_suite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoeMatt&repo=atari_jaguar_240p_test_suite"/>
+</a>
 
 <!--
 
