@@ -76,11 +76,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#10](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/10) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-2. 🎉 Merged PR [#9](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/9) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-3. 💪 Opened PR [#10](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/10) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-4. ℹ️ Labeled PR [#9](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/9) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-5. ℹ️ Assigned PR [#9](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/9) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+1. 💪 Opened PR [#2322](https://github.com/flyinghead/flycast/pull/2322) in [flyinghead/flycast](https://github.com/flyinghead/flycast)
+2. ℹ️ Assigned PR [#11](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/11) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+3. 🎉 Merged PR [#11](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/11) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+4. 💪 Opened PR [#11](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/11) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+5. 🎉 Merged PR [#10](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/10) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
 <!--END_SECTION:activity-->
 
 </details>
