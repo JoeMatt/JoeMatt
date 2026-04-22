@@ -76,11 +76,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/13) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-2. 🎉 Merged PR [#12](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/12) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-3. ℹ️ Labeled PR [#13](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/13) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-4. ℹ️ Labeled PR [#12](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/12) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-5. ℹ️ Assigned PR [#12](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/12) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+1. 💪 Opened PR [#114](https://github.com/libretro/virtualjaguar-libretro/pull/114) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🎉 Merged PR [#13](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/13) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+3. 🎉 Merged PR [#12](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/12) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+4. ℹ️ Labeled PR [#13](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/13) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+5. ℹ️ Labeled PR [#12](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/12) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
 <!--END_SECTION:activity-->
 
 </details>
