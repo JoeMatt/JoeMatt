@@ -76,11 +76,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#116](https://github.com/libretro/virtualjaguar-libretro/pull/116) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. ℹ️ Assigned PR [#116](https://github.com/libretro/virtualjaguar-libretro/pull/116) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. 💪 Opened PR [#116](https://github.com/libretro/virtualjaguar-libretro/pull/116) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. 🎉 Merged PR [#115](https://github.com/libretro/virtualjaguar-libretro/pull/115) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. 🎉 Merged PR [#15](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/15) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+1. 💪 Opened PR [#16](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/16) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+2. ℹ️ Labeled PR [#116](https://github.com/libretro/virtualjaguar-libretro/pull/116) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. ℹ️ Assigned PR [#116](https://github.com/libretro/virtualjaguar-libretro/pull/116) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 💪 Opened PR [#116](https://github.com/libretro/virtualjaguar-libretro/pull/116) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. 🎉 Merged PR [#115](https://github.com/libretro/virtualjaguar-libretro/pull/115) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
