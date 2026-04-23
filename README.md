@@ -76,11 +76,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#111](https://github.com/libretro/virtualjaguar-libretro/issues/111) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. 🎉 Merged PR [#113](https://github.com/libretro/virtualjaguar-libretro/pull/113) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. 🎉 Merged PR [#26](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/26) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-4. ℹ️ Labeled PR [#26](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/26) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-5. ℹ️ Assigned PR [#26](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/26) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+1. 🎉 Merged PR [#117](https://github.com/libretro/virtualjaguar-libretro/pull/117) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🔒 Closed issue [#110](https://github.com/libretro/virtualjaguar-libretro/issues/110) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. 🗣 Commented on [#117](https://github.com/libretro/virtualjaguar-libretro/pull/117#issuecomment-4308903359) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 🔒 Closed issue [#111](https://github.com/libretro/virtualjaguar-libretro/issues/111) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. 🎉 Merged PR [#113](https://github.com/libretro/virtualjaguar-libretro/pull/113) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
