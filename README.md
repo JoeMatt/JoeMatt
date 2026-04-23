@@ -76,11 +76,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/libretro/virtualjaguar-libretro/pull/116) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. 💪 Opened PR [#16](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/16) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-3. ℹ️ Labeled PR [#116](https://github.com/libretro/virtualjaguar-libretro/pull/116) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. ℹ️ Assigned PR [#116](https://github.com/libretro/virtualjaguar-libretro/pull/116) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. 💪 Opened PR [#116](https://github.com/libretro/virtualjaguar-libretro/pull/116) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 🎉 Merged PR [#118](https://github.com/libretro/virtualjaguar-libretro/pull/118) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 🗣 Commented on [#118](https://github.com/libretro/virtualjaguar-libretro/pull/118#issuecomment-4306755413) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. ℹ️ Labeled PR [#118](https://github.com/libretro/virtualjaguar-libretro/pull/118) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. ℹ️ Assigned PR [#118](https://github.com/libretro/virtualjaguar-libretro/pull/118) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. 💪 Opened PR [#118](https://github.com/libretro/virtualjaguar-libretro/pull/118) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
