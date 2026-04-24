@@ -76,11 +76,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#117](https://github.com/libretro/virtualjaguar-libretro/pull/117) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. 🔒 Closed issue [#110](https://github.com/libretro/virtualjaguar-libretro/issues/110) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. 🗣 Commented on [#117](https://github.com/libretro/virtualjaguar-libretro/pull/117#issuecomment-4308903359) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. 🔒 Closed issue [#111](https://github.com/libretro/virtualjaguar-libretro/issues/111) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. 🎉 Merged PR [#113](https://github.com/libretro/virtualjaguar-libretro/pull/113) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. ❌ Closed PR [#7](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/7) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
+2. 🗣 Commented on [#7](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/7#issuecomment-4309313436) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
+3. ❌ Closed PR [#9](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/9) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
+4. 🗣 Commented on [#9](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/9#issuecomment-4309313294) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
+5. ℹ️ Labeled PR [#119](https://github.com/libretro/virtualjaguar-libretro/pull/119) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
