@@ -76,11 +76,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/7) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
-2. 🗣 Commented on [#7](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/7#issuecomment-4309313436) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
-3. ❌ Closed PR [#9](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/9) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
-4. 🗣 Commented on [#9](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/9#issuecomment-4309313294) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
-5. ℹ️ Labeled PR [#119](https://github.com/libretro/virtualjaguar-libretro/pull/119) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. ℹ️ Labeled issue [#21](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/issues/21) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+2. ❌ Closed PR [#7](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/7) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
+3. 🗣 Commented on [#7](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/7#issuecomment-4309313436) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
+4. ❌ Closed PR [#9](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/9) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
+5. 🗣 Commented on [#9](https://github.com/Provenance-Emu/virtualjaguar-libretro/pull/9#issuecomment-4309313294) in [Provenance-Emu/virtualjaguar-libretro](https://github.com/Provenance-Emu/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
