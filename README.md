@@ -76,11 +76,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/issues/23) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-2. 🗣 Commented on [#23](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/issues/23#issuecomment-4323166511) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
-3. ℹ️ Labeled issue [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. ℹ️ Labeled issue [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38#issuecomment-4323083064) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. ℹ️ Labeled PR [#29](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/29) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+2. ℹ️ Assigned PR [#29](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/29) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+3. 💪 Opened PR [#29](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/29) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+4. 🎉 Merged PR [#28](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/28) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
+5. ℹ️ Labeled PR [#28](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/28) in [JoeMatt/atari_jaguar_240p_test_suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)
 <!--END_SECTION:activity-->
 
 </details>
