@@ -76,11 +76,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#86](https://github.com/libretro/virtualjaguar-libretro/issues/86) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. ℹ️ Assigned issue [#86](https://github.com/libretro/virtualjaguar-libretro/issues/86) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. 🔒 Closed issue [#86](https://github.com/libretro/virtualjaguar-libretro/issues/86) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. 🗣 Commented on [#86](https://github.com/libretro/virtualjaguar-libretro/issues/86#issuecomment-4347920748) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. 🗣 Commented on [#85](https://github.com/libretro/virtualjaguar-libretro/issues/85#issuecomment-4347913389) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 🗣 Commented on [#119](https://github.com/libretro/virtualjaguar-libretro/pull/119#issuecomment-4348238661) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. ℹ️ Labeled issue [#86](https://github.com/libretro/virtualjaguar-libretro/issues/86) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+3. ℹ️ Assigned issue [#86](https://github.com/libretro/virtualjaguar-libretro/issues/86) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 🔒 Closed issue [#86](https://github.com/libretro/virtualjaguar-libretro/issues/86) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. 🗣 Commented on [#86](https://github.com/libretro/virtualjaguar-libretro/issues/86#issuecomment-4347920748) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
