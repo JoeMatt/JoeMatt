@@ -76,11 +76,11 @@ https://github.com/rahuldkjain/github-profile-readme-generator
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#119](https://github.com/libretro/virtualjaguar-libretro/pull/119) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-2. ℹ️ Labeled PR [#119](https://github.com/libretro/virtualjaguar-libretro/pull/119) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-3. ℹ️ Labeled PR [#119](https://github.com/libretro/virtualjaguar-libretro/pull/119) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-4. ℹ️ Labeled PR [#119](https://github.com/libretro/virtualjaguar-libretro/pull/119) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
-5. ℹ️ Labeled PR [#119](https://github.com/libretro/virtualjaguar-libretro/pull/119) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+1. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38#issuecomment-4357516046) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+2. 💪 Opened PR [#1976](https://github.com/libretro/libretro-super/pull/1976) in [libretro/libretro-super](https://github.com/libretro/libretro-super)
+3. 🗣 Commented on [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38#issuecomment-4357493215) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+4. 🔓 Reopened issue [#38](https://github.com/libretro/virtualjaguar-libretro/issues/38) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
+5. 🎉 Merged PR [#119](https://github.com/libretro/virtualjaguar-libretro/pull/119) in [libretro/virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)
 <!--END_SECTION:activity-->
 
 </details>
