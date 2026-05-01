@@ -16,7 +16,6 @@
   <a href="https://joemattiello.dev/status/"><img alt="Site status" src="https://img.shields.io/badge/site-status-f0a030?style=for-the-badge&labelColor=06070b"></a>
   <a href="https://www.linkedin.com/in/joemattiello/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/3412622/joem"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-  <a href="mailto:mail@joemattiello.com"><img alt="Email" src="https://img.shields.io/badge/-mail@joemattiello.com-444?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
 ---
@@ -43,26 +42,25 @@ I started writing iOS apps **before Apple released the SDK**, hacking together O
 
 ### Open source highlights
 
-<a href="https://github.com/Provenance-Emu/Provenance">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Provenance-Emu&repo=Provenance&theme=dark&bg_color=171b23&title_color=00e599&icon_color=00c2ff&text_color=e4e6ea&border_color=2a2f3a" />
-</a>
-<a href="https://github.com/HeroTransitions/Hero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeroTransitions&repo=Hero&theme=dark&bg_color=171b23&title_color=00e599&icon_color=00c2ff&text_color=e4e6ea&border_color=2a2f3a" />
-</a>
-<a href="https://github.com/libretro/virtualjaguar-libretro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=libretro&repo=virtualjaguar-libretro&theme=dark&bg_color=171b23&title_color=00e599&icon_color=00c2ff&text_color=e4e6ea&border_color=2a2f3a" />
-</a>
-<a href="https://github.com/JoeMatt/atari_jaguar_240p_test_suite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoeMatt&repo=atari_jaguar_240p_test_suite&theme=dark&bg_color=171b23&title_color=00e599&icon_color=00c2ff&text_color=e4e6ea&border_color=2a2f3a" />
-</a>
-<a href="https://github.com/RxSwiftCommunity/RxRealm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RxSwiftCommunity&repo=RxRealm&theme=dark&bg_color=171b23&title_color=00e599&icon_color=00c2ff&text_color=e4e6ea&border_color=2a2f3a" />
-</a>
-<a href="https://github.com/CoreOffice/XMLCoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoreOffice&repo=XMLCoder&theme=dark&bg_color=171b23&title_color=00e599&icon_color=00c2ff&text_color=e4e6ea&border_color=2a2f3a" />
-</a>
+| Repo | Stars | Role | What it is |
+|---|---|---|---|
+| [**Provenance-Emu/Provenance**](https://github.com/Provenance-Emu/Provenance) | ![](https://img.shields.io/github/stars/Provenance-Emu/Provenance?style=flat-square&label=&color=00e599) | Creator · Lead | iOS/tvOS/macOS multi-system emulator. App Store. |
+| [**HeroTransitions/Hero**](https://github.com/HeroTransitions/Hero) | ![](https://img.shields.io/github/stars/HeroTransitions/Hero?style=flat-square&label=&color=00e599) | Admin · Maintainer | Custom view-controller transitions for Swift. |
+| [**libretro/virtualjaguar-libretro**](https://github.com/libretro/virtualjaguar-libretro) | ![](https://img.shields.io/github/stars/libretro/virtualjaguar-libretro?style=flat-square&label=&color=00e599) | Maintainer | First OSS Atari Jaguar CD emulation. |
+| [**JoeMatt/atari_jaguar_240p_test_suite**](https://github.com/JoeMatt/atari_jaguar_240p_test_suite) | ![](https://img.shields.io/github/stars/JoeMatt/atari_jaguar_240p_test_suite?style=flat-square&label=&color=00e599) | Maintainer · AI-built | Bare-metal m68k Jaguar — built with Claude Code. |
+| [**RxSwiftCommunity/RxRealm**](https://github.com/RxSwiftCommunity/RxRealm) | ![](https://img.shields.io/github/stars/RxSwiftCommunity/RxRealm?style=flat-square&label=&color=00e599) | Maintainer | RxSwift bindings for Realm. |
+| [**CoreOffice/XMLCoder**](https://github.com/CoreOffice/XMLCoder) | ![](https://img.shields.io/github/stars/CoreOffice/XMLCoder?style=flat-square&label=&color=00e599) | Major contributor | Codable XML parsing in Swift. |
 
 **Other notable contributions:** [RetroArch](https://github.com/libretro/RetroArch) (Apple platform drivers — camera, microphone, CoreMIDI, CoreLocation) · [SideStore](https://github.com/SideStore/SideStore) (org member, 21 merged PRs) · [swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) · [Mono / Xamarin](https://www.mono-project.com/) (CoreMIDI, CoreAudio, Foundation C# wrappers for MonoMac) · [GLideN64](https://github.com/gonetz/GLideN64) · [mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) · [UTM](https://github.com/utmapp/UTM)
+
+---
+
+### Press & recognition
+
+- **[mobilegamer.biz](https://mobilegamer.biz/emulation-arrived-on-the-app-store-two-years-ago-60m-downloads-later-whats-changed/)** (Apr 2026) — featured developer interview in the 2-year App Store emulator retrospective
+- **[9to5Mac](https://9to5mac.com/2024/04/19/provenance-playstation-emulator-app-store/)**, **[iMore](https://www.imore.com/gaming/the-provenance-playstation-nintendo-and-atari-game-emulator-is-now-available-for-beta-download-on-iphone-and-ipad-and-an-apple-tv-version-is-next)** (exclusive), **[Time Extension](https://www.timeextension.com/news/2024/05/multi-console-emulator-provenance-coming-the-iphone-app-store-nintendo-be-damned)**, **[Android Authority](https://www.androidauthority.com/provenance-app-store-3435686/)**, **[AppleInsider](https://appleinsider.com/articles/24/04/19/provenance-plans-to-bring-sony-sega-console-emulation-to-the-app-store)**, **[Pocket Gamer](https://www.pocketgamer.com/provenance/)** (dedicated hub)
+- **YouTube coverage:** [TWiT](https://www.youtube.com/@twit) (2.3M subs), [ETA PRIME](https://www.youtube.com/@etaprime) (2.2M), [Spawn Wave](https://www.youtube.com/@SpawnWaveMedia)
+- **Earlier:** Newsweek cover ("The Next Google" — Sense Networks, 2009), Bloomberg Businessweek "25 Most Intriguing Startups", New York Times, CNN Money
 
 ---
 
@@ -76,24 +74,13 @@ Patent portfolio acquired twice — by YP/YellowPages in 2014, then by Verve in 
 
 ---
 
-### Stats
-
-<a href="https://github.com/JoeMatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoeMatt&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=171b23&title_color=00e599&icon_color=00c2ff&text_color=e4e6ea&border_color=2a2f3a" />
-</a>
-<a href="https://github.com/JoeMatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeMatt&layout=compact&hide=jupyter%20notebook&theme=dark&bg_color=171b23&title_color=00e599&text_color=e4e6ea&border_color=2a2f3a" />
-</a>
-
----
-
 ### Get in touch
 
 | If you're… | Best path |
 |---|---|
-| **Hiring** for Head of AI Platform / VP Eng / Director / CTO | [LinkedIn](https://www.linkedin.com/in/joemattiello/) or [mail@joemattiello.com](mailto:mail@joemattiello.com) |
+| **Hiring** for Head of AI Platform / VP Eng / Director / CTO | [LinkedIn DM](https://www.linkedin.com/in/joemattiello/) |
 | **Looking for a consultant** for a Mobile AI Launch Readiness Audit | [joemattiello.dev/consulting/](https://joemattiello.dev/consulting/) |
 | **Curious how I work** | [Case studies](https://joemattiello.dev/#impact) (Wayfair · NewsCorp · Cameo · AI multi-agent CI) |
-| **Press / podcasting / speaking** | [mail@joemattiello.com](mailto:mail@joemattiello.com) |
+| **Press, podcasting, or speaking** | [LinkedIn](https://www.linkedin.com/in/joemattiello/) or [joemattiello.dev](https://joemattiello.dev) |
 
 <sub>Site, status dashboard, and consulting offer are all open source — see <a href="https://github.com/JoeMatt/joematt.github.io">joematt.github.io</a>.</sub>
