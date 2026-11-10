@@ -20,6 +20,8 @@
 
 ---
 
+[![JoeMatt's GitHub stats](https://github-stats-extended.vercel.app/api?username=joematt)](https://github.com/stats-organization/github-stats-extended)
+
 ### About
 
 I started writing iOS apps **before Apple released the SDK**, hacking together Objective-C on jailbroken hardware. Currently L4 Mobile Engineer on Wayfair's App Infrastructure team. Previously **Director of iOS Platform** at NewsCorp (8-region global team — WSJ, NY Post, Times UK, Knewz). Hold **3 US patents** from Sense Networks. Creator of **Provenance EMU** — the most popular open-source multi-system emulator for iOS, tvOS, and macOS — now on the App Store with 388k+ downloads.
