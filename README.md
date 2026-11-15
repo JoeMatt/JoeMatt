@@ -1,6 +1,6 @@
 <!--
   joemattiello.dev profile README
-  Last refreshed: 2026-04-30
+  Last refreshed: 2026-11-15
 -->
 
 <h1 align="center">Joseph Mattiello</h1>
@@ -37,6 +37,7 @@ I started writing iOS apps **before Apple released the SDK**, hacking together O
 - **[Provenance](https://github.com/Provenance-Emu/Provenance)** — multi-system iOS/tvOS/macOS emulator, App Store launch Jan 2025, 6.3k⭐, 79 contributors, 9.3k Discord members, 388k+ GitHub release downloads
 - **Multi-agent CI orchestration** across the Provenance org — Claude (Sonnet+Opus auto-routed by static diff analysis) + Cursor + Kimi sharing one dispatch vocabulary. [Case study →](https://joemattiello.dev/#impact)
 - **[Atari Jaguar 240p Test Suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)** — bare-metal m68k port of Artemio Urbina's 240p Test Suite. Built end-to-end with Claude Code + Copilot/Qodo as adversarial reviewers. **36 PRs in 10 days, ~84% AI co-authored.** [PR #27 (PAL pass)](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/27) · [smoke-test CI](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/blob/main/.github/workflows/build.yml)
+- **[drobo-driverkit](https://github.com/JoeMatt/drobo-driverkit)** — DriverKit driver and dashboard for the Drobo 8D Thunderbolt array on Apple silicon. No kext, SIP stays on. Protocol reverse-engineered from Drobo's original kext and Dashboard; reads verified, writes experimental. Built with Claude Code. [Site →](https://joemattiello.dev/drobo-driverkit/)
 - **[virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)** — maintainer; first open-source Atari Jaguar CD emulation. 28 merged PRs.
 - **AI tooling at Wayfair** — custom MCP servers, Claude skills/plugins, n8n workflows for the App Infrastructure team supporting 60+ mobile engineers
 
