@@ -20,7 +20,15 @@
 
 ---
 
-[![JoeMatt's GitHub stats](https://github-stats-extended.vercel.app/api?username=joematt)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <a href="https://github.com/JoeMatt">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=JoeMatt&amp;rank_icon=percentile&amp;show_icons=true&amp;include_all_commits=true&amp;theme=radical"
+      alt="Joseph Mattiello’s GitHub contribution statistics"
+      width="495"
+    />
+  </a>
+</p>
 
 ### About
 
