@@ -47,7 +47,7 @@ I created Provenance EMU, iFly, and iCube, and maintain the Virtual Jaguar libre
     <td width="50%" valign="top">
       <a href="https://raw.githubusercontent.com/JoeMatt/JoeMatt/master/assets/drobo-driverkit-dashboard.png"><img src="assets/drobo-driverkit-dashboard.png" width="320" alt="Drobo DriverKit dashboard showing capacity, protection, eight drive bays, volumes, and tools"></a><br>
       <strong><a href="https://github.com/JoeMatt/drobo-driverkit">Drobo DriverKit</a></strong><br>
-      DriverKit driver and dashboard for the Drobo 8D Thunderbolt array on Apple silicon. Reads verified. Writes are experimental.<br>
+      DriverKit driver and dashboard for the Drobo 8D Thunderbolt array on Apple silicon. Read/Write/Reset and SMART tracking.<br>
       <sub><a href="https://joemattiello.dev/drobo-driverkit/">Project page</a> · Dashboard shown with built-in demo data.</sub>
     </td>
     <td width="50%" valign="top">
