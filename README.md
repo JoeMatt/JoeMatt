@@ -47,6 +47,14 @@ I created Provenance EMU, iFly, and iCube, and maintain the Virtual Jaguar libre
 - **[Wayfair mobile infrastructure](https://joemattiello.dev/#impact)** · Built a video compression and caching pipeline with an estimated **$2M/year** in bandwidth savings.
 
 <details>
+<summary>Drobo DriverKit screenshot</summary>
+<p>
+  <a href="https://joemattiello.dev/drobo-driverkit/"><img src="assets/drobo-driverkit-dashboard.png" width="720" alt="Drobo DriverKit dashboard on macOS showing capacity, protection, eight drive bays, volumes, and tools"></a><br>
+  <sub>Drobo DriverKit dashboard with built-in demo data.</sub>
+</p>
+</details>
+
+<details>
 <summary>USBSmart screenshot</summary>
 <p>
   <a href="https://joemattiello.dev/usbsmart/"><img src="assets/usbsmart-macos-smart-drive-report.png" width="720" alt="USBSmart on macOS showing drive health, temperature, power-on hours, and reallocated sectors for a Samsung SSD"></a><br>
