@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Engineering Leader</strong> · <strong>Mobile Architect</strong> · <strong>AI/LLM Tooling</strong>
   <br>
-  <em>NYC · 18+ years mobile and enterprise POSIX/*nix systems · 3 US patents · Creator of <a href="https://provenance-emu.com">Provenance EMU</a>, <a href="https://github.com/libretro/virtualjaguar-libretro">Virtual Jaguar</a>, <a href="https://icube-emu.com">iCube</a>, and <a href="https://ifly-emu.com">iFly</a></em>
+  <em>NYC · 18+ years mobile and enterprise POSIX/*nix systems · 3 US patents in ML/AI · Creator of <a href="https://provenance-emu.com">Provenance EMU</a>, <a href="https://github.com/libretro/virtualjaguar-libretro">Virtual Jaguar</a>, <a href="https://icube-emu.com">iCube</a>, and <a href="https://ifly-emu.com">iFly</a></em>
 </p>
 
 <p align="center">
