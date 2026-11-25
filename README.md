@@ -1,24 +1,49 @@
-<!--
-  joemattiello.dev profile README
-  Last refreshed: 2026-11-15
--->
-
 <h1 align="center">Joseph Mattiello</h1>
 <p align="center">
-  <strong>Engineering Leader</strong> · <strong>Mobile Architect</strong> · <strong>AI/LLM Tooling</strong>
-  <br>
-  <em>NYC · 18+ years mobile and enterprise POSIX/*nix systems · 3 US patents in ML/AI · Creator of <a href="https://provenance-emu.com">Provenance EMU</a>, <a href="https://github.com/libretro/virtualjaguar-libretro">Virtual Jaguar</a>, <a href="https://icube-emu.com">iCube</a>, and <a href="https://ifly-emu.com">iFly</a></em>
+  <strong><a href="https://joemattiello.dev/#experience">Engineering leader</a> · <a href="https://joemattiello.dev/#skills">Mobile architecture and systems engineering</a> · <a href="https://joemattiello.dev/ai/">AI/LLM tooling</a></strong><br>
+  NYC · <a href="https://joemattiello.dev/#experience">18+ years in mobile and enterprise POSIX/Unix systems</a> · <a href="#us-patents">3 US patents in ML/AI</a>
+</p>
+
+- **[Wayfair mobile infrastructure](https://joemattiello.dev/#impact)** · Built a video compression and caching pipeline with an estimated **$2M/year** in bandwidth savings.
+- **[Provenance EMU](https://github.com/Provenance-Emu/Provenance)** · I created this open-source multi-system emulator for Apple platforms. It’s on the [App Store](https://apps.apple.com/us/app/provenance-app/id1596862805) and has **6.4k GitHub stars**.
+- **[USBSmart](https://joemattiello.dev/usbsmart/)** · I built a read-only DriverKit driver that brings USB drive health to the macOS menu bar on Apple silicon. [Release and download](https://github.com/JoeMatt/usbsmart/releases/tag/v0.5.1).
+
+I created [iCube](https://icube-emu.com/) and [iFly](https://ifly-emu.com/). I maintain [Virtual Jaguar for RetroArch](https://github.com/libretro/virtualjaguar-libretro#credits-and-license).
+
+<p align="center">
+  <strong><a href="mailto:mail@joemattiello.com">Hiring? Get in touch</a> · <a href="https://github.com/JoeMatt">Follow on GitHub</a></strong><br>
+  <a href="#currently-building">Projects</a> · <a href="https://joemattiello.dev/#impact">Case studies</a> · <a href="#open-source-highlights">Open source</a> · <a href="#press--recognition">Press</a> · <a href="https://www.linkedin.com/in/joemattiello/">LinkedIn</a> · <a href="https://joemattiello.dev/consulting/">Consulting</a>
 </p>
 
 <p align="center">
-  <a href="https://joemattiello.dev"><img alt="joemattiello.dev" src="https://img.shields.io/badge/site-joemattiello.dev-00e599?style=for-the-badge&labelColor=06070b"></a>
-  <a href="https://joemattiello.dev/consulting/"><img alt="Consulting" src="https://img.shields.io/badge/consulting-Q3%202026%20availability-00c2ff?style=for-the-badge&labelColor=06070b"></a>
-  <a href="https://joemattiello.dev/status/"><img alt="Site status" src="https://img.shields.io/badge/site-status-f0a030?style=for-the-badge&labelColor=06070b"></a>
-  <a href="https://www.linkedin.com/in/joemattiello/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/3412622/joem"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+  <a href="https://joemattiello.dev/usbsmart/"><img src="assets/usbsmart-macos-smart-drive-report.png" width="720" alt="USBSmart on macOS showing a saved Samsung SSD SMART report with drive health, temperature, power-on hours, and reallocated sectors"></a><br>
+  <sub><a href="https://github.com/JoeMatt/usbsmart/releases/tag/v0.5.1">USBSmart 0.5.1</a> displaying a saved hardware scan.</sub>
 </p>
 
 ---
+
+### About
+
+I started writing iOS apps [before Apple released the SDK](https://joemattiello.dev/#about), hacking together Objective-C on jailbroken hardware. I work on [Wayfair’s App Infrastructure team](https://joemattiello.dev/#impact) and previously directed [iOS Platform at NewsCorp](https://joemattiello.dev/#experience) across eight regions. I’m a named inventor on [three US patents](#us-patents) from Sense Networks, covering location analytics and event detection.
+
+[Live site metrics](https://joemattiello.dev/status/) · [Stack Overflow](https://stackoverflow.com/users/3412622/joem)
+
+---
+
+### Currently building
+
+- **[USBSmart](https://joemattiello.dev/usbsmart/)** · Read-only USB SATA drive health on Apple silicon, with a macOS menu bar monitor and [Prometheus metrics](https://github.com/JoeMatt/usbsmart/releases/tag/v0.5.1).
+- **[Provenance](https://github.com/Provenance-Emu/Provenance)** — multi-system iOS/tvOS/macOS emulator, App Store launch Jan 2025, 6.4k GitHub stars, 79 contributors, 9.3k Discord members, 388k+ GitHub release downloads
+- **[Multi-agent CI orchestration](https://joemattiello.dev/ai/)** across the Provenance org — Claude (Sonnet+Opus auto-routed by static diff analysis) + Cursor + Kimi sharing one dispatch vocabulary. [Case study →](https://joemattiello.dev/#impact)
+- **[Atari Jaguar 240p Test Suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)** — bare-metal m68k port of Artemio Urbina's 240p Test Suite. Built end-to-end with Claude Code + Copilot/Qodo as adversarial reviewers. **36 PRs in 10 days, ~84% AI co-authored.** [PR #27 (PAL pass)](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/27) · [smoke-test CI](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/blob/main/.github/workflows/build.yml)
+- **[drobo-driverkit](https://github.com/JoeMatt/drobo-driverkit)** — DriverKit driver and dashboard for the Drobo 8D Thunderbolt array on Apple silicon. No kext, SIP stays on. Protocol reverse-engineered from Drobo's original kext and Dashboard; reads verified, writes experimental. Built with Claude Code. [Site →](https://joemattiello.dev/drobo-driverkit/)
+- **[virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)** — maintainer; first open-source Atari Jaguar CD emulation. 28 merged PRs.
+- **[AI tooling at Wayfair](https://joemattiello.dev/ai/)** — custom MCP servers, Claude skills/plugins, n8n workflows for the App Infrastructure team supporting 60+ mobile engineers
+
+---
+
+<details>
+<summary>GitHub activity</summary>
 
 <p align="center">
   <a href="https://github.com/JoeMatt">
@@ -30,26 +55,7 @@
   </a>
 </p>
 
-### About
-
-I started writing iOS apps **before Apple released the SDK**, hacking together Objective-C on jailbroken hardware. Currently L4 Mobile Engineer on Wayfair's App Infrastructure team. Previously **Director of iOS Platform** at NewsCorp (8-region global team — WSJ, NY Post, Times UK, Knewz). Hold **3 US patents** from Sense Networks. Creator of **Provenance EMU** — the most popular open-source multi-system emulator for iOS, tvOS, and macOS — now on the App Store with 388k+ downloads.
-
-> 💼 **Considering 1–2 consulting engagements for Q3 2026** — [Mobile AI Launch Readiness Audit](https://joemattiello.dev/consulting/) · 3 weeks · $25–35K fixed-fee · iOS engineering meets AI infrastructure
->
-> 📊 **Live operational metrics** — [joemattiello.dev/status](https://joemattiello.dev/status/) (Lighthouse, security headers, OSS impact — re-audited on every deploy)
-
----
-
-### Currently building
-
-- **[Provenance](https://github.com/Provenance-Emu/Provenance)** — multi-system iOS/tvOS/macOS emulator, App Store launch Jan 2025, 6.3k⭐, 79 contributors, 9.3k Discord members, 388k+ GitHub release downloads
-- **Multi-agent CI orchestration** across the Provenance org — Claude (Sonnet+Opus auto-routed by static diff analysis) + Cursor + Kimi sharing one dispatch vocabulary. [Case study →](https://joemattiello.dev/#impact)
-- **[Atari Jaguar 240p Test Suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)** — bare-metal m68k port of Artemio Urbina's 240p Test Suite. Built end-to-end with Claude Code + Copilot/Qodo as adversarial reviewers. **36 PRs in 10 days, ~84% AI co-authored.** [PR #27 (PAL pass)](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/27) · [smoke-test CI](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/blob/main/.github/workflows/build.yml)
-- **[drobo-driverkit](https://github.com/JoeMatt/drobo-driverkit)** — DriverKit driver and dashboard for the Drobo 8D Thunderbolt array on Apple silicon. No kext, SIP stays on. Protocol reverse-engineered from Drobo's original kext and Dashboard; reads verified, writes experimental. Built with Claude Code. [Site →](https://joemattiello.dev/drobo-driverkit/)
-- **[virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)** — maintainer; first open-source Atari Jaguar CD emulation. 28 merged PRs.
-- **AI tooling at Wayfair** — custom MCP servers, Claude skills/plugins, n8n workflows for the App Infrastructure team supporting 60+ mobile engineers
-
----
+</details>
 
 ### Open source highlights
 
@@ -75,7 +81,7 @@ I started writing iOS apps **before Apple released the SDK**, hacking together O
 
 ---
 
-### US Patents
+### US patents
 
 - [**US 8,224,766**](https://patents.google.com/patent/US8224766B2) — Comparing spatial-temporal trails in location analytics
 - [**US 8,620,624**](https://patents.google.com/patent/US8620624B2) — Event identification in sensor analytics
