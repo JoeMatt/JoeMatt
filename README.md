@@ -4,21 +4,55 @@
   NYC · <a href="https://joemattiello.dev/#experience">18+ years in mobile and enterprise POSIX/Unix systems</a> · <a href="#us-patents">3 US patents in ML/AI</a>
 </p>
 
-- **[Wayfair mobile infrastructure](https://joemattiello.dev/#impact)** · Built a video compression and caching pipeline with an estimated **$2M/year** in bandwidth savings.
-- **[Provenance EMU](https://github.com/Provenance-Emu/Provenance)** · I created this open-source multi-system emulator for Apple platforms. It’s on the [App Store](https://apps.apple.com/us/app/provenance-app/id1596862805) and has **6.4k GitHub stars**.
-- **[USBSmart](https://joemattiello.dev/usbsmart/)** · I built a read-only DriverKit driver that brings USB drive health to the macOS menu bar on Apple silicon. [Release and download](https://github.com/JoeMatt/usbsmart/releases/tag/v0.5.1).
-
-I created [iCube](https://icube-emu.com/) and [iFly](https://ifly-emu.com/). I maintain [Virtual Jaguar for RetroArch](https://github.com/libretro/virtualjaguar-libretro#credits-and-license).
-
 <p align="center">
   <strong><a href="mailto:mail@joemattiello.com">Hiring? Get in touch</a> · <a href="https://github.com/JoeMatt">Follow on GitHub</a></strong><br>
-  <a href="#currently-building">Projects</a> · <a href="https://joemattiello.dev/#impact">Case studies</a> · <a href="#open-source-highlights">Open source</a> · <a href="#press--recognition">Press</a> · <a href="https://www.linkedin.com/in/joemattiello/">LinkedIn</a> · <a href="https://joemattiello.dev/consulting/">Consulting</a>
+  <a href="#other-engineering-work">Systems projects</a> · <a href="https://joemattiello.dev/#impact">Case studies</a> · <a href="#open-source-highlights">Open source</a> · <a href="#press--recognition">Press</a> · <a href="https://www.linkedin.com/in/joemattiello/">LinkedIn</a> · <a href="https://joemattiello.dev/consulting/">Consulting</a>
 </p>
 
-<p align="center">
-  <a href="https://joemattiello.dev/usbsmart/"><img src="assets/usbsmart-macos-smart-drive-report.png" width="720" alt="USBSmart on macOS showing a saved Samsung SSD SMART report with drive health, temperature, power-on hours, and reallocated sectors"></a><br>
+## Emulators
+
+I created Provenance EMU, iFly, and iCube, and maintain the Virtual Jaguar libretro core.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://provenance-emu.com/"><img src="assets/provenance-sonic-advance-3.webp" width="360" alt="Sonic Advance 3 running in Provenance EMU next to its iPhone game library"></a><br>
+      <strong><a href="https://provenance-emu.com/">Provenance EMU</a></strong> · Sonic Advance 3<br>
+      <sub>Multi-system emulator for Apple platforms. <a href="https://apps.apple.com/us/app/provenance-app/id1596862805">App Store</a> · <a href="https://github.com/Provenance-Emu/Provenance">Source and 6.4k GitHub stars</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ifly-emu.com/#gameplay"><img src="assets/ifly-crazy-taxi-2.webp" width="360" alt="Crazy Taxi 2 Dreamcast gameplay with iFly's on-screen controls"></a><br>
+      <strong><a href="https://ifly-emu.com/">iFly</a></strong> · Crazy Taxi 2<br>
+      <sub>Dreamcast emulation. <a href="https://ifly-emu.com/#gameplay">Gameplay</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://icube-emu.com/#gameplay"><img src="assets/icube-super-smash-bros-melee.webp" width="360" alt="Super Smash Bros. Melee running in iCube with GameCube touch controls"></a><br>
+      <strong><a href="https://icube-emu.com/">iCube</a></strong> · Super Smash Bros. Melee<br>
+      <sub>GameCube and Wii emulation. <a href="https://icube-emu.com/#gameplay">Gameplay</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://jaguar.provenance-emu.com/app.html"><img src="assets/virtual-jaguar-blue-lightning.webp" width="360" alt="Blue Lightning running on Jaguar CD in the Virtual Jaguar desktop app"></a><br>
+      <strong><a href="https://jaguar.provenance-emu.com/app.html">Virtual Jaguar</a></strong> · Blue Lightning<br>
+      <sub>Atari Jaguar and Jaguar CD emulation. <a href="https://github.com/libretro/virtualjaguar-libretro#credits-and-license">Libretro core I maintain</a></sub>
+    </td>
+  </tr>
+</table>
+
+## Other engineering work
+
+- **[Drobo DriverKit](https://github.com/JoeMatt/drobo-driverkit)** · DriverKit driver and dashboard for the Drobo 8D Thunderbolt array on Apple silicon. Reads verified. Writes are experimental. [Project page](https://joemattiello.dev/drobo-driverkit/).
+- **[USBSmart](https://joemattiello.dev/usbsmart/)** · Read-only USB SATA drive health on Apple silicon, with a macOS menu bar monitor and [Prometheus metrics](https://github.com/JoeMatt/usbsmart/releases/tag/v0.5.1).
+- **[Wayfair mobile infrastructure](https://joemattiello.dev/#impact)** · Built a video compression and caching pipeline with an estimated **$2M/year** in bandwidth savings.
+
+<details>
+<summary>USBSmart screenshot</summary>
+<p>
+  <a href="https://joemattiello.dev/usbsmart/"><img src="assets/usbsmart-macos-smart-drive-report.png" width="720" alt="USBSmart on macOS showing drive health, temperature, power-on hours, and reallocated sectors for a Samsung SSD"></a><br>
   <sub><a href="https://github.com/JoeMatt/usbsmart/releases/tag/v0.5.1">USBSmart 0.5.1</a> displaying a saved hardware scan.</sub>
 </p>
+</details>
 
 ---
 
@@ -32,11 +66,9 @@ I started writing iOS apps [before Apple released the SDK](https://joemattiello.
 
 ### Currently building
 
-- **[USBSmart](https://joemattiello.dev/usbsmart/)** · Read-only USB SATA drive health on Apple silicon, with a macOS menu bar monitor and [Prometheus metrics](https://github.com/JoeMatt/usbsmart/releases/tag/v0.5.1).
 - **[Provenance](https://github.com/Provenance-Emu/Provenance)** — multi-system iOS/tvOS/macOS emulator, App Store launch Jan 2025, 6.4k GitHub stars, 79 contributors, 9.3k Discord members, 388k+ GitHub release downloads
 - **[Multi-agent CI orchestration](https://joemattiello.dev/ai/)** across the Provenance org — Claude (Sonnet+Opus auto-routed by static diff analysis) + Cursor + Kimi sharing one dispatch vocabulary. [Case study →](https://joemattiello.dev/#impact)
 - **[Atari Jaguar 240p Test Suite](https://github.com/JoeMatt/atari_jaguar_240p_test_suite)** — bare-metal m68k port of Artemio Urbina's 240p Test Suite. Built end-to-end with Claude Code + Copilot/Qodo as adversarial reviewers. **36 PRs in 10 days, ~84% AI co-authored.** [PR #27 (PAL pass)](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/pull/27) · [smoke-test CI](https://github.com/JoeMatt/atari_jaguar_240p_test_suite/blob/main/.github/workflows/build.yml)
-- **[drobo-driverkit](https://github.com/JoeMatt/drobo-driverkit)** — DriverKit driver and dashboard for the Drobo 8D Thunderbolt array on Apple silicon. No kext, SIP stays on. Protocol reverse-engineered from Drobo's original kext and Dashboard; reads verified, writes experimental. Built with Claude Code. [Site →](https://joemattiello.dev/drobo-driverkit/)
 - **[virtualjaguar-libretro](https://github.com/libretro/virtualjaguar-libretro)** — maintainer; first open-source Atari Jaguar CD emulation. 28 merged PRs.
 - **[AI tooling at Wayfair](https://joemattiello.dev/ai/)** — custom MCP servers, Claude skills/plugins, n8n workflows for the App Infrastructure team supporting 60+ mobile engineers
 
