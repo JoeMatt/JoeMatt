@@ -42,25 +42,24 @@ I created Provenance EMU, iFly, and iCube, and maintain the Virtual Jaguar libre
 
 ## Other engineering work
 
-- **[Drobo DriverKit](https://github.com/JoeMatt/drobo-driverkit)** · DriverKit driver and dashboard for the Drobo 8D Thunderbolt array on Apple silicon. Reads verified. Writes are experimental. [Project page](https://joemattiello.dev/drobo-driverkit/).
-- **[USBSmart](https://joemattiello.dev/usbsmart/)** · Read-only USB SATA drive health on Apple silicon, with a macOS menu bar monitor and [Prometheus metrics](https://github.com/JoeMatt/usbsmart/releases/tag/v0.5.1).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://raw.githubusercontent.com/JoeMatt/JoeMatt/master/assets/drobo-driverkit-dashboard.png"><img src="assets/drobo-driverkit-dashboard.png" width="320" alt="Drobo DriverKit dashboard showing capacity, protection, eight drive bays, volumes, and tools"></a><br>
+      <strong><a href="https://github.com/JoeMatt/drobo-driverkit">Drobo DriverKit</a></strong><br>
+      DriverKit driver and dashboard for the Drobo 8D Thunderbolt array on Apple silicon. Reads verified. Writes are experimental.<br>
+      <sub><a href="https://joemattiello.dev/drobo-driverkit/">Project page</a> · Dashboard shown with built-in demo data.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://raw.githubusercontent.com/JoeMatt/JoeMatt/master/assets/usbsmart-four-drive-smart-report.webp"><img src="assets/usbsmart-four-drive-smart-report.webp" width="320" alt="USBSmart showing four SATA drives and a detailed SMART report with temperature, power-on hours, and attribute values"></a><br>
+      <strong><a href="https://joemattiello.dev/usbsmart/">USBSmart</a></strong><br>
+      Read-only USB SATA drive health on Apple silicon, with a macOS menu bar monitor and <a href="https://github.com/JoeMatt/usbsmart/releases/tag/v0.5.1">Prometheus metrics</a>.<br>
+      <sub>USBSmart replaying a saved four-drive hardware scan.</sub>
+    </td>
+  </tr>
+</table>
+
 - **[Wayfair mobile infrastructure](https://joemattiello.dev/#impact)** · Built a video compression and caching pipeline with an estimated **$2M/year** in bandwidth savings.
-
-<details>
-<summary>Drobo DriverKit screenshot</summary>
-<p>
-  <a href="https://joemattiello.dev/drobo-driverkit/"><img src="assets/drobo-driverkit-dashboard.png" width="720" alt="Drobo DriverKit dashboard on macOS showing capacity, protection, eight drive bays, volumes, and tools"></a><br>
-  <sub>Drobo DriverKit dashboard with built-in demo data.</sub>
-</p>
-</details>
-
-<details>
-<summary>USBSmart screenshot</summary>
-<p>
-  <a href="https://joemattiello.dev/usbsmart/"><img src="assets/usbsmart-macos-smart-drive-report.png" width="720" alt="USBSmart on macOS showing drive health, temperature, power-on hours, and reallocated sectors for a Samsung SSD"></a><br>
-  <sub><a href="https://github.com/JoeMatt/usbsmart/releases/tag/v0.5.1">USBSmart 0.5.1</a> displaying a saved hardware scan.</sub>
-</p>
-</details>
 
 ---
 
