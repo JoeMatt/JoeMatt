@@ -90,7 +90,8 @@ I created Provenance EMU, iFly, and iCube, and maintain the Virtual Jaguar libre
     <td width="50%" valign="top">
       <a href="https://www.wired.com/2009/03/theres-gold-in/"><img src="assets/citysense-iphone.webp" height="240" alt="Citysense on iPhone showing a real-time San Francisco nightlife heat map"></a><br>
       <strong><a href="https://www.wired.com/2009/03/theres-gold-in/">Citysense</a></strong> · Sense Networks, 2008<br>
-      I built the iPhone app. It mapped how busy San Francisco neighborhoods were in real time.
+      I built the iPhone app. It mapped how busy San Francisco neighborhoods were in real time.<br>
+      The heat map appears in Michael R. Solomon’s <em>Consumer Behavior: Buying, Having, and Being</em> (9th ed., 2011). <a href="https://vcampbethel.blob.core.windows.net/public/Courses/OL_4340/Unit_3/read.pdf#page=100">See the textbook image, p. 403</a>.
     </td>
   </tr>
   <tr>
