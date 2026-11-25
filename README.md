@@ -61,6 +61,73 @@ I created Provenance EMU, iFly, and iCube, and maintain the Virtual Jaguar libre
 
 - **[Wayfair mobile infrastructure](https://joemattiello.dev/#impact)** · Built a video compression and caching pipeline with an estimated **$2M/year** in bandwidth savings.
 
+### Open source highlights
+
+| Repo | Stars | Role | What it is |
+|---|---|---|---|
+| [**Provenance-Emu/Provenance**](https://github.com/Provenance-Emu/Provenance) | ![](https://img.shields.io/github/stars/Provenance-Emu/Provenance?style=flat-square&label=&color=00e599) | Creator · Lead | iOS/tvOS/macOS multi-system emulator. App Store. |
+| [**HeroTransitions/Hero**](https://github.com/HeroTransitions/Hero) | ![](https://img.shields.io/github/stars/HeroTransitions/Hero?style=flat-square&label=&color=00e599) | Admin · Maintainer | Custom view-controller transitions for Swift. |
+| [**libretro/virtualjaguar-libretro**](https://github.com/libretro/virtualjaguar-libretro) | ![](https://img.shields.io/github/stars/libretro/virtualjaguar-libretro?style=flat-square&label=&color=00e599) | Maintainer | First OSS Atari Jaguar CD emulation. |
+| [**JoeMatt/atari_jaguar_240p_test_suite**](https://github.com/JoeMatt/atari_jaguar_240p_test_suite) | ![](https://img.shields.io/github/stars/JoeMatt/atari_jaguar_240p_test_suite?style=flat-square&label=&color=00e599) | Maintainer · AI-built | Bare-metal m68k Jaguar — built with Claude Code. |
+| [**RxSwiftCommunity/RxRealm**](https://github.com/RxSwiftCommunity/RxRealm) | ![](https://img.shields.io/github/stars/RxSwiftCommunity/RxRealm?style=flat-square&label=&color=00e599) | Maintainer | RxSwift bindings for Realm. |
+| [**RxSwiftCommunity/RxReachability**](https://github.com/RxSwiftCommunity/RxReachability) | ![](https://img.shields.io/github/stars/RxSwiftCommunity/RxReachability?style=flat-square&label=&color=00e599) | Maintainer | RxSwift bindings for network reachability. |
+| [**CoreOffice/XMLCoder**](https://github.com/CoreOffice/XMLCoder) | ![](https://img.shields.io/github/stars/CoreOffice/XMLCoder?style=flat-square&label=&color=00e599) | Major contributor | Codable XML parsing in Swift. |
+
+**Other notable contributions:** [RetroArch](https://github.com/libretro/RetroArch) (Apple platform drivers — camera, microphone, CoreMIDI, CoreLocation) · [SideStore](https://github.com/SideStore/SideStore) (org member, 21 merged PRs) · [swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) · [Mono / Xamarin](https://github.com/mono/mono) (CoreMIDI, CoreAudio, Foundation C# wrappers for MonoMac) · [GLideN64](https://github.com/gonetz/GLideN64) · [mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) · [UTM](https://github.com/utmapp/UTM) · [Flycast](https://github.com/flyinghead/flycast) · [GNUstep PBXBuild](https://github.com/gnustep/tools-pbxbuild)
+
+**More of my projects:** [PINCache.Swift](https://github.com/JoeMatt/PINCache.Swift) · [Beatport Pro to Traktor](https://github.com/JoeMatt/beatportproToTraktor) · [RetroArch shader compilation for Metal](https://github.com/JoeMatt/slang-shaders-metal)
+
+<details>
+<summary>Early iPhone projects and commercial apps</summary>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/cabsense-nyc/id364146012"><img src="assets/cabsense-nyc.webp" height="240" alt="An early CabSense NYC iPhone screenshot with a radar pointing toward taxi pickup corners"></a><br>
+      <strong><a href="https://apps.apple.com/us/app/cabsense-nyc/id364146012">CabSense NYC</a></strong> · Sense Networks, 2010<br>
+      I built the original iPhone app, which used historical taxi pickups to suggest where to hail a cab by time and day.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.wired.com/2009/03/theres-gold-in/"><img src="assets/citysense-iphone.webp" height="240" alt="Citysense on iPhone showing a real-time San Francisco nightlife heat map"></a><br>
+      <strong><a href="https://www.wired.com/2009/03/theres-gold-in/">Citysense</a></strong> · Sense Networks, 2008<br>
+      I built the iPhone app. It mapped how busy San Francisco neighborhoods were in real time.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://newscorp.com/2020/01/29/start-spreadin-the-knewz/"><img src="assets/knewz-newscorp.webp" height="240" alt="Archived Knewz App Store screenshot showing headlines grouped by story and publisher"></a><br>
+      <strong><a href="https://newscorp.com/2020/01/29/start-spreadin-the-knewz/">Knewz</a></strong> · News Corp, 2020<br>
+      I built and shipped the original iOS app from scratch. Knewz grouped headlines from different publishers so readers could compare coverage of the same story. <a href="https://appshunter.io/ios/app/knewz-current-us-news-feed/id1484853366">Archived App Store listing</a>.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JoeMatt/iphreak"><img src="assets/iphreak-launch-screen.webp" height="240" alt="Original iPhreak launch screen with the iPhreak wordmark"></a><br>
+      <strong><a href="https://github.com/JoeMatt/iphreak">iPhreak</a></strong> · My first iPhone project<br>
+      A native Objective-C project for jailbroken iPhones, written before Apple released the official SDK and originally published on Google Code.
+    </td>
+  </tr>
+</table>
+
+</details>
+
+### Max for Live and MIDI
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JoeMatt/Hawk800_Max4Live"><img src="assets/hawk-800-max-for-live.webp" width="340" alt="Hawk-800 Max for Live editor with Korg synthesizer controls and envelopes"></a><br>
+      <strong><a href="https://github.com/JoeMatt/Hawk800_Max4Live">Hawk-800 Editor</a></strong><br>
+      MIDI patch editor for Korg Poly-800 and EX-800 synths fitted with the Hawk-800 mod. <a href="https://maxforlive.com/library/device/3002/hawk-800-editor">Max for Live device</a>.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://raw.githubusercontent.com/JoeMatt/BassStationIIMaxForLive/master/Media/BS2Screenshot.png"><img src="assets/bass-station-ii-max-for-live.webp" width="340" alt="Bass Station II Max for Live panel details showing oscillator, envelope, modulation, and mixer controls"></a><br>
+      <strong><a href="https://github.com/JoeMatt/BassStationIIMaxForLive">Bass Station II Editor</a></strong><br>
+      I built the Ableton Live interface for the Novation Bass Station II on top of Justin Foster’s original Max patch. <a href="https://maxforlive.com/library/device/2453/bass-station-ii-editor">Max for Live device</a>.
+    </td>
+  </tr>
+</table>
+
+[More Max for Live patches](https://github.com/JoeMatt/Max4Live) · [Korg EX-800 controller](https://github.com/JoeMatt/Max4Live/tree/master/EX-800) · [MIDI Filter](https://github.com/JoeMatt/Max4Live/tree/master/MIDIFilter)
+
 ---
 
 ### About
@@ -81,8 +148,7 @@ I started writing iOS apps [before Apple released the SDK](https://joemattiello.
 
 ---
 
-<details>
-<summary>GitHub activity</summary>
+### GitHub activity
 
 <p align="center">
   <a href="https://github.com/JoeMatt">
@@ -93,21 +159,6 @@ I started writing iOS apps [before Apple released the SDK](https://joemattiello.
     />
   </a>
 </p>
-
-</details>
-
-### Open source highlights
-
-| Repo | Stars | Role | What it is |
-|---|---|---|---|
-| [**Provenance-Emu/Provenance**](https://github.com/Provenance-Emu/Provenance) | ![](https://img.shields.io/github/stars/Provenance-Emu/Provenance?style=flat-square&label=&color=00e599) | Creator · Lead | iOS/tvOS/macOS multi-system emulator. App Store. |
-| [**HeroTransitions/Hero**](https://github.com/HeroTransitions/Hero) | ![](https://img.shields.io/github/stars/HeroTransitions/Hero?style=flat-square&label=&color=00e599) | Admin · Maintainer | Custom view-controller transitions for Swift. |
-| [**libretro/virtualjaguar-libretro**](https://github.com/libretro/virtualjaguar-libretro) | ![](https://img.shields.io/github/stars/libretro/virtualjaguar-libretro?style=flat-square&label=&color=00e599) | Maintainer | First OSS Atari Jaguar CD emulation. |
-| [**JoeMatt/atari_jaguar_240p_test_suite**](https://github.com/JoeMatt/atari_jaguar_240p_test_suite) | ![](https://img.shields.io/github/stars/JoeMatt/atari_jaguar_240p_test_suite?style=flat-square&label=&color=00e599) | Maintainer · AI-built | Bare-metal m68k Jaguar — built with Claude Code. |
-| [**RxSwiftCommunity/RxRealm**](https://github.com/RxSwiftCommunity/RxRealm) | ![](https://img.shields.io/github/stars/RxSwiftCommunity/RxRealm?style=flat-square&label=&color=00e599) | Maintainer | RxSwift bindings for Realm. |
-| [**CoreOffice/XMLCoder**](https://github.com/CoreOffice/XMLCoder) | ![](https://img.shields.io/github/stars/CoreOffice/XMLCoder?style=flat-square&label=&color=00e599) | Major contributor | Codable XML parsing in Swift. |
-
-**Other notable contributions:** [RetroArch](https://github.com/libretro/RetroArch) (Apple platform drivers — camera, microphone, CoreMIDI, CoreLocation) · [SideStore](https://github.com/SideStore/SideStore) (org member, 21 merged PRs) · [swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) · [Mono / Xamarin](https://www.mono-project.com/) (CoreMIDI, CoreAudio, Foundation C# wrappers for MonoMac) · [GLideN64](https://github.com/gonetz/GLideN64) · [mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) · [UTM](https://github.com/utmapp/UTM)
 
 ---
 
