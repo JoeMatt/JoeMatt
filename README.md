@@ -75,7 +75,7 @@ I created Provenance EMU, iFly, and iCube, and maintain the Virtual Jaguar libre
 
 **Other notable contributions:** [RetroArch](https://github.com/libretro/RetroArch) (Apple platform drivers — camera, microphone, CoreMIDI, CoreLocation) · [SideStore](https://github.com/SideStore/SideStore) (org member, 21 merged PRs) · [swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) · [Mono / Xamarin](https://github.com/mono/mono) (CoreMIDI, CoreAudio, Foundation C# wrappers for MonoMac) · [GLideN64](https://github.com/gonetz/GLideN64) · [mupen64plus-core](https://github.com/mupen64plus/mupen64plus-core) · [UTM](https://github.com/utmapp/UTM) · [Flycast](https://github.com/flyinghead/flycast) · [GNUstep PBXBuild](https://github.com/gnustep/tools-pbxbuild)
 
-**More of my projects:** [PINCache.Swift](https://github.com/JoeMatt/PINCache.Swift) · [Beatport Pro to Traktor](https://github.com/JoeMatt/beatportproToTraktor) · [RetroArch shader compilation for Metal](https://github.com/JoeMatt/slang-shaders-metal)
+**More of my projects:** [PINCache.Swift](https://github.com/JoeMatt/PINCache.Swift) · [Beatport Pro to Traktor (Ruby)](https://github.com/JoeMatt/beatportproToTraktor) · [RetroArch shader compilation for Metal](https://github.com/JoeMatt/slang-shaders-metal)
 
 <details>
 <summary>Early iPhone projects and commercial apps</summary>
